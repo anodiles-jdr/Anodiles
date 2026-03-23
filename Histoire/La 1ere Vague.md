@@ -8,6 +8,6 @@ Les premières incursions orques datent également de cette période. Leur arriv
 
 Dans l’anneau d’îles, les dégâts furent si importants que la solidarité devint une question de survie. C’est de cette nécessité qu’émergèrent les premiers ordres pirates, dont les Requins et les Dauphins restent les héritiers les plus emblématiques.
 
-D’autres transformations majeures semblent liées à la Première Vague, mais les informations manquent. Les Empires nains et elfiques profitèrent du déclin de l’Herganat pour renforcer leur position, mais leurs archives sont lacunaires ou volontairement opaques.
+D'autres transformations majeures semblent liées à la Première Vague, mais les informations manquent. Les Empires nains et elfiques profitèrent du déclin de l’Herganat pour renforcer leur position, mais leurs archives sont lacunaires ou volontairement opaques.
 
 La Grande Vague a marqué durablement les consciences. Depuis, la stabilité est perçue comme une illusion fragile : les empires peuvent s’effondrer, les corps peuvent se déformer, et nul ne se sent totalement à l’abri. Pour certains, c’est la source de la radicalisation des Empires face aux renégats, mais aussi d’une forme de mélancolie diffuse qui imprègne encore la vie en Anodiles.
