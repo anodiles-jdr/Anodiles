@@ -12,7 +12,7 @@ Les océans sont avares, les terres ingrates. Un sac de blé coûte une bourse d
 * Le Mutualisme des clans Totémiques : Même les brigands des mers comprennent qu’un équipage affamé ne rame pas. Ils pillent, mais redistribuent.
 * Les Îles familiales : Loin des bourses d'échange, ces communautés vivent en autarcie, partageant les récoltes. La misère y est inconnue, tant que le sort ne s'acharne pas… mais gare à l’étranger qui voudrait s’installer.
 ## Ce qui rend Anodiles unique
-*   **Un Ciel Mécanique :** Le "soleil" artificiel, les nuits sans étoiles – un mystère qui pèse sur les consciences.
-*   **Des conflits humains :** Pas de hordes démoniaques, juste des hommes avides, idéalistes ou désespérés.
-*   **Une Révolution en marche :** La Pierre Verte et les Voyageurs pourraient tout bouleverser. De quel côté serez-vous ?
-*   **La Magie au quotidien :** Pas de sorts épiques, mais une lampe qui ne s’éteint jamais, une épée qui ne rouille pas…
+* **Un Ciel Mécanique :** Le "soleil" artificiel, les nuits sans étoiles – un mystère qui pèse sur les consciences.
+* **Des conflits humains :** Pas de hordes démoniaques, juste des hommes avides, idéalistes ou désespérés.
+* **Une Révolution en marche :** La Pierre Verte et les Voyageurs pourraient tout bouleverser. De quel côté serez-vous ?
+* **La Magie au quotidien :** Pas de sorts épiques, mais une lampe qui ne s’éteint jamais, une épée qui ne rouille pas…
