@@ -1,0 +1,5 @@
+Anodiles est d'inspiration Steam Punk teinté de Renaissance. Cela veut dire qu'il y a plus de technologie qu'à la Renaissance, mais que celle-ci reste rare, réservé à une élite ou bien sous contrôle étroit. Si l'on compare Anodiles au célèbre univers de D&D qu'est Eberron, alors on peut clairement dire qu'on est plusieurs ton en dessous. Eventuellement, une zone peu développer d'Eberron ressemble à une zone très développé d'Anodiles.
+
+Dans l'histoire d'Anodiles, il y a eu plusieurs moments importants. On peut citer [[La 1ere Vague]], [[La 2em Vague]], [[La Rébellion]], [[L'ascension de la République]] et [[L'âge du Choix]]. Chacune propose une thématique, post apo sombre, guerre froide, révolution, la fin des empires et high fantasy.
+
+Usuellement, j'encourage à jouer entre la 2em Vague et l'ascension de la République voire l'âge du Choix. Ces périodes s'étendent sur un plus ou moins 50 ans au total et permet donc de toucher un peu à tout en jouant un peu sur l'espérance de vie ou la chronologie.
