@@ -4,9 +4,9 @@ Les **Voyageurs** désignent un groupe d’humains apparus en Anodiles peu aprè
 
 Les Voyageurs ne représentent pas un peuple nombreux, mais leur influence dépasse largement leur effectif.
 
-## Origines supposées**
+## Origines supposées
 
-## **1.1. Le mystère du Noyau**
+### Le mystère du Noyau
 
 La plupart des récits des Voyageurs mentionnent un lieu nommé _le Noyau_, décrit comme un espace effondré, isolé, difficile à atteindre et encore plus difficile à quitter.  
 Aucun géographe, savant ou magicien n’a jamais pu confirmer son existence.
@@ -17,8 +17,7 @@ Leur accent, leurs coutumes, leurs outils et leur navire ont cependant convaincu
 - d’une zone oubliée du disque,
 - d’un autre niveau du monde,
 - ou d’un phénomène cosmique lié aux Grandes Vagues.
-
-## **1.2. Le Navire Unique**
+### Le Navire Unique
 
 Leur bâtiment, souvent appelé **le Navire de la Grande Traversée**, défie toutes les catégories connues :
 
@@ -29,11 +28,9 @@ Leur bâtiment, souvent appelé **le Navire de la Grande Traversée**, défie to
 
 Les Ingélieurs nains le qualifient de _machine impossible_, comparable à un artefact antique ou à un objet “venu d’un autre monde”.
 
----
+# Rôle historique
 
-# **2. Rôle historique**
-
-## **2.1. La Grande Traversée**
+## La Grande Traversée
 
 Les Voyageurs sont les auteurs de **La Grande Traversée**, expédition qui permit pour la première fois :
 
@@ -41,6 +38,7 @@ Les Voyageurs sont les auteurs de **La Grande Traversée**, expédition qui perm
 - de fédérer renégats, insurgés et réfugiés,
 - de naviguer entre des îles réputées impraticables,
 - de transmettre des informations cruciales entre les Empires et l’Anneau.
+- de faire venir à eux, un grande sorcière elfe de la maison noire, le plus grand des d
 
 Cette traversée est aujourd’hui considérée comme le premier pas vers la **libération de Providence**.
 
