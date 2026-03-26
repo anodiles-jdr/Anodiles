@@ -23,34 +23,29 @@ La **Deuxième Vague** a confirmé cette théorie en apportant un nouvel essaima
 
 La Pierre Verte est donc un **corps autonome**, cohérent, récurrent.
 
----
+## Propriétés physiques et énergétiques
 
-# **II. Propriétés physiques et énergétiques**
-
-### **1. Aspect**
+### Aspect
 
 - Opaque, lourde, dense comme du plomb.
 - Émet une **lueur verte vaporeuse** dans le noir.
 - Vibrations subtiles perceptibles à la main.
 
-### **2. Tempérament énergétique**
+### Tempérament énergétique
 
 La Pierre Verte est **chaude**, jamais brûlante, mais comme animée d’une puissance interne.
 
-Elle n’est ni magique, ni élémentaire :  
-➡️ c’est une **énergie exogène** qui interfère avec les systèmes naturels d’Anodiles.
+Elle n’est ni magique, ni élémentaire :  c’est une **énergie exogène** qui interfère avec les systèmes naturels d’Anodiles.
 
-### **3. Stabilité**
+### Stabilité
 
 Elle ne se désagrège pas, ne s’effrite pas, ne perd aucune luminosité avec le temps.
 
 Les démonistes disent qu’elle est “vivante”, mais aucune preuve ne l’atteste.
 
----
+## Interactions magico‑scientifiques
 
-# **III. Interactions magico‑scientifiques**
-
-### **1. Démonisation : l’effet le plus documenté**
+### Démonisation : l’effet le plus documenté
 
 La Pierre Verte induit des **mutations instables** chez les êtres vivants :
 
@@ -59,12 +54,11 @@ La Pierre Verte induit des **mutations instables** chez les êtres vivants :
 - distorsions internes,
 - naissance d’entités “démonescentes”.
 
-Ces “démons émergés” ne sont pas des esprits :  
-👉 ce sont des organismes transformés par la Pierre Verte, au niveau physique, énergétique et parfois comportemental.
+Ces “démons émergés” ne sont pas des esprits :  ce sont des organismes transformés par la Pierre Verte, au niveau physique, énergétique et parfois comportemental.
 
 Les humanoïdes, animaux et plantes peuvent être affectés.
 
-### **2. Réaction avec l’âme**
+### Réaction avec l’âme
 
 Les nécromanciens ont démontré que la Pierre Verte :
 
@@ -72,10 +66,9 @@ Les nécromanciens ont démontré que la Pierre Verte :
 - accélère la **dissolution de l’âme**,
 - peut “recomposer” une structure spirituelle différente.
 
-### **3. Effets sur les orques**
+### Effets sur les orques
 
-L’un des impacts les plus visibles :  
-👉 les orques ont connu une transformation d’espèce.
+L’un des impacts les plus visibles :  les orques ont connu une transformation d’espèce.
 
 Avant la Première Vague : quasi absents.  
 Après la Première Vague : apparitions massives.  
@@ -83,7 +76,7 @@ Après la Deuxième Vague : invasions presque saisonnières.
 
 Leur physiologie s’est adaptée à cette énergie au point d’en devenir **résonante**.
 
-### **4. Effets sur les démonistes**
+### Effets sur les démonistes
 
 La Pierre Verte :
 
@@ -93,11 +86,9 @@ La Pierre Verte :
 
 Sans elle, la **Démonocratie** n’aurait jamais pu atteindre sa puissance.
 
----
+## Impact historique et géopolitique
 
-# **IV. Impact historique et géopolitique**
-
-### **1. Fondation de la Démonocratie**
+### Fondation de la Démonocratie
 
 La reconstruction rapide de l’ancien Empire après la Première Vague s’explique en grande partie par l’abondance de Pierre Verte, facilitant :
 
@@ -106,7 +97,7 @@ La reconstruction rapide de l’ancien Empire après la Première Vague s’expl
 - la démonisation utilitariste,
 - le monopole rituel.
 
-### **2. Apparition des Adeptes de la Pierre Verte**
+### Apparition des Adeptes de la Pierre Verte
 
 Après la Deuxième Vague :
 
@@ -117,7 +108,7 @@ Après la Deuxième Vague :
 
 Ils forment un courant radical, à mi-chemin entre science et mysticisme, en opposition frontale avec l’Empire.
 
-### **3. Perception par les peuples**
+### Perception par les peuples
 
 Dans tout Anodiles :
 
@@ -130,7 +121,7 @@ Même les démonistes la craignent : elle donne, mais elle prend.
 
 ---
 
-# **V. La Pierre Verte dans le monde vivant**
+## La Pierre Verte dans le monde vivant
 
 ### **1. Mutations**
 
