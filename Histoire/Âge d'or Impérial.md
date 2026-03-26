@@ -1,1 +1,2 @@
-La première vague a laissé exsangue l'Empire. Bien que la reconstruction n'a pas tardé, les Nains et les Efles furent tellement dominant que l'Empire était éclipsé. Pourtant, alors que les terres étaient ravagées par la flétrissure, et que maintenant la pierre verte cont
+Alors que les terres étaient déjà ravagées par la flétrissure, elles étaient aussi, après la première vague, contaminée par la pierre verte.
+La première vague a laissé exsangue l'Empire. Bien que la reconstruction n'a pas tardé, les Nains et les Efles furent tellement dominant que l'Empire était éclipsé. A
