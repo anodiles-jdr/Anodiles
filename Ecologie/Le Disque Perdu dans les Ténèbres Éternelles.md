@@ -1,4 +1,4 @@
-## **Un Ciel qui Défie les Lois des Mondes Connus**
+## Un Ciel qui Défie les Lois des Mondes Connus
 
 Anodiles n’est pas une planète.  
 Elle n’orbite autour d’aucun soleil, ne connaît ni lune, ni étoiles, ni constellations rassurantes.  
@@ -37,7 +37,7 @@ Une obscurité **totale**, uniforme, sans horizon.
 Elle dure six heures, perçant les esprits et les cœurs. Les voyageurs étrangers parlent d’une nuit “épaisse”, comme si l’air lui-même devenait matière noire.
 
 Certains jurent que, dans ce silence, **le vide observe**.
-## **Un Mystère Cosmique**
+## Un Mystère Cosmique
 
 D’où vient cette lumière ?  
 Pourquoi ce cycle est-il d’une telle régularité, plus proche d’un calendrier mécanique que d’un phénomène céleste ?
@@ -54,7 +54,7 @@ Une lentille, un générateur, une structure encore active tombée dans l’atmo
 ### Le vide n’est pas du vide
 
 Les nuits sans étoiles ne seraient pas l’absence, mais la présence d’une autre chose — une obscurité réelle, tangible, qui engloutit la lumière.
-## **L’Atmosphère : une Mer d’Âmes et d’Élémentaires**
+## L’Atmosphère : une Mer d’Âmes et d’Élémentaires
 
 L’air d’Anodiles n’est pas neutre :  
 il est habité, traversé, façonné par les élémentaires invisibles.
@@ -72,6 +72,6 @@ La lumière du disque artificiel réagit avec ces forces.
 Les nuits totales aussi.
 
 Et beaucoup de sages pensent que c’est cette interaction — lumière artificielle + atmosphère élémentaire — qui a permis à Anodiles de survivre après les Grandes Vagues.
-## **Conclusion**
+## Conclusion
 
 Anodiles n’a pas de ciel.  Elle n’a qu’un **mécanisme céleste**, une lumière programmée, un noir absolu… et un vide qui semble attendre. Même les plus braves, face à cette nuit parfaite, sentent leur respiration ralentir. Parce qu’au-dessus du disque, il n’y a rien. Ou peut-être quelque chose. Quelque chose qui regarde.
