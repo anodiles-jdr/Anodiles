@@ -1,3 +1,7 @@
+---
+tags:
+  - Nécrocauste
+---
 Pour comprendre ce qu’est un trieur, il faut d’abord comprendre ce dont l’Empire a besoin : **une armée colossale et renouvelée**, capable de défendre ses frontières et de servir les grandes familles.  
 Chaque nécrocauste n’est pas une tragédie — du moins, pas pour nous. C’est **une opportunité logistique** : l’occasion de constituer un bataillon complet pour une dynastie majeure.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Nécrocauste
+---
 Je sais très bien ce que l’Herganat raconte au sujet du nécrocauste. Ils ont leurs chroniques — des dizaines, écrites par des scribes dont certains vivent encore huit cents ans après l’annexion. Avec des archives pareilles, on pourrait croire que leur version est incontestable. Comment la mémoire d’un homme, transmise par quelques générations seulement, pourrait-elle rivaliser avec ça ?
 
 Nous, les premiers humains d’Herganat, nous n’avions rien de tout cela. Pas de livres, pas de registres, pas de scribes immortels pour fixer nos voix. Seulement des chants, des danses, des récits chuchotés autour d’un feu. Et tout cela… tout cela a presque disparu.  

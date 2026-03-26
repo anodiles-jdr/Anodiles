@@ -1,3 +1,7 @@
+---
+tags:
+  - Nécrocauste
+---
 ## 1) Terminologie, cadre, intentions
 
 Le terme employé par les génocidaires est **nécroCOSTe** — un mot‑valise cynique qui assume la logique de **coût** et de **rendement** ; il traduit la prétention d’un “pilotage” rationnel des vies, des corps et des morts au service de l’Empire. Les résistants et l’Historiographie ont retenu **nécrocauste**, insistant sur la nature **sacrificielle et exterminatrice** du système.
