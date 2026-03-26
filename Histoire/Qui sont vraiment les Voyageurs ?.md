@@ -1,4 +1,8 @@
-## **Définition générale**
+---
+tags:
+  - Histoire
+---
+## Définition générale
 
 Les **Voyageurs** désignent un groupe d’humains apparus en Anodiles peu après la 2em grande vague, porteurs d’une culture étrangère, d’un accent singulier et de savoirs sans équivalent. Ils affirment venir du **Noyau**, une région mythique inaccessible située au cœur du disque — affirmation longtemps considérée comme une fable jusqu’à ce qu’ils prouvent, par leurs actions et leurs prouesses techniques, qu’ils ne sont pas de simples conteurs.
 
@@ -87,7 +91,7 @@ Ils sont à Anodiles ce que les équipages d’astronefs seraient dans un autre 
 
 ---
 
-# **4. Résolution 1 : le Tabou**
+# Résolution 1 : le Tabou
 
 Les premières rencontres avec les Voyageurs font parfois mention d’une règle étrange : la **Résolution 1**.
 
@@ -113,11 +117,9 @@ Pour les Anodiliens, la Résolution 1 est un mythe moderne, un équivalent :
 
 Les plus érudits y voient l’équivalent d’une **Directive Première** : une règle protectrice destinée à limiter l’influence d’un peuple sur un autre.
 
----
+# Le Schisme : Les Adeptes de la Pierre
 
-# **5. Le Schisme : Les Adeptes de la Pierre**
-
-## **5.1. Une rupture idéologique**
+## Une rupture idéologique
 
 Les **Adeptes de la Pierre Verte** sont des dissidents des Voyageurs.  
 Lorsqu’il s’est agi d’intervenir dans l’histoire d’Anodiles, ils ont refusé :
@@ -128,7 +130,7 @@ Lorsqu’il s’est agi d’intervenir dans l’histoire d’Anodiles, ils ont r
 
 Ils ont choisi l’étude, l’isolement et l’obsession.
 
-## **5.2. Leur position dans le monde**
+## Leur position dans le monde
 
 - Ni ennemis,
 - Ni alliés,
@@ -137,7 +139,7 @@ Ils ont choisi l’étude, l’isolement et l’obsession.
 
 Ils sont simplement **occupés** à comprendre la Pierre Verte, au point que leur neutralité semble parfois indifférenciée de la cruauté.
 
-## **5.3. Leur réputation**
+## Leur réputation
 
 Ils sont perçus comme :
 
@@ -150,9 +152,7 @@ Mais ce n’est pas de la malveillance : c’est une forme d’**asociabilité s
 
 Dans la culture populaire, ils jouent le rôle des **savants perdus**, des **explorateurs d’un savoir interdit**, à la manière des chercheurs obsessionnels de certains récits de science‑fantasy.
 
----
-
-# **6. Les Voyageurs aujourd’hui**
+# Les Voyageurs aujourd’hui
 
 Les Voyageurs sont rares, discrets, mais omniprésents dans l’imaginaire collectif :
 
@@ -163,12 +163,8 @@ Les Voyageurs sont rares, discrets, mais omniprésents dans l’imaginaire colle
 
 Ils naviguent, négocient, observent… et parfois agissent, toujours avec prudence.
 
-Leur héritage le plus durable n’est pas technologique, ni militaire, ni mystique :  
-👉 **c’est l’idée que le monde peut changer**.
-
----
-
-# **Conclusion**
+Leur héritage le plus durable n’est pas technologique, ni militaire, ni mystique :  **c’est l’idée que le monde peut changer**.
+# Conclusion
 
 Les Voyageurs sont un mystère vivant au cœur d’Anodiles.
 
