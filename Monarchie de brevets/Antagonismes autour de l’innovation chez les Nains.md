@@ -1,3 +1,8 @@
+---
+tags:
+  - Monarchie
+  - Elementaires
+---
 Au sein de la Monarchie naine, l’innovation est à la fois un moteur de prestige et un risque politique majeur.  
 Le système des **brevets**, contrôlé par les grandes familles et surveillé jalousement par la dynastie royale, structure la société entière :
 

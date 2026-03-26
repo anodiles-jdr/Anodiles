@@ -1,3 +1,8 @@
+---
+tags:
+  - Histoire
+  - Alliance
+---
 ## **Préambule**
 
 L’âge d’or des Elfes survient tardivement dans l’histoire d’Anodiles, et surtout de manière brusque. Avant cette période, la colorisation — cette aptitude magique si emblématique du peuple elfique — est presque inexistante. Tous les cent vingt ans, un ou deux individus présentent des capacités modestes, très loin de ce que l’on observe aujourd’hui. Rien, dans la structure sociale ou culturelle de l’époque, ne laisse présager la transformation radicale à venir.

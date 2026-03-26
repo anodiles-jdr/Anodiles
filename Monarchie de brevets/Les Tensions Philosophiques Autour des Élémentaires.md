@@ -1,3 +1,8 @@
+---
+tags:
+  - Monarchie
+  - Elementaires
+---
 ### _Débat intellectuel, fractures culturelles et avenir technologique de la Monarchie naine_
 
 Depuis la fondation de la Monarchie de Bargenta, les élémentaires occupent une place centrale dans la société naine : moteurs des sous-marins, cœur des machines, source d’énergie inégalée… et objets de débats idéologiques profonds.  

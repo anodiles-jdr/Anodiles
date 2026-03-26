@@ -1,6 +1,8 @@
 ---
 tags:
   - Nécrocauste
+  - Histoire
+  - Empire
 ---
 ## 1) Terminologie, cadre, intentions
 

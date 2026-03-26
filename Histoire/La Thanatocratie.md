@@ -1,3 +1,8 @@
+---
+tags:
+  - Empire
+  - Histoire
+---
 ### **Déclenchement**
 
 Comme souvent, les âges d’or naissent de ruptures scientifiques ou culturelles. Pour l’Herganat, tout commence lorsque ses érudits comprennent que l’âme, après la mort, se dissout progressivement dans l’air. Il est difficile d’identifier un lieu d’origine : la nécromancie semble avoir émergé simultanément en plusieurs régions, probablement sous l’effet de découvertes parallèles. Les premiers rituels donnaient naissance aux mort-vivants les plus simples — zombies et squelettes — car, comme toute discipline, la nécromancie s’est construite étape par étape. Les secrets permettant la création de liches ne furent découverts qu’après près de deux siècles d’expérimentations. La fondation de la première archi-liche marque l’aboutissement de ces recherches et le début de la Thanatocratie, point de départ du calendrier commun.

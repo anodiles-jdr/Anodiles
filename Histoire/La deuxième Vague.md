@@ -1,3 +1,8 @@
+---
+tags:
+  - Histoire
+  - Evènement
+---
 La Deuxième Vague survient environ mille ans après la première, et son origine présente des ressemblances frappantes : un phénomène céleste, un impact, puis un choc planétaire. Cette fois, cependant, les témoignages évoquent une longue traînée de feu traversant le ciel avant l’impact. Le point de chute, bien plus proche du noyau du monde, est attesté par plusieurs sources indépendantes. Lorsque la déflagration se produit, elle est bien plus violente que ce que les légendes de la Première Vague laissaient supposer, surprenant jusqu’aux habitants les plus avertis.
 
 La vague qui se propage ravage une large partie de l’anneau d’îles, tandis que les îles impériales sont relativement épargnées. Comme lors du précédent cataclysme, des pierres vertes apparaissent en grande quantité. Des démonistes sont dépêchés aux quatre coins de l’anneau afin de décontaminer les terres touchées. Plusieurs navires nécromanciens sillonnent les eaux pour récupérer les morts, un geste plus préventif que politique : la vague ayant eu lieu trop récemment, aucune transformation utile ne peut être envisagée, et leur intervention relève davantage d’une gestion du risque que d’un appétit territorial.

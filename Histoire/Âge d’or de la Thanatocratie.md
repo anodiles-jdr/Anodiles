@@ -1,3 +1,8 @@
+---
+tags:
+  - Empire
+  - Histoire
+---
 ## **Déclenchement**
 
 Les âges d’or naissent rarement d’une illumination soudaine : ils émergent de découvertes lentes, diffuses, qui finissent par s’additionner. Dans l’Herganat, tout commence lorsque plusieurs érudits — sans se connaître, et en l’espace de quelques années — identifient le phénomène de **dissolution de l’âme dans l’air**.  

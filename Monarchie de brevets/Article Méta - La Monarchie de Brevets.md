@@ -1,3 +1,7 @@
+---
+tags:
+  - Monarchie
+---
 ### _Entre féodalisme technique, luttes de clans et héritages pop culture_
 
 La Monarchie de Bargenta est l’un des systèmes politiques les plus originaux d’Anodiles : un royaume où le pouvoir ne se transmet pas seulement par le sang, mais aussi par la **possession de brevets technologiques** — certificats de propriété intellectuelle qui garantissent prestige, contrôle et influence.

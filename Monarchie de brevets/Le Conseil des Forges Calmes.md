@@ -1,3 +1,7 @@
+---
+tags:
+  - Monarchie
+---
 La grande salle de Bargenta vibrait d’un grondement sourd, comme si la montagne elle‑même retenait son souffle. Sur les murs, les fresques anciennes représentaient les premiers ingélieurs domptant le feu élémentaire. Au centre, la **Table des Sceaux**, un anneau de pierre polie, rassemblait les représentants des quatre grandes écoles de pensée de la Monarchie.
 
 Le roi **Durnik III**, manteau de roche et couronne d’étain sombre, scrutait la salle d’un regard dont nul n’aurait osé soutenir la fixité. À ses côtés, les scribes royaux attendaient, plumes levées, prêts à consigner chaque mot.

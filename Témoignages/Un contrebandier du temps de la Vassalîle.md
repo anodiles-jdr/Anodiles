@@ -1,3 +1,7 @@
+---
+tags:
+  - Témoignage
+---
 Je fais partie du Clan de la Mouette, ceux qui dominent les vents du Ventemers. Pendant près de dix ans, ma route m’a mené, rotation après rotation, jusqu’à la Vassalîle. Par chance — ou par caprice du destin — je n’ai jamais eu à y mettre pied pendant un nécrocauste. Lorsque l’île atteignait son apogée, elle s’élevait bien au‑dessus de l’anneau, hors d’atteinte de nos navires. Mais même ainsi, j’ai suffisamment vu pour comprendre l’horreur qui y régnait.
 
 _Officiellement_, ma tâche se limitait à livrer du courrier, des colis, et parfois quelques effets destinés aux dignitaires et expatriés de l’Empire. Rien de bien remarquable.  

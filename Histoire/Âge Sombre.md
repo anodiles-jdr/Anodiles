@@ -1,3 +1,7 @@
+---
+tags:
+  - Histoire
+---
 Pendant près de deux millénaires, Anodiles traverse une période où les fragments issus des quatre méga‑îles se déplacent, se percutent et se recomposent sans stabilité. Le monde n’est encore qu’une mosaïque mouvante, cherchant son équilibre après la dislocation originelle. Peu à peu, l’action des forces élémentaires stabilise certains ensembles : l’anneau d’îles apparaît en premier, puis les vortex rassemblent des fragments de même provenance pour former les futures îles‑continents. Ce n’est qu’alors que les traits fondamentaux des anciennes terres-mères commencent à se manifester pleinement.
 
 Dans ce processus, les vestiges culturels disparaissent presque entièrement. Les fragments issus de la méga‑île elfique conservent une faible résonance magique, imperceptible au profane mais essentielle pour les elfes, qui finissent naturellement par migrer vers les îles‑continents où cette magie diffuse redevient tangible. Les terres naines montrent une sobriété minérale marquée, les terres orques valorisent l’espace brut et la rudesse du terrain : autant de signes faibles qui se renforcent lorsqu’un fragment rejoint un ensemble plus vaste issu de la même méga‑île. Ces affinités géographiques entraînent un mouvement lent mais généralisé vers les îles‑continents où les peuples retrouvent un environnement proche de celui qu’ils avaient perdu.

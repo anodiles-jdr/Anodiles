@@ -1,3 +1,7 @@
+---
+tags:
+  - Témoignage
+---
 J’ai été ordonné vert docteur il y a cinquante‑cinq ans. Voilà bientôt cinq ans que je me suis retiré sur cette petite île familiale. J’aurais pu retourner au pays, bien sûr… mais après la révolution de la Vassalîle, les terres qui m’ont vu naître sont désormais interdites aux gens comme moi.  
 Je ne blâme personne. Loin de l’Empire, j’ai fini par adopter certaines idées qui ne viennent certainement pas de ma culture d’origine. Peut‑être que je n’y aurais plus ma place, même si on m’y laissait entrer.
 

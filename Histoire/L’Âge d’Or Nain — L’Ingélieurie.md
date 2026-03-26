@@ -1,3 +1,8 @@
+---
+tags:
+  - Histoire
+  - Monarchie
+---
 ## **Déclenchement**
 
 Pour la plupart des historiens, l’entrée des Nains dans leur âge d’or coïncide avec l’établissement des principes fondateurs de l’ingélieurie, cette discipline qui marie maîtrise élémentaire et ingénierie mécanique. Ce qui demeure débattu, en revanche, est la période exacte de cette découverte. L’Empire nain affirme qu’elle lui est antérieure à la Grande Vague, pointant des archives et des brevets soigneusement conservés. Pourtant, les progrès fulgurants observés juste après la catastrophe laissent planer le doute. Quelle que soit la chronologie réelle, un fait s’impose : à un moment où la Thanatocratie vacille et où les sociétés elfiques, fragilisées par la perte de leurs terres-mères, peinent à retrouver leurs marques, les Nains deviennent les seuls capables d’imposer une nouvelle forme de domination technique.

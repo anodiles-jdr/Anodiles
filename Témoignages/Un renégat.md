@@ -1,3 +1,7 @@
+---
+tags:
+  - Témoignage
+---
 Ma famille s’est installée dans l’anneau il y a environ quatre‑vingts ans. Mes parents portaient la couleur verte, et leur rêve — presque naïf, mais profondément sincère — était d’apporter un peu de magie écologique aux petites îles elfiques isolées de l’anneau. Ce rêve les a poussés à s’exiler, loin des grandes cités de leur peuple.  
 Je suis né là‑bas, sur une minuscule île elfique splendide, vivrière, généreuse, où l’on aurait pu croire que la magie coulait encore dans la terre.
 

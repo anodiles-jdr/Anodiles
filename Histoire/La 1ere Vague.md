@@ -1,3 +1,8 @@
+---
+tags:
+  - Histoire
+  - Evènement
+---
 La Première Vague remonte à plus d’un millénaire. La tradition rapporte qu’un fragment du ciel s’écrasa près des côtes de l’Empire, provoquant un choc tel que la mer se souleva et qu’une vague colossale parcourut l’ensemble d’Anodiles. Les dommages furent immenses et leurs effets durables.
 
 À cette époque, l’Empire nécromancien était à son apogée. Pourtant, l’île qui formait son cœur subit des ravages considérables. Dans la région la plus touchée, les survivants durent apprendre à vivre au milieu d’un nouvel environnement : poussières et pierres vertes recouvraient les terres, compliquant toute tentative de reconstruction. Les démons apparaissaient spontanément dans les êtres vivants, transformant une ancienne zone agricole — jusque-là dépourvue de morts-vivants — en un territoire où l’horreur s’invitait au quotidien.
