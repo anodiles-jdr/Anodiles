@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"7e1505f62974e1b1","x":280,"y":-40,"width":400,"height":50,"type":"file","file":"Notes/Histoire/La deuxième Vague.md"},
+		{"id":"614941f54c033c76","x":-40,"y":120,"width":400,"height":50,"type":"file","file":"Notes/Histoire/La Révolution.md"},
+		{"id":"154e325abff6a3b7","type":"file","file":"Notes/Histoire/Âge d’or de la Thanatocratie.md","x":-40,"y":-920,"width":400,"height":50},
+		{"id":"a957640e036bae3c","x":280,"y":-760,"width":400,"height":50,"type":"file","file":"Notes/Histoire/La première Vague.md"},
+		{"id":"7b65b0e00bea9a11","x":920,"y":-372,"width":400,"height":85,"type":"file","file":"Notes/Histoire/L’Âge d’Or Elfe — La Colorisation.md"},
+		{"id":"8342ab3b187b42be","x":600,"y":-177,"width":400,"height":50,"type":"file","file":"Notes/Histoire/Âge d'or Impérial.md"},
+		{"id":"d3618d20c18455a6","x":600,"y":-600,"width":400,"height":97,"type":"file","file":"Notes/Histoire/L’Âge d’Or Nain — L’Ingélieurie.md"},
+		{"id":"8c42ac92060dd443","type":"file","file":"Notes/Histoire/Âge Sombre.md","x":-340,"y":-1080,"width":400,"height":50}
+	],
+	"edges":[
+		{"id":"0b5d44f9ddec7b63","fromNode":"7b65b0e00bea9a11","fromSide":"bottom","toNode":"8342ab3b187b42be","toSide":"right"},
+		{"id":"4d9e29c70cdc65b8","fromNode":"8342ab3b187b42be","fromSide":"bottom","toNode":"7e1505f62974e1b1","toSide":"right"},
+		{"id":"d2de942f6d3f84ae","fromNode":"7e1505f62974e1b1","fromSide":"bottom","toNode":"614941f54c033c76","toSide":"right"},
+		{"id":"6918bc7dfd778b14","fromNode":"154e325abff6a3b7","fromSide":"bottom","toNode":"a957640e036bae3c","toSide":"left"},
+		{"id":"c7e3c9d8d358bee2","fromNode":"8c42ac92060dd443","fromSide":"bottom","toNode":"154e325abff6a3b7","toSide":"left"},
+		{"id":"bdb2bcf89d0c391b","fromNode":"d3618d20c18455a6","fromSide":"right","toNode":"7b65b0e00bea9a11","toSide":"top"},
+		{"id":"6f236a5bfb13763f","fromNode":"a957640e036bae3c","fromSide":"bottom","toNode":"d3618d20c18455a6","toSide":"left"}
+	]
+}
