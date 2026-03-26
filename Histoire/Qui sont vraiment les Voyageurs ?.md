@@ -38,11 +38,11 @@ Les Voyageurs sont les auteurs de **La Grande Traversée**, expédition qui perm
 - de fédérer renégats, insurgés et réfugiés,
 - de naviguer entre des îles réputées impraticables,
 - de transmettre des informations cruciales entre les Empires et l’Anneau.
-- de faire venir à eux, un grande sorcière elfe de la maison noire, le plus grand des d
+- de faire venir à eux, un grande sorcière elfe de la maison noire, le plus grand des dresseurs de dvats avec des femelles pleines et un ingélieur propriétaire et créateurs de nombreux brevets.
 
 Cette traversée est aujourd’hui considérée comme le premier pas vers la **libération de Providence**.
 
-## **2.2. Libération de Providence**
+## Libération de Providence
 
 Le capitaine des Voyageurs fut l’un des architectes politiques de la Révolution de Providence.  
 Il parvint à :
@@ -54,13 +54,11 @@ Il parvint à :
 
 C’est l’une des premières fois qu’une île a pu s’émanciper durablement sans sombrer dans le chaos.
 
----
-
-# **3. Influence culturelle**
+# Influence culturelle
 
 Les Voyageurs diffusent peu leur culture… mais assez pour transformer Anodiles.
 
-### **3.1. Idées nouvelles**
+### Idées nouvelles
 
 Leur conception de :
 
@@ -71,12 +69,12 @@ Leur conception de :
 
 a inspiré les réformes de Providence et plusieurs mouvements naissants.
 
-### **3.2. Fascination populaire**
+### Fascination populaire
 
 Un marché d’artefacts, de reliques et de “colifichets voyageurs” fleurit dans les îles.  
 Vrais ou faux, ces objets servent de symboles d’indépendance ou de résistance face aux Empires.
 
-### **3.3. Influence pop-culture dans l’univers**
+### Influence pop-culture dans l’univers
 
 Les Voyageurs représentent, pour les habitants d’Anodiles :
 
