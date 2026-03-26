@@ -1,6 +1,7 @@
 ---
 tags:
   - Nécrocauste
+  - Témoignage
 ---
 Je suis née âme livrée, et je suis devenue âme libre. Sans la révolution et sans les Voyageurs, je n’aurais jamais pu accomplir cette transition — ni vivre assez longtemps pour en voir les fruits. Aujourd’hui, sur Providence, je suis responsable de la conscription. C’est un rôle fondamental : sans une armée solide, disciplinée et unifiée, notre île‑patrie ne serait qu’un territoire de plus offert en pâture aux puissances alentours.
 

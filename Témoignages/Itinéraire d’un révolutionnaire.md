@@ -1,6 +1,7 @@
 ---
 tags:
   - Nécrocauste
+  - Témoignage
 ---
 La parcelle où je vivais n’était pas concernée par ce qui deviendrait le dernier nécrocauste. Nous étions en marge, oubliés, et c’est précisément cet oubli qui m’a transformé.  
 J’avais passé ma vie entière comme un homme soumis, convaincu que la docilité était la seule forme de survie possible. Pourtant, au cours de cette rotation précédant la révolution, quelque chose en moi s’est fissuré.

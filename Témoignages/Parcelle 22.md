@@ -1,6 +1,7 @@
 ---
 tags:
   - Nécrocauste
+  - Témoignage
 ---
 L’hiver arrive. Le soleil traverse encore la fenêtre, m’offrant une tiédeur apaisante. Je suis là, immobile, et je suis heureux.  
 Les indigènes disent : « dans la vie, il y a trois plaisirs : boire, manger, dormir ».  

@@ -1,6 +1,7 @@
 ---
 tags:
   - Nécrocauste
+  - Témoignage
 ---
 Je sais très bien ce que l’Herganat raconte au sujet du nécrocauste. Ils ont leurs chroniques — des dizaines, écrites par des scribes dont certains vivent encore huit cents ans après l’annexion. Avec des archives pareilles, on pourrait croire que leur version est incontestable. Comment la mémoire d’un homme, transmise par quelques générations seulement, pourrait-elle rivaliser avec ça ?
 
