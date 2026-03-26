@@ -45,8 +45,6 @@ Le nécrocauste s’appuie sur trois leviers :
     > « Nous n’avions qu’une tradition orale… La vie avant l’Empire n’est connue qu’à travers le **filtre des chroniqueurs vampires**. » — _Jean Pinterre_
     
 3. **La langue** : la propagande popularise **nécroCOSTe** (coût, rendement, vertus “sanitaires”), quand les résistants imposent **nécrocauste** dans l’usage historique. _Échos : euphémisation bureaucratique — “solution finale”, “réinstallation”, “mesures de sécurité”_.
-    
-
 ## Témoignages (extraits)
 
 ### Propagande d’État
@@ -70,10 +68,7 @@ _Échos : cérémonial administratif des sélections, tri par lignage, naturalis
 > « **Vert docteur** ordonné il y a 55 ans. Toute cette verte extraite a servi l’Empire, je ne l’ignore pas. Mais sans nous, la verte engendre des démons et la mort. Nous avons **sauvé davantage** que nous n’avons pris. » — _Roland De Ténébréïte_
 
 _Échos : médecins dans les systèmes autoritaires, tension entre soin, prévention et complicité ; débats éthiques post‑conflits._
-
----
-
-## 6) Économie de la mort : profit, rituels, logistique
+## Économie de la mort : profit, rituels, logistique
 
 Le nécrocauste est aussi une **économie** :
 
@@ -84,19 +79,13 @@ Le nécrocauste est aussi une **économie** :
 - **appareils “sanitaires”** légitimants (Verts docteurs).
 
 _Échos : privatisation des profits, externalités mortifères, collusion entre État, corps techniques et clientèles — _Einsatzgruppen_ + industriels, “extraction” coloniale, trafic et résistances._
-
----
-
-## 7) Pourquoi c’est “possible” : de la folie humaine à la normalité
+## Pourquoi c’est “possible” : de la folie humaine à la normalité
 
 L’horreur n’est pas née de la nécromancie. Elle naît d’un **projet politique** qui **déshumanise**, réduit l’autre à une variable d’ajustement et **trouve dans la nécromancie un outil** pour aller au bout de sa logique. La magie ne “dégénère” pas les humains : **elle outille leur volonté de puissance**.  
 _Échos : “ingénierie sociale” totalitaire, industrialisation de la mort, glissement de l’exceptionnel vers l’ordinaire._
 
 Le système dure **plus de huit siècles** parce qu’il s’annexe des routines : cadences, quotas, cérémoniels, promotions, exemptions, récompenses — **la banalité de l’horreur**. _Échos : longévité des appareils répressifs, inertie des administrations, carrières au sein de l’État._
-
----
-
-## 8) Mémoire, justice, dénégation
+## Mémoire, justice, dénégation
 
 Après les révoltes et la “libération” de certains territoires, la **mémoire** reste disputée :
 
@@ -105,10 +94,7 @@ Après les révoltes et la “libération” de certains territoires, la **mémo
 - les témoins vieillissent, meurent, ou sont… archivés par d’autres.
 
 _Échos : négationnisme, archives partielles, politiques de mémoire, musées de la Shoah et mémoriaux des génocides, controverses publiques post‑coloniales._
-
----
-
-## 9) Conclusion : ce que le nécrocauste dit d’Anodiles (et de nous)
+## Conclusion : ce que le nécrocauste dit d’Anodiles (et de nous)
 
 Le nécrocauste n’est pas un dérapage de la magie ; c’est **la preuve que l’organisation froide des hommes** peut faire de l’extermination un **outil** — rentable, “propre”, planifiable.  
 Dans Anodiles, il dénonce, par la fiction, **la mécanique des génocides** : économie, administration, vocabulaire, gestes — jusqu’à la croyance que **l’ordre** vaut **justice**.
@@ -117,9 +103,6 @@ Dans Anodiles, il dénonce, par la fiction, **la mécanique des génocides** : �
 > Aujourd’hui, nous sommes des ours, et les loups se tiennent à l’écart. » — _Joan Amelibre, Providence_
 
 La responsabilité de la mémoire est double : **refuser le mot “nécroCOSTe”**, et **nommer nécrocauste** ce qui fut — pour que la langue ne devienne pas, elle aussi, un instrument d’oubli.
-
----
-
 ### Annexes – pistes d’atelier/MJ (optionnel)
 
 - **Fil rouge de campagne** : enquêter sur une promotion truquée ; saboter un convoi “sanitaire” ; exfiltrer des registres du Maître‑trieur ; juger un Vert docteur repenti.
