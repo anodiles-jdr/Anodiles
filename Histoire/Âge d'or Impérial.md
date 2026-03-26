@@ -1,17 +1,30 @@
-Alors que les terres étaient déjà ravagées par la flétrissure, elles étaient aussi, après la première vague, contaminée par la pierre verte, l'Empire était exsangue. Les dominations Naines et Elfiques sur Anodiles ont fait oublié l'Empire. Recroquevillé, il pansait ses blessures et tentait de se réinventer avec ses nouvelles conditions matérielle.
+Lorsque la Première Vague se déchaîna sur Anodiles, l’Herganat fut brisé de deux manières à la fois : ses terres déjà abîmées par la flétrissure furent souillées par la Pierre Verte, et son peuple, privé de sa base matérielle comme de sa force rituelle, vacilla au bord de l’effondrement. Tandis que les Nains et les Elfes imposaient leurs âges d’or respectifs, l’ancien Empire sombra dans une longue période d’ombre.  
+On le crut mort.  
+Il ne l’était que replié.
 
-La ligne de crête de la montagne au centre de l’île établit une sorte de frontière naturelle entre ces deux nations. Initialement, la nécrocratie occupait toute l’île, mais à ce jour, la nécrocratie occupe l’ouest de l’île et donc naturellement la démonocratie occupe l’ouest.  
+Dans les années qui suivirent le cataclysme, l’Herganat se réorganisa dans un silence âpre. Les lignages nécromantiques pansèrent leurs pertes, tandis que le peuple survivant apprenait à vivre sur un sol blessé et sur une île profondément changée. La grande ligne de crête qui traverse l’île devint peu à peu la frontière invisible d’une fracture politique nouvelle : à l’ouest, se maintint ce qu’on appela bientôt la **Nécrocratie**, héritière directe de la Thanatocratie d’autrefois ; à l’est, sous l’effet de circonstances plus brutales, naquit la **Démonocratie**, un pouvoir jeune, instable, mais résolu.
 
-La découverte des rituels démoniaques fonde la démonocratie et divise sur le plan politique l’île d'Herganat. Ces derniers ont été découverts peu après le grand cataclysme, il y a de cela près de milles ans, qui plongea l’île dans une misère sans précédent. C’est donc durant cette période de reconstruction que l’île se divisa. La nécrocratie avait subit une telle perte en ressource démographique que son développement était freiné. Il lui fallait en effet attendre que sa pyramide des morts se rétablisse ce qui prit près de deux cents ans. C’est là que les rituels démonistes prirent le pas sur la nécrocratie sur la partie la plus affectée. Il fallait en effet pour la partie est de l’île trouver des ressources non pas chez les morts, mais chez les vivants. L’incorporation des démons se trouvait donc être la solution. Cette différence de stratégie pour un but commun est l’un des premiers piliers de la maxime en guise de titre à ce chapitre.  
+Cette séparation ne fut ni idéologique ni philosophique : elle fut d’abord pragmatique.  
+Privée de sa “pyramide des morts”, la Nécrocratie dut attendre près de deux siècles pour reconstituer la matière humaine nécessaire à son art. L’est, lui, n’avait pas ce luxe : il lui fallait des forces immédiatement disponibles. C’est dans cette urgence que furent découverts les premiers rituels démoniaques — des pratiques neuves, dangereuses, mais fonctionnelles.  
+Là où l’ouest travaillait avec les morts, l’est choisit les vivants.  
+Deux réponses à une même question : comment survivre lorsque le monde exige la reconstruction immédiate ?
 
-Cette période de reconstruction fut très dure pour l’Herganat. L'alliance des maisons elfique et la monarchie de brevets naine en profitèrent pour mener des assauts réguliers sur l’île, avant que cet empire rival ne puisse renaître de ses cendres. Fort heureusement, une diplomatie adaptée et la haine de ces deux races permit de limiter les dégâts. 
+Cette période de renouveau fut cependant l’une des plus périlleuses de l’histoire herganienne. La Monarchie naine des brevets et les grandes Maisons elfiques virent dans l’affaiblissement de l’île l’occasion de régler des comptes anciens. Elles lancèrent des expéditions régulières contre Herganat, espérant qu’il ne puisse jamais se relever. Un fragile équilibre diplomatique, nourri plus encore par la haine mutuelle entre Nains et Elfes que par un véritable génie politique, permit d’éviter le pire — mais les ravages furent nombreux.
 
-Néanmoins, les raids orcs ne pouvaient plus être contrés aussi facilement qu’avant et de nombreux villages côtiers furent rayés de la carte. Quand l’Herganat remporta ses premières victoires depuis le cataclysme, un très fort sentiment d’union nationale enflamma l’Empire. Pendant plus de cent ans, il avait combattu côte à côte et enfin la victoire était à leur portée. Ce désir de victoire, de puissance est le point de départ de l’empire d’Herganat. La devise suivante est portée par les porte-drapeaux des armées de l’empire : unis contre tous.  
+Les raids orques, eux, ne s’interrompirent pas. Privé de ses défenses traditionnelles, Herganat vit plusieurs de ses villages côtiers disparaître, avalés par des vagues de pillards dont la virulence nouvelle était elle aussi un legs de la Pierre Verte.  
+Et pourtant, dans ce chaos, l’Empire commença à gagner.  
+Une victoire, puis une autre, puis une troisième.  
+En l’espace de quelques décennies, un sentiment d’unité naquit. Pendant plus d’un siècle, Nécrocrates et Démonistes combattirent côte à côte.  
+La devise, scandée par les porte-drapeaux de l’armée impériale, en résume l’esprit :  
+**« Unis contre tous. »**
 
-Fort de cette alliance, une relation symbiotique s’établit. Les corps ratés des démons furent expédiés dans la nécrocratie, les démons réussis étant vendus au plus offrant aux nécromanciens les plus fortunés. De son côté, la nécrocratie envoya ses esclaves destinés aux travaux de forces. Ce cycle pourrait se résumer de la façon suivante : les morts à l’ouest, les vivants à l’est.  
+De cette union improbable naquit une véritable symbiose politique. Les corps instables issus des rituels démoniaques étaient envoyés à l’ouest, où les nécromanciens en faisaient usage selon leurs propres besoins. Les démons stabilisés étaient, eux, vendus au prix fort aux lignages nécrocratiques. En échange, la Nécrocratie fournissait à l’est des esclaves destinés aux travaux lourds et aux cérémonies les plus exigeantes.  
+C’est de cette dynamique que naquit l’expression :  
+**« Les morts à l’ouest, les vivants à l’est. »**
 
-Rapidement, l’empire atteint un sommet démographique, soit près de trois cents ans après le cataclysme. C'est à ce moment là, que l'Empire décida de mettre en esclavage l’île jumelle, celle que l’on nomme de nos jours l’île de la République et d'établir le nécrocauste. 
+Trois siècles après le cataclysme, Herganat atteignit un sommet démographique inégalé. C’est à ce moment que l’Empire jugea le temps venu d’asservir totalement son île jumelle — celle que l’on nomme aujourd’hui l’Île de la République. Vassalisée depuis longtemps, elle fut transformée en une machine agricole et humaine, dirigée par un monarque‑marionnette, lié par le sang aux lignages impériaux.  
+De cette domination naquit le **nécrocauste**, mécanisme destiné à alimenter le double pouvoir nécrocratique et démonocratique.
 
-Elle avait toujours était vassalisée, mais il fallait passer à la vitesse supérieure. La petite noblesse locale fut éradiquée pour mettre en place un monarque unique asservi aux volontés de l’Herganat grâce à des liens de sang. Le but, réalisé rapidement, était de faire de l’île une usine à chair et à maïs. Désormais, l’empire pouvait se constituer de véritables hordes de morts vivants et faire des expériences de démonologie afin d’en parfaire la maîtrise.
-
-Il était redevenu incontestable.
+Alors seulement, après des siècles d’épreuves, l’Empire redevint incontournable.  
+Non pas comme la Thanatocratie d’autrefois, mais comme une force nouvelle, reconstruite sur les cendres d’un cataclysme ancien.  
+Un Empire qui avait appris à faire de la ruine un fondement, et de la division une force.
