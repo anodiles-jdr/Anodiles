@@ -12,9 +12,6 @@ Les premiers mort‑vivants créés sont rudimentaires, presque expérimentaux :
 Sa naissance marque l’unification politique du territoire et le début du **calendrier commun**.
 
 La Thanatocratie n’est donc pas née d’un acte unique, mais d’un **mouvement intellectuel**, un moment où l’Herganat a compris qu’il pouvait façonner l’âme comme il façonnait la pierre.
-
----
-
 ## **Affirmation**
 
 Avec l’apparition des premiers mort‑vivants, l’Herganat découvre un avantage décisif : une **main‑d’œuvre infatigable**, insensible, parfaitement loyale. Très vite, les élites nécromantiques se posent une question simple : à quoi bon maintenir serfs et esclaves en vie, lorsque des corps animés assurent le même travail, sans revendications ni risques de révolte ?
@@ -40,9 +37,6 @@ Certains utilisent leur science pour :
 
 Ces pratiques sont minoritaires, parfois mal vues, mais elles existent.  
 Le pouvoir nécromant est multiforme, comme peut l’être tout système social.
-
----
-
 ## **Fin**
 
 L’Empire semble indestructible.  
@@ -56,23 +50,20 @@ L’Empire, privé brusquement d’une partie de ses piliers surnaturels, **s’
 
 Ce n’est pas une révolte qui détruit la Thanatocratie, mais un **désastre cosmique** qui révèle sa fragilité :  
 un système rigide, dépendant d’un équilibre précis, incapable de se réinventer.
-
----
-
 ## **Apports**
 
 Aussi violent qu’il fut, l’âge d’or de la Thanatocratie a laissé des traces profondes dans Anodiles.
 
-### **1. Une diaspora humaine massive**
+### Une diaspora humaine massive
 
 La zombification et les politiques impériales entraînent la fuite de milliers de serfs et d’esclaves vers l’anneau.  
 Les vagues migratoires multiples expliquent en partie la **prégnance démographique humaine** aujourd’hui.
 
-### **2. Une langue commune**
+### Une langue commune
 
 Le bas herganien, langue simple et consolidée par des siècles de centralisation nécromantique, devient la base du **parler commun d’Anodiles**.
 
-### **3. Une science de l’âme**
+### Une science de l’âme
 
 Les nécromanciens laissent un héritage conceptuel majeur :
 
@@ -84,15 +75,11 @@ Les nécromanciens laissent un héritage conceptuel majeur :
 Ce regard, froid et sans illusions, marque encore la philosophie d’Anodiles :  
 La mort n’est pas un passage, mais une rupture.
 
-### **4. Une technologie politique unique**
+### Une technologie politique unique
 
 La Thanatocratie légitime un principe : **le pouvoir du sang**.  
 Plus un lignage est ancien et puissant, plus la nécromancie qu’il exerce est stable, précise et efficace.  
 Cette idéologie se diffuse dans tout Anodiles, même dans des cultures qui rejettent l’Herganat.
-
----
-
 # **Conclusion**
 
-L’âge d’or de la Thanatocratie n’est pas seulement une période de domination nécromantique.  
-C’est un moment charnière où la science, la féodalité, la magie de l’âme et l’obsession du contrôle total se cristallisent pour former un empire cohérent, puissant… et condamné par sa propre rigidité.
+L’âge d’or de la Thanatocratie n’est pas seulement une période de domination nécromantique.  C’est un moment charnière où la science, la féodalité, la magie de l’âme et l’obsession du contrôle total se cristallisent pour former un empire cohérent, puissant… et condamné par sa propre rigidité.
