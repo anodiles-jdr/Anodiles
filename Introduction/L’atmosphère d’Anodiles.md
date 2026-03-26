@@ -1,4 +1,4 @@
-## **Magie
+## Magie
 ***utile, mais pas toute‑puissante***
 
 Anodiles baigne dans une magie diffuse, présente dans l’air autant que dans les objets, mais jamais toute‑puissante.  
@@ -10,7 +10,7 @@ Les elfes, seuls à disposer d’un don naturel, ne peuvent ignorer qu’une par
 
 ---
 
-## **Steampunk **
+## Steampunk
 ***Élémentaire & Cyberpunk Social***
 ### **L’Âge de Vapeur des Nains**
 
@@ -27,7 +27,7 @@ Dans un monde où l’atmosphère elle‑même transmet des forces, leurs complo
 
 ---
 
-## **Un monde sans dieux ni démons
+## Un monde sans dieux ni démons
 ***mais pas sans espoir***
 L’atmosphère d’Anodiles n’abrite aucun dieu, aucun esprit conscient : seulement les traces des forces anciennes, naturelles ou exogènes, qui façonnèrent les îles.  
 Les seuls “démons” sont ceux que les hommes produisent — parfois littéralement lorsque la Pierre Verte altère les corps, parfois symboliquement lorsque la soif de pouvoir altère les âmes.
@@ -41,7 +41,7 @@ L’âge d’or est devant, pas derrière.
 
 ---
 
-## **La Faim
+## La Faim
 
 L’atmosphère d’Anodiles joue un rôle dans les pluies capricieuses, les brouillards de sel et les orages imprévisibles qui rendent la terre peu fertile.  
 Les océans, soumis eux aussi aux mouvements élémentaires, sont avares.
@@ -57,7 +57,7 @@ Mais gare aux étrangers : ces équilibres atmosphériques fragiles tiennent par
 
 ---
 
-## **Ce qui rend Anodiles unique**
+## Ce qui rend Anodiles unique**
 
 - **Un Ciel Mécanique :**  
     Un “soleil” artificiel, des nuits sans étoiles, et une atmosphère traversée de flux anciens.  
