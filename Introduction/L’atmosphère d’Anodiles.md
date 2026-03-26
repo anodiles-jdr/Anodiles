@@ -1,3 +1,7 @@
+---
+tags:
+  - Introduction
+---
 ## Magie
 
 ***Utile, mais pas toute‑puissante***
