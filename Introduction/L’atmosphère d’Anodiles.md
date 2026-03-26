@@ -1,4 +1,5 @@
-## **Une magie utile, mais pas toute‑puissante**
+## **Magie
+***utile, mais pas toute‑puissante***
 
 Anodiles baigne dans une magie diffuse, présente dans l’air autant que dans les objets, mais jamais toute‑puissante.  
 Elle ne nourrit pas les foules, ne transporte pas les armées en un clin d’œil, et ne résout aucun conflit par un claquement de doigts.  
@@ -9,15 +10,16 @@ Les elfes, seuls à disposer d’un don naturel, ne peuvent ignorer qu’une par
 
 ---
 
-## **Steampunk Élémentaire & Cyberpunk Social**
-
+## **Steampunk **
+***Élémentaire & Cyberpunk Social***
 ### **L’Âge de Vapeur des Nains**
 
 Leur technologie n’est pas mûe par la vapeur, mais par la **pression élémentaire** présente dans l’air d’Anodiles.  
 L’atmosphère agit comme un réseau naturel, où les élémentaires Feu et Air dérivent, s’incarnent, se fixent dans les machines.  
 Les chaudrons palpitants de feu vivant, les hélices animées par des souffles liés : tout cela n’est possible que parce que l’air d’Anodiles est **chargé, stratifié, habité**.
 
-### **La Menace Cyberpunk (Sociale, non technologique)**
+### **La Menace Cyberpunk**
+***(Sociale, non technologique)***
 
 Ici, pas d’implants, mais l’opacité des guildes.  
 Les Voyageurs — qui lisent l’atmosphère comme une carte mouvante — et les Adeptes de la Pierre Verte — sensibles aux perturbations énergétiques dans l’air — manipulent les empires et observent les variations des flux comme d’autres lisent un livre.  
@@ -25,8 +27,8 @@ Dans un monde où l’atmosphère elle‑même transmet des forces, leurs complo
 
 ---
 
-## **Un monde sans dieux ni démons, mais pas sans espoir**
-
+## **Un monde sans dieux ni démons
+***mais pas sans espoir***
 L’atmosphère d’Anodiles n’abrite aucun dieu, aucun esprit conscient : seulement les traces des forces anciennes, naturelles ou exogènes, qui façonnèrent les îles.  
 Les seuls “démons” sont ceux que les hommes produisent — parfois littéralement lorsque la Pierre Verte altère les corps, parfois symboliquement lorsque la soif de pouvoir altère les âmes.
 
@@ -39,7 +41,7 @@ L’âge d’or est devant, pas derrière.
 
 ---
 
-## **La Faim, Ombre des Puissants**
+## **La Faim
 
 L’atmosphère d’Anodiles joue un rôle dans les pluies capricieuses, les brouillards de sel et les orages imprévisibles qui rendent la terre peu fertile.  
 Les océans, soumis eux aussi aux mouvements élémentaires, sont avares.
