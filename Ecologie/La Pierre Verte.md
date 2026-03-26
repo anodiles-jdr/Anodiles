@@ -22,7 +22,6 @@ La **Deuxième Vague** a confirmé cette théorie en apportant un nouvel essaima
 ⟶ effets comparables.
 
 La Pierre Verte est donc un **corps autonome**, cohérent, récurrent.
-
 ## Propriétés physiques et énergétiques
 
 ### Aspect
@@ -30,19 +29,16 @@ La Pierre Verte est donc un **corps autonome**, cohérent, récurrent.
 - Opaque, lourde, dense comme du plomb.
 - Émet une **lueur verte vaporeuse** dans le noir.
 - Vibrations subtiles perceptibles à la main.
-
 ### Tempérament énergétique
 
 La Pierre Verte est **chaude**, jamais brûlante, mais comme animée d’une puissance interne.
 
 Elle n’est ni magique, ni élémentaire :  c’est une **énergie exogène** qui interfère avec les systèmes naturels d’Anodiles.
-
 ### Stabilité
 
 Elle ne se désagrège pas, ne s’effrite pas, ne perd aucune luminosité avec le temps.
 
 Les démonistes disent qu’elle est “vivante”, mais aucune preuve ne l’atteste.
-
 ## Interactions magico‑scientifiques
 
 ### Démonisation : l’effet le plus documenté
@@ -57,7 +53,6 @@ La Pierre Verte induit des **mutations instables** chez les êtres vivants :
 Ces “démons émergés” ne sont pas des esprits :  ce sont des organismes transformés par la Pierre Verte, au niveau physique, énergétique et parfois comportemental.
 
 Les humanoïdes, animaux et plantes peuvent être affectés.
-
 ### Réaction avec l’âme
 
 Les nécromanciens ont démontré que la Pierre Verte :
@@ -65,7 +60,6 @@ Les nécromanciens ont démontré que la Pierre Verte :
 - interfère avec la **cohésion âme-corps**,
 - accélère la **dissolution de l’âme**,
 - peut “recomposer” une structure spirituelle différente.
-
 ### Effets sur les orques
 
 L’un des impacts les plus visibles :  les orques ont connu une transformation d’espèce.
@@ -75,7 +69,6 @@ Après la Première Vague : apparitions massives.
 Après la Deuxième Vague : invasions presque saisonnières.
 
 Leur physiologie s’est adaptée à cette énergie au point d’en devenir **résonante**.
-
 ### Effets sur les démonistes
 
 La Pierre Verte :
@@ -85,7 +78,6 @@ La Pierre Verte :
 - permet des manipulations énergétiques impossibles autrement.
 
 Sans elle, la **Démonocratie** n’aurait jamais pu atteindre sa puissance.
-
 ## Impact historique et géopolitique
 
 ### Fondation de la Démonocratie
@@ -96,7 +88,6 @@ La reconstruction rapide de l’ancien Empire après la Première Vague s’expl
 - la création de démons et contre-démons contrôlés,
 - la démonisation utilitariste,
 - le monopole rituel.
-
 ### Apparition des Adeptes de la Pierre Verte
 
 Après la Deuxième Vague :
@@ -107,7 +98,6 @@ Après la Deuxième Vague :
 - tous humains, sans xénophobie notable.
 
 Ils forment un courant radical, à mi-chemin entre science et mysticisme, en opposition frontale avec l’Empire.
-
 ### Perception par les peuples
 
 Dans tout Anodiles :
@@ -118,12 +108,9 @@ Dans tout Anodiles :
 
 Aucune communauté ne la célèbre.  
 Même les démonistes la craignent : elle donne, mais elle prend.
-
----
-
 ## La Pierre Verte dans le monde vivant
 
-### **1. Mutations**
+### Mutations
 
 Toujours imprévisibles, parfois utiles :
 
@@ -133,8 +120,7 @@ Toujours imprévisibles, parfois utiles :
 - facultés sensorielles.
 
 …mais souvent catastrophiques.
-
-### **2. Ecosystèmes**
+### Ecosystèmes
 
 La Pierre Verte perturbe :
 
@@ -144,34 +130,27 @@ La Pierre Verte perturbe :
 - phénomènes naturels.
 
 Les zones touchées ressemblent à des **écosystèmes étrangers**, comme si un morceau d’un autre monde s’était greffé.
-
----
-
-# **VI. Encyclopédie pratique : pour les aventuriers**
+## Encyclopédie pratique : pour les aventuriers
 
 Pour des aventuriers, la Pierre Verte est :
-
-## **Un danger**
+## Un danger
 
 - mutants agressifs,
 - maladies vertes,
 - zones instables,
 - traces énergétiques imprévisibles.
-
-## **Une ressource**
+## Une ressource
 
 - vendue aux démonistes,
 - utilisée dans certaines machines,
 - composant de rituels puissants,
 - catalyseur de soins accélérés.
-
-## **Une opportunité sociale**
+## Une opportunité sociale
 
 - alliances possibles avec les Adeptes,
 - négociations lucratives avec les démonistes,
 - interventions auprès des Verts Docteurs.
-
-## **Une nuisance constante**
+## Une nuisance constante
 
 Il y a _toujours_ :
 
@@ -179,8 +158,6 @@ Il y a _toujours_ :
 - une bête touchée,
 - une affliction étrange,
 - un fanatique de la Pierre Verte dans les parages.
-
----
 
 # **VII. Conclusion**
 
