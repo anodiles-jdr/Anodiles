@@ -3,16 +3,10 @@ tags:
   - Ecologie
   - PierreVerte
 ---
-### _Analyse cosmologique, magico‑scientifique et encyclopédique_
-
 La Pierre Verte est l’une des substances les plus mystérieuses et les plus influentes d’Anodiles. Elle se situe au croisement de la cosmologie, de l’alchimie, de la démonologie et des transformations biologiques. Son apparition lors des Grandes Vagues a laissé une empreinte indélébile sur la géographie, les peuples, les écosystèmes… et l’histoire entière du monde.
+## Origine cosmologique : une matière exogène
 
----
-
-# **I. Origine cosmologique : une matière exogène**
-
-Les études les plus sérieuses convergent vers une hypothèse majeure :  
-👉 **la Pierre Verte n’est pas native d’Anodiles**.
+Les études les plus sérieuses convergent vers une hypothèse majeure :  **la Pierre Verte n’est pas native d’Anodiles**.
 
 Son arrivée coïncide avec la **Première Vague**, un impact céleste d’origine inconnue. Plusieurs signes concordent :
 
