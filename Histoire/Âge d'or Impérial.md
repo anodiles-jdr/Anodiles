@@ -1,1 +1,1 @@
-La première vague a laissé exsangue l'Empire. Bien que sa reconstu
+La première vague a laissé exsangue l'Empire. Bien que la reconstruction n'a pas tardé, les Nains et les Efles furent tellement dominant que l'Empire était éclipsé. Pourtant, 
