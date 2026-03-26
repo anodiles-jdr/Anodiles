@@ -1,5 +1,8 @@
-# **La Flétrissure et l’Économie Mortifère de l’Empire**
-
+---
+tags:
+  - Empire
+  - Thanatocratie
+---
 L’Empire doit sa puissance — et ses longues périodes de domination — à deux formes de magie particulières : la nécromancie et la démonologie. Mais cet usage intensif de forces aussi singulières s’accompagne d’un contrecoup majeur, que les érudits ont nommé **la flétrissure**.
 ## **La Flétrissure : un désastre écologique continu**
 
