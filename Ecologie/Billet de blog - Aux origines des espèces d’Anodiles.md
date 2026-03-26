@@ -1,3 +1,8 @@
+---
+tags:
+  - Témoignage
+  - Ecologie
+---
 Depuis plusieurs années, une question obsédante traverse mes recherches : **les espèces d’Anodiles sont‑elles vraiment nées ici ?**  
 Plus j’avance, plus la réponse semble s’éloigner de l’idée d’un berceau unique. Les différences biologiques profondes entre les espèces dominantes dépassent ce que l’évolution locale pourrait produire. Sur un même monde, soumis à la même mécanique céleste et aux mêmes forces élémentaires, de telles divergences indiquent autre chose : **des lignées issues d’origines séparées, presque hermétiques entre elles.**
 

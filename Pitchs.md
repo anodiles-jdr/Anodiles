@@ -1,3 +1,7 @@
+---
+tags:
+  - Introduction
+---
 # ⭐ **Pitch en 1 phrase**
 
 Anodiles est un monde fracturé où des îles orbitent dans une atmosphère vivante, animé par des élémentaires invisibles, secoué par la Pierre Verte tombée du ciel, et traversé par des peuples qui tentent de bâtir leur avenir entre magie limitée, technologies élémentaires audacieuses, ambitions politiques et héritages oubliés.
