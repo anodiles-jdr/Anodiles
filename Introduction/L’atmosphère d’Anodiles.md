@@ -12,7 +12,7 @@ Les sorts éclairent les ruelles, renforcent les murailles ou attisent les fourn
 Les elfes, seuls à disposer d’un don naturel, ne peuvent ignorer qu’une partie de leur puissance dépend aussi de ces courants invisibles qui traversent l’atmosphère d’Anodiles.
 
 ## Steampunk
-{h2,feature}
+
 ***Élémentaire & Cyberpunk Social***
 
 ### **L’âge de vapeur des nains**
@@ -32,7 +32,7 @@ Les Voyageurs — qui lisent l’atmosphère comme une carte mouvante — et les
 Dans un monde où l’atmosphère elle‑même transmet des forces, leurs complots pourraient précipiter Anodiles vers une révolution… ou une renaissance.
 
 ## Un monde sans dieux ni démons
-{h2,feature}
+
 ***Mais pas sans espoir***
 
 L’atmosphère d’Anodiles n’abrite aucun dieu, aucun esprit conscient : seulement les traces des forces anciennes, naturelles ou exogènes, qui façonnèrent les îles. 
