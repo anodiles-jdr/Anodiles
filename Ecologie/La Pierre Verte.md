@@ -159,7 +159,7 @@ Il y a _toujours_ :
 - une affliction étrange,
 - un fanatique de la Pierre Verte dans les parages.
 
-# **VII. Conclusion**
+#  Conclusion
 
 La Pierre Verte est un **catalyseur cosmique**, une intrusion d’ailleurs qui :
 
@@ -173,7 +173,4 @@ La Pierre Verte est un **catalyseur cosmique**, une intrusion d’ailleurs qui :
 - attire l’avidité,
 - et terrifie les populations.
 
-Elle est l’un des moteurs centraux de l’histoire d’Anodiles :  
-ni bienveillante, ni maligne,  
-mais **étrangère**,  
-et profondément **incompréhensible**.
+Elle est l’un des moteurs centraux de l’histoire d’Anodiles :  ni bienveillante, ni maligne,  mais **étrangère**,  et profondément **incompréhensible**.
