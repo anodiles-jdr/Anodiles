@@ -1,6 +1,7 @@
 ---
 tags:
   - Histoire
+  - Faction
 ---
 ## Définition générale
 

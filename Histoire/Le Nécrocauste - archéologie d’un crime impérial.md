@@ -4,30 +4,23 @@ tags:
   - Histoire
   - Empire
 ---
-## 1) Terminologie, cadre, intentions
+## Terminologie, cadre, intentions
 
 Le terme employé par les génocidaires est **nécroCOSTe** — un mot‑valise cynique qui assume la logique de **coût** et de **rendement** ; il traduit la prétention d’un “pilotage” rationnel des vies, des corps et des morts au service de l’Empire. Les résistants et l’Historiographie ont retenu **nécrocauste**, insistant sur la nature **sacrificielle et exterminatrice** du système.
 
 Le nécrocauste naît au cœur de l’Herganat et s’institutionnalise à l’échelle impériale. Il **articule colonisation, mise au travail forcé, tri biologique et production militaire**. Sa raison d’être n’est pas la magie ; **la nécromantie n’est qu’un instrument utilitariste de domination**, le moyen le plus “efficace” d’exploiter jusqu’au bout la matière humaine (corps vivants, corps morts, “matières” rituelles) — _logiques qui rappellent l’industrialisation de la mort et la “rationalité” bureaucratique analysées par Hannah Arendt et la mise à mort à échelle industrielle_ (_Shoah_, _banalité du mal_).
 
 > « Le nécrocauste n’était pas une fin, ni un châtiment. C’était une **méthode**. La seule qui restait. » — _Conte de la Tourbe Rouge_ (propagande impériale)
-
----
-
-## 2) Chronologie courte (repères)
+## Chronologie courte (repères)
 
 - **Fondations idéologiques** : doctrine d’“ordre” contre “anarchie” de la Vassalîle ; colonisation, comptoirs, puis durcissement (incendies des récoltes, ruptures contractuelles). _Échos réels : administration coloniale, “pacifications”, camps de regroupement de l’ère impériale_ (_guerres herero‑nama_, _camps de concentration britanniques en Afrique du Sud_).
-    
+
 - **Institutionnalisation** : bascule du **comptoir** vers la **mise au pas** : éclatement des villes, contrôle des populations, _mesures natalistes_, organisation cyclique des rafles — **nécrocauste**. _Échos : politiques de villagisation/“regroupement”, eugénisme d’État, fichage/recensement_.
-    
+
 - **Âge long** : depuis **+800 ans**, le système se réplique par cycles, au rythme des besoins militaires des grandes familles et des aléas politiques (Thanatocratie, démonocratie, dominations régionales). La **Deuxième Vague** n’abolit pas le système mais en perturbe momentanément la logistique.
-    
+
 - **Ruptures** : l’essor des **Verts docteurs** qui prétendent “décontaminer” (tout en alimentant l’appareil impérial), la montée des **révoltes** (Vassalîle, Républicains de Providence, clans de l’anneau) et la **réécriture propagandiste** par les chroniqueurs vampires. _Échos : rivalités entre services d’État, médecine instrumentalisée (tri, expérimentations), négationnisme d’archives_.
-    
-
----
-
-## 3) La mécanique : tri, affectation, production
+## La mécanique : tri, affectation, production
 
 Le cœur du dispositif est le **triage** — une ingénierie sociale et corporelle qui transforme des populations en **flux** : combattants morts‑vivants, chefs goules, nécrophages, sacrifiés, “réserves” de démons.
 
@@ -41,9 +34,7 @@ Ce tri est suivi d’une **fabrication** : goules, nécrophages, mutants zombies
 
 _Échos réels : sélections sur rampe, “extermination par le travail”, eugénisme social, tableaux d’effectifs/mortalité — pratiques attestées dans les systèmes concentrationnaires du XXe siècle._
 
----
-
-## 4) Gouverner par la faim, l’archive et la langue
+## Gouverner par la faim, l’archive et la langue
 
 Le nécrocauste s’appuie sur trois leviers :
 
@@ -56,17 +47,15 @@ Le nécrocauste s’appuie sur trois leviers :
 3. **La langue** : la propagande popularise **nécroCOSTe** (coût, rendement, vertus “sanitaires”), quand les résistants imposent **nécrocauste** dans l’usage historique. _Échos : euphémisation bureaucratique — “solution finale”, “réinstallation”, “mesures de sécurité”_.
     
 
----
+## Témoignages (extraits)
 
-## 5) Témoignages (extraits)
-
-**5.1. Propagande d’État**
+### Propagande d’État
 
 > « Face à l’anarchie, nous avons imposé l’ordre… Face aux villes sales, nous avons dispersé les habitats… Face à la prospérité retrouvée, nous avons poursuivi le nécrocauste — **un équilibre nécessaire**. » — _Conte de la Tourbe Rouge_
 
-_Échos : rhétorique coloniale de la “mission civilisatrice”, “hygiène sociale”, “pacification” ; rationalité froide des préfets et planificateurs._
+_Échos : rhétorique coloniale de la “mission civilisatrice”, “hygiène sociale”, “pacification” ; rationalité froide des préfets et planificateurs.
 
-**5.2. Victimes et témoins**
+### Victimes et témoins
 
 > « Ce dont je peux parler, c’est du nécrocauste : ce moment où **l’autre devient une ressource**. […] Ce refus de vivre pour ceux qui vous réduisent à un corps à vider. » — _Jean Pinterre_
 
@@ -76,7 +65,7 @@ _Échos : rhétorique coloniale de la “mission civilisatrice”, “hygiène s
 
 _Échos : cérémonial administratif des sélections, tri par lignage, naturalisation de la violence (“mauvais sang”), techniques de dressage des corps — _Aktion T4_, eugénisme, radicalisation raciale/idéologique._
 
-**5.3. Acteurs ambigus**
+### Acteurs ambigus
 
 > « **Vert docteur** ordonné il y a 55 ans. Toute cette verte extraite a servi l’Empire, je ne l’ignore pas. Mais sans nous, la verte engendre des démons et la mort. Nous avons **sauvé davantage** que nous n’avons pris. » — _Roland De Ténébréïte_
 
