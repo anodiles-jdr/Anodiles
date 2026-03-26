@@ -1,3 +1,7 @@
+---
+tags:
+  - Elementaires
+---
 ### _Comment ils façonnent les îles, les climats, les créatures et la technologie_
 
 Les élémentaires sont les plus anciennes forces vivantes d’Anodiles. Bien qu’invisibles, ils déterminent la stabilité des îles, la violence des tempêtes, l’émergence de créatures extraordinaires et même les avancées technologiques des Nains. Leur présence est diffuse mais déterminante.

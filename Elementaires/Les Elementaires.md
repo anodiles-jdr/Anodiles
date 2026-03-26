@@ -1,3 +1,7 @@
+---
+tags:
+  - Elementaires
+---
 ### _Enfants du Feu, de la Terre, de l’Air et de l’Eau_
 
 Les élémentaires sont les premières formes de vie d’Anodiles, les “enfants survivants” des anciens dieux élémentaires aujourd’hui disparus. À la différence des créatures mortelles, ils ne vivent pas dans le plan visible : ils ne peuvent être perçus **qu’au travers de procédés magiques**, et même alors, leur apparence n’est qu’une **projection condensée**, semblable à une fumée colorée :

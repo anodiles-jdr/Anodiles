@@ -1,3 +1,7 @@
+---
+tags:
+  - Elementaires
+---
 Les élémentaires intriguent depuis toujours les savants d’Anodiles. Ils ne sont ni des esprits, ni des dieux, ni même des formes de magie : ils sont **la manifestation directe de l’énergie élémentaire**, un phénomène fondamental du monde. Leur comportement ressemble parfois à celui d’êtres vivants, mais les comparer à des consciences serait une erreur d’interprétation : ils suivent une logique propre à Anodiles, que les mortels ne font qu’effleurer.
 
 ---

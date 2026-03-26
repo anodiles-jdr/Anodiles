@@ -2,6 +2,7 @@
 tags:
   - Empire
   - Histoire
+  - Nécrocauste
 ---
 ### **Déclenchement**
 
