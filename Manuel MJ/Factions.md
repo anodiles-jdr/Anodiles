@@ -217,11 +217,133 @@ Mais l’échec critique aurait signifié capture ou représailles.
         par des actions ciblées en jeu
 
 ---
+## 🧭 Évolution des factions : moments déterminants
 
-## ✅ Résumé rapide
+Les factions d’Anodiles ne sont pas figées.  
+Leurs forces, leurs faiblesses et leur manière d’agir évoluent avec l’histoire.
 
-- **1 jet = 1 période**
-- **Les résultats s’additionnent**
-- **Un seuil détermine le succès**
-- **La répétition crée le danger**
-- **Les ressources racontent l’effort dans le temps**
+Lors de **fins de campagne**, ou à l’issue de **scénarios particulièrement déterminants**, le MJ peut modifier durablement les **Approches** et/ou les **Ressources** d’une ou plusieurs factions.
+
+Ces changements ne reflètent pas un effort ponctuel, mais une **transformation structurelle** : victoire politique, défaite humiliante, réforme interne, traumatisme collectif, révélation publique, etc.
+
+---
+
+## 🔺 Gains et pertes possibles
+
+À l’issue d’un événement majeur, le MJ peut accorder :
+
+- **+1 ou −1 à une Approche**
+- **+1 ou −1 à une Ressource**
+- exceptionnellement, **les deux**, si l’impact est profond et durable
+
+> ⚠️ Une même Approche ou Ressource **ne peut jamais dépasser ses bornes normales**  
+> (Approches : 0 à 3, Ressources : selon l’échelle du monde).
+
+---
+
+## 📌 Quand appliquer ces changements ?
+
+Ces ajustements doivent rester **rares et significatifs**.  
+Ils sont appropriés lorsque :
+
+- un arc narratif se conclut
+- un rapport de force est durablement modifié
+- une faction change de doctrine ou de leadership
+- un secret majeur est révélé ou détruit
+- une victoire ou une défaite marque les mémoires
+
+👉 Un simple succès tactique **ne suffit pas**.
+
+---
+
+## 🧠 Logique de modification
+
+### Modifier une **Approche**
+
+Représente un **changement de comportement** ou de culture :
+
+- réforme interne
+- traumatisme collectif
+- nouvelle doctrine
+- perte de confiance
+
+Exemples :
+
+- +1 **Prudente** après une défaite sanglante
+- −1 **Flashy** après un scandale public
+- +1 **Subtile** après une longue guerre de l’ombre
+
+---
+
+### Modifier une **Ressource**
+
+Représente un **changement matériel ou structurel** :
+
+- pertes humaines
+- enrichissement massif
+- destruction d’infrastructures
+- nouveaux alliés durables
+
+Exemples :
+
+- −1 **Armée / Force** après une guerre perdue
+- +1 **Réseau / Espions** après l’absorption d’un service rival
+- −1 **Diplomatie Empires** après une trahison révélée
+
+---
+
+## ⚖️ Limites et équilibre
+
+- Une faction ne peut subir ou gagner **plus d’un point par catégorie** (Approche / Ressource) lors d’un même événement.
+- Les PJ peuvent influencer **quelle faction** est affectée, mais pas toujours **comment**.
+- Le MJ doit toujours **justifier la modification dans la fiction**.
+
+---
+
+## 🧪 Exemples concrets
+
+### Exemple 1 — Victoire morale
+
+Le Clan du Dauphin empêche une guerre civile majeure et gagne le soutien populaire.
+
+- +1 **Diplomatie Clan**
+- +1 **Approche Flashy** (leur image devient inspirante)
+
+---
+
+### Exemple 2 — Défaite humiliante
+
+Le Clan du Homard voit son lien avec la Monarchie publiquement exposé.
+
+- −1 **Diplomatie Clan**
+- −1 **Approche Subtile**
+
+---
+
+### Exemple 3 — Radicalisation
+
+Le Clan de l’Espadon mène une campagne sanglante contre les démonistes.
+
+- +1 **Armée / Force**
+- −1 **Approche Prudente**
+
+---
+
+### Exemple 4 — Érosion lente
+
+À la fin d’une campagne, la Tortue a trop tardé à agir.
+
+- −1 **Approche Rapide**
+- +1 **Approche Prudente** (rééquilibrage culturel)
+
+---
+
+## 🧩 Interaction avec les ressources cumulatives
+
+Un changement de Ressource :
+
+- modifie le **nombre maximal de points disponibles**
+- influence directement la **régénération mensuelle**
+- affecte les **actions futures sur le long terme**
+
+👉 Ces évolutions donnent du **poids stratégique aux campagnes**, au‑delà de leurs conséquences immédiates.
