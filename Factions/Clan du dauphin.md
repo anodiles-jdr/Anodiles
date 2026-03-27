@@ -39,18 +39,18 @@ tags:
 
 > Ce que la faction peut mobiliser de façon fiable
 
-| Ressource            | Niveau | Notes fictionnelles  |
-| -------------------- | ------ | -------------------- |
-| 💰 Argent            | +1     |                      |
-| ✨ Magie              | +2     |                      |
-| 🌾 Nourriture        | +3     |                      |
-| 🧑‍🤝‍🧑 Population  | +3     |                      |
-| ⚔️ Armée / Force     | +3     |                      |
-| 📚 Savoir            | +1     |                      |
-| 🕵️ Réseau / Espions | +2     |                      |
-| Elite                | +3     |                      |
-| Diplomatie Clan      | +2     |                      |
-| Diplomatie empires   | +0     | +3 avec la républiqu |
+| Ressource             | Niveau | Notes fictionnelles   |
+| --------------------- | ------ | --------------------- |
+| 💰 Argent             | +1     |                       |
+| ✨ Magie               | +2     |                       |
+| 🌾 Nourriture         | +3     |                       |
+| 🧑‍🤝‍🧑 Population   | +3     |                       |
+| ⚔️ Armée / Force      | +3     |                       |
+| 📚 Savoir             | +1     |                       |
+| 🕵️ Réseau / Espions  | +2     |                       |
+| ⭐ Elite               | +3     |                       |
+| 🤝 Diplomatie Clan    | +2     |                       |
+| 🌐 Diplomatie empires | +0     | +3 avec la république |
 ## 🧩 Aspects secondaires
 
 - Mutualisme & service
@@ -67,22 +67,13 @@ tags:
 	_Clan pauvre sur le plan monétaire_  
 	_mais disposant d’aides et de mécènes_  
 	_fortement lié aux Voyageurs et à la République_
-  
-
+ 
 ## ⚔️ Capacités spéciales (Stunts)
 
 - Prouesse / Stunt — Compagnon d’arme :
 	- Lorsqu’un allié se repose à vos côtés après un conflit, il récupère +1 niveau de stress ou de conséquence légère supplémentaire, tant que vous êtes présent.
 - Pouvoir de rencontre — Frère de sang :
 	- Lorsqu’un allié adjacent est ciblé par une attaque de corps à corps, vous pouvez devenir la cible de l’attaque à sa place. Si vous subissez une conséquence en faisant cela, gagnez immédiatement un point Fate.
-
-  
-
-## 🛡️ Stress & Conséquences (optionnel)
-
-Stress : ☐ ☐ ☐ 
-
-Conséquences : Mineure / Modérée / Sévère
 
 ## 👥 Figures importantes
 
@@ -91,7 +82,7 @@ Conséquences : Mineure / Modérée / Sévère
 - [[Nom du PNJ]] – rôle
 ## 🤝 Relations
 
-- [[Faction A]] : 
+- [[Clan du Requins]] : 
 
 - [[Faction B]] : 
 ## 🎯 Objectifs
