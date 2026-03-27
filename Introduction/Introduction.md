@@ -1,3 +1,7 @@
+---
+tags:
+  - Introduction
+---
 # Anodiles : Un Monde en Mouvement
 
 Anodiles est un monde unique, façonné par une magie diffuse, une technologie singulière et des ambitions humaines. Loin des clichés de la fantasy, il offre un cadre propice aux aventures où l'ingéniosité compte autant que le courage.

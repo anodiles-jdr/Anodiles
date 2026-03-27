@@ -1,5 +1,3 @@
 ---
-aliases:
 tags:
-cssclasses:
 ---

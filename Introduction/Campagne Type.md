@@ -1,3 +1,8 @@
+---
+tags:
+  - Aventures
+  - MJ
+---
 Les campagnes d’Anodiles s’inscrivent dans le cours de la grande Histoire, non comme des récits annexes, mais comme des maillons qui en modifient la tension et l’allure. Les personnages y jouent un rôle essentiel sans être prédestinés : leurs décisions, leurs hésitations et leurs erreurs façonnent autant le monde que leurs victoires. Il ne s’agit pas de fréquenter systématiquement les puissants, mais leurs choix résonnent pourtant jusque dans les sphères où se décident les alliances, les révoltes ou les catastrophes.
 
 Chaque campagne se dirige vers un événement incontournable, un point fixe qui marquera son dénouement. Cet aboutissement n’est pas une conclusion figée, mais une forme d’accomplissement : l’événement aura lieu, mais sa nature intime, ses répercussions et la manière dont le monde l’accueillera dépendent entièrement des joueurs. La chute d’une liche majeure peut ouvrir une ère d’espoir comme libérer une puissance pire encore, peut sceller une union ou déchirer une région. Les faits demeurent, leur interprétation appartient aux personnages.

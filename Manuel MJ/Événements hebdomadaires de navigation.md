@@ -1,3 +1,8 @@
+---
+tags:
+  - Règles
+  - Navigation
+---
 ## Quand tirer un événement ?
 
 Le MJ peut déclencher un événement :

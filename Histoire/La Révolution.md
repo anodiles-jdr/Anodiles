@@ -1,3 +1,9 @@
+---
+tags:
+  - Histoire
+  - Empire
+  - République
+---
 Pendant des siècles, Providence ne portait pas son nom et ne fut que la Vassalile sur les cartes de l’Herganat : une île‑jumelle rendue stérile par la flétrissure, recluse derrière ses champs de maïs blafards et ses lignées de vassaux soigneusement façonnés.  
 Vassalisée dès les premières réorganisations post‑Vague, elle devint, au fil des siècles, l’atelier agricole et charnel de l’Empire.  
 Ses récoltes nourrissaient les armées ; son peuple alimentait les rituels.  
