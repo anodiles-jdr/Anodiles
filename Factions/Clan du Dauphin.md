@@ -87,9 +87,9 @@ tags:
 - [[Clan de la Tortue]] : Seul clan qui peut rivaliser en importance dans l'anneau, rassemblé ils seraient le clan parfait ajoutant à leurs qualités une sagesse millénaire, une fortune colossale et une audience diplomatique sans pareil.
 ## 🎯 Objectifs
 
-Court terme : Rassurer les habitants de l'anneau au sujet 
+**Court terme :** Rassurer les habitants de l'anneau et leur garantir la paix.
 
-Moyen terme : 
+**Moyen terme :** Affaiblir notablement le [[Clan du Homard]], consolider la république pour ainsi se recentrer sur l'anneau maintenant que la tyrannie a été défaite en Providence.
 
 Long terme : 
 ## 📜 Secrets (MJ)
