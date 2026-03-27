@@ -1,4 +1,4 @@
-CoIl existe de nombreuses organisation humaines dans Anodiles, des mercenaires, des familles, des clans, des empires...
+Il existe de nombreuses organisation humaines dans Anodiles, des mercenaires, des familles, des clans, des empires...
 
 Elles sont toutes décrite suivant les mêmes principes. Mais il y a un usage numérique sur deux points
 
@@ -15,7 +15,13 @@ Le score d'approche est un échelle allant de 0 à 3. Elle permet d'établir des
 | Flashy    |
 ## 📦 Ressources
 
-Comme pour les approches, elle permettent d'établir une hiérarchie entre faction sur les thèmes abordés. Les ressources sont des points que la faction peut investir dans la narration. Un point investit autorise de lancer 1d6 pour atteindre un seuil définit par l'action à entreprendre. La faction reconstitue la moitié de ses points par ressource, par mois, arrondi à l'inférieur. Les empires lance 3d6 et garde 
+Comme pour les approches, elle permettent d'établir une hiérarchie entre faction sur les thèmes abordés. Les ressources sont des points que la faction peut investir dans la narration. Un point investit autorise de lancer Xd6 pour atteindre un seuil définit par l'action à entreprendre. La faction reconstitue la moitié de ses points par ressource, par mois, arrondi à l'inférieur.
+
+Les nombres de jet à lancer dépend du type de faction 
+- Impériale : 3d6
+- Clan totémique majeur ou République : 2d6
+- Clan familial important ou clan totémique mineur : 1d6
+- Autre faction de moindre importance : 1d4
 
 | Ressource             | Niveau |
 | --------------------- | ------ |
