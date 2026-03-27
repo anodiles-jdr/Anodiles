@@ -75,7 +75,7 @@ tags:
 	- Lorsqu’un allié adjacent est ciblé par une attaque de corps à corps, vous pouvez devenir la cible de l’attaque à sa place. Si vous êtes mis hors de combat en faisant cela, l’allié gagne un boost gratuit (_Inspiré par le sacrifice_).
 ## 🤝 Relations
 
-- [[Clan du Requins]] : Ils constituent l'antithèse du clan. La position légaliste du clan du Dauphin fait qu'ils n'attaquent pas à vu, mais les requins doivent toujours se débrouiller pour passer sous les radars.
+- [[Clan du Requin]] : Ils constituent l'antithèse du clan. La position légaliste du clan du Dauphin fait qu'ils n'attaquent pas à vu, mais les requins doivent toujours se débrouiller pour passer sous les radars.
 
 - [[Clan de la Tortue]] : Seul clan qui peut rivaliser en importance dans l'anneau, rassemblé ils seraient le clan parfait ajoutant à leurs qualités une sagesse millénaire, une fortune colossale et une audience diplomatique sans pareil.
 ## 🎯 Objectifs
