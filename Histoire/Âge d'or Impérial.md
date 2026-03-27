@@ -1,3 +1,8 @@
+---
+tags:
+  - Empire
+  - Histoire
+---
 Lorsque la Première Vague se déchaîna sur Anodiles, l’Herganat fut brisé de deux manières à la fois : ses terres déjà abîmées par la flétrissure furent souillées par la Pierre Verte, et son peuple, privé de sa base matérielle comme de sa force rituelle, vacilla au bord de l’effondrement. Tandis que les Nains et les Elfes imposaient leurs âges d’or respectifs, l’ancien Empire sombra dans une longue période d’ombre.  
 On le crut mort.  
 Il ne l’était que replié.
