@@ -8,8 +8,9 @@ alliés:
 ennemis:
   - Clan du Homard
 tags:
-  - faction
-  - politique
+  - Faction
+  - Dauphin
+  - Clan
 ---
 *Phrase courte qui résume l’essence de la faction.*
 
