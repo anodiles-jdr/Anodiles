@@ -1,18 +1,16 @@
 ---
 type: faction
-statut:
 zone: Anneau
 alliés:
   - Clan de la Mouette
-ennemis: []
+  - Clan de la Tortue
+  - Clan de l'Espadon
+ennemis:
+  - Clan du Homard
 tags:
   - faction
   - politique
-  - religion
-  - crime
 ---
-# Nom de la faction
-
 *Phrase courte qui résume l’essence de la faction.*
 
 
