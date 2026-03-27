@@ -1,7 +1,7 @@
 ---
 type: faction
-statut: majeure | mineure | secrète
-zone:
+statut:
+zone: Anneau
 alliés:
   - Clan de la Mouette
 ennemis: []
