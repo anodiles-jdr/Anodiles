@@ -105,6 +105,4 @@ tags:
 - Les derniers capitaines légendaires désignés par le clan sont des voyageurs infiltrés incognito.
 - Une flotte de sous-marin est en cours de construction.
 - Des Dvats sont en cours de dressage pour la flotte principale.
-- Ces deux points sont liés
-
--
+- Ces deux points sont liés à l'investissement sans réserve du clan pendant la libération de Providence.
