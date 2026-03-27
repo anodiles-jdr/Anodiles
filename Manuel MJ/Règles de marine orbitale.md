@@ -134,7 +134,41 @@ Ajoute un bonus fixe selon l’expérience du capitaine :
 📌 Le capitaine **réduit l’incertitude**, il ne nie pas la mer.
 
 ---
+### **Échec critique de navigation**
 
+La navigation dans l’Anneau est une lutte progressive.  
+Même une bonne manœuvre répétée peut devenir dangereuse si la mer se referme.
+
+#### Déclenchement d’un échec critique
+
+Un **échec critique** survient lorsque :
+
+> **Trois jets hebdomadaires affichent exactement le même résultat total**  
+> (dé du navire + bonus du capitaine),  
+> **quels que soient leurs effets positifs ou négatifs**.
+
+- Les jets **n’ont pas besoin d’être consécutifs**.
+- Le total considéré est le **résultat final**, après bonus.
+- L’échec critique peut survenir **même si la progression est bonne**.
+
+📌 Exemple :
+
+- Semaine 1 : 5
+- Semaine 3 : 5
+- Semaine 6 : 5  
+    → **Échec critique déclenché**, même si la DR est presque atteinte.
+
+---
+
+#### Interprétation fictionnelle
+
+- La mer “a compris” la manœuvre.
+- Le navire est entré dans une **résonance orbitale défavorable**.
+- Les élémentaires s'invitent dans votre voyages.
+- Les mêmes choix produisent désormais des effets amplifiés.
+
+> _« Ce n’est pas que la manœuvre était mauvaise.  
+> C’est qu’elle a été répétée trop longtemps. »_
 ### Progression
 
 ```
