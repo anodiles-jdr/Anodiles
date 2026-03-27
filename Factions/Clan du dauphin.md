@@ -17,16 +17,17 @@ tags:
 
 ## 🎭 Aspects majeurs
 
-**Concept :** C'est le clan le plus important de l'Anneau. Leur code de l'honneur est simple, aider, sécuriser des men
+**Concept :** C'est le clan le plus important de l'Anneau. Leur code de l'honneur est simple, aider, sécuriser des menaces intérieures et extérieures. Ils se voient comme une force de police ou d'interposition, comme des logisticiens quant les ressources manquent. Leurs bonnes actions.
 
-**Problème :**
+**Problème :** Ce n'est pas un clan neutre. Leur vision morale et communautaire
 ## 🌍 Domaine d’influence
 
 Territoires : 
 
 Population : 
 
-Sphères d’action : Politique ☐ Militaire ☐ Économique ☐ Religieuse ☐ Occulte ☐ Culturelle
+Sphères d’action : 
+Politique ☐ Militaire ☐ Économique ☐ Religieuse ☐ Occulte ☐ Culturelle
 
   
 
