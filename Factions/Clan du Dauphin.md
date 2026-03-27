@@ -13,6 +13,7 @@ tags:
   - Clan
 ---
 *Jamais loin, toujours aidant, redoutable*
+*Tous pour un, un pour tous !*
 ## 🎭 Aspects majeurs
 
 **Concept :** C'est le clan le plus important de l'Anneau. Leur code de l'honneur est simple, aider, sécuriser des menaces intérieures et extérieures. Ils se voient comme une force de police ou d'interposition, comme des logisticiens quant les ressources manquent. Leurs bonnes actions.
@@ -47,7 +48,7 @@ tags:
 | 📚 Savoir             | +1     |                       |
 | 🕵️ Réseau / Espions  | +2     |                       |
 | ⭐ Elite               | +3     |                       |
-| 🤝 Diplomatie Clan    | +2     |                       |
+| 🤝 Diplomatie Clan    | +4     |                       |
 | 🌐 Diplomatie empires | +0     | +3 avec la république |
 ## 🧩 Aspects secondaires
 
