@@ -1,37 +1,227 @@
-Il existe de nombreuses organisation humaines dans Anodiles, des mercenaires, des familles, des clans, des empires...
+Dans Anodiles, il existe une multitude d’organisations humaines : familles, clans, ligues mercenaires, empires, républiques…  
+Toutes les factions sont décrites selon une **structure commune**, mais seules deux catégories utilisent des valeurs numériques :
 
-Elles sont toutes décrite suivant les mêmes principes. Mais il y a un usage numérique sur deux points
+- les **Approches de faction** (comparaison directe)
+- les **Ressources** (capacité d’action et d’influence)
+
+---
 
 ## ⚖️ Approches de faction
-Le score d'approche est un échelle allant de 0 à 3. Elle permet d'établir des oppositions, comparaison rapides entre faction. Il n'y a pas de jets à faire, celui qui a le plus gros score obtient quelque chose de positif, l'autre quelque chose de négatif. En cas d'égalité, les deux factions trouve obtiennent quelque chose de positif et négatif
 
-| Approche  |
-| --------- |
-| Puissante |
-| Rusée     |
-| Subtile   |
-| Rapide    |
-| Prudente  |
-| Flashy    |
-## 📦 Ressources
+Les **Approches de faction** décrivent _comment_ une faction agit face au monde.
 
-Comme pour les approches, elle permettent d'établir une hiérarchie entre faction sur les thèmes abordés. Les ressources sont des points que la faction peut investir dans la narration. Un point investit autorise de lancer Xd6 pour atteindre un seuil définit par l'action à entreprendre. La faction reconstitue la moitié de ses points par ressource, par mois, arrondi à l'inférieur.
+Elles sont notées sur une **échelle de 0 à 3** :
 
-Les nombres de jet à lancer dépend du type de faction 
-- Impériale : 3d6
-- Clan totémique majeur ou République : 2d6
-- Clan familial important ou clan totémique mineur : 1d6
-- Autre faction de moindre importance : 1d4
+- **0** : inapte, déficiente
+- **1** : capable
+- **2** : compétente
+- **3** : dominante
 
-| Ressource             | Niveau |
-| --------------------- | ------ |
-| 💰 Argent             | +1     |
-| ✨ Magie               | +2     |
-| 🌾 Nourriture         | +3     |
-| 🧑‍🤝‍🧑 Population   | +3     |
-| ⚔️ Armée / Force      | +3     |
-| 📚 Savoir             | +1     |
-| 🕵️ Réseau / Espions  | +2     |
-| ⭐ Elite               | +3     |
-| 🤝 Diplomatie Clan    | +4     |
-| 🌐 Diplomatie empires | +0     |
+> ⚠️ Les approches **ne donnent jamais lieu à des jets de dés**.
+
+Elles servent uniquement à :
+
+- établir une **opposition rapide**,
+- trancher une situation sans ralentir la narration.
+
+### Liste des approches
+
+|Approche|Description|
+|---|---|
+|**Puissante**|Capacité à imposer sa volonté par la force brute|
+|**Rusée**|Tactique, ruse, plans indirects|
+|**Subtile**|Discrétion, infiltration, influence cachée|
+|**Rapide**|Mobilité, réaction, projection|
+|**Prudente**|Préparation, défense, gestion du risque|
+|**Flashy**|Impact symbolique, réputation, démonstration|
+
+---
+
+### Résolution par comparaison
+
+Lorsqu’une faction agit **contre une autre faction** :
+
+- **Score supérieur**  
+    → la faction obtient **un avantage clair**, l’adversaire subit un **désavantage narratif**
+    
+- **Score inférieur**  
+    → l’inverse
+    
+- **Égalité**  
+    → **les deux factions obtiennent à la fois un avantage et une complication**
+    
+
+👉 Le MJ décrit **quoi** et **comment**, en lien avec l’approche utilisée.
+
+#### Exemple
+
+- Clan du Requin (Puissante +3) attaque un Clan familial (Puissante +1)  
+    → Le Requin écrase rapidement la résistance ; le clan familial subit pertes et panique.
+    
+- Clan de la Mouette (Subtile +3) face au Clan du Homard (Subtile +2)  
+    → La Mouette passe… mais laisse des traces : information compromise, dette future.
+
+## Ressources
+
+Les **Ressources** représentent la capacité d’une faction à mener des **actions de long terme** :  
+guerre, influence diplomatique, infiltration, colonisation, recherche, etc.
+
+Contrairement aux Approches, les Ressources :
+
+- **se dépensent**
+- **produisent des résultats chiffrés**
+- **s’accumulent dans le temps**
+
+---
+
+## 🔁 Principe général : accumulation
+
+Lorsqu’une faction entreprend une action complexe :
+
+1. Elle définit un **objectif clair**
+2. Le MJ fixe un **seuil total à atteindre**
+3. Chaque mois (ou période définie), la faction :
+    - dépense **1 point de ressource**
+    - effectue **un jet**
+    - **ajoute le résultat** à une réserve d’accumulation
+
+✅ Lorsque le total atteint ou dépasse le seuil → **succès**  
+❌ Si les ressources sont épuisées avant → **échec ou succès coûteux**
+
+---
+
+## 🎲 Dés selon le type de faction
+
+|Type de faction|Dés par jet|
+|---|---|
+|Empire / Monarchie|**3d6**|
+|Clan totémique majeur / République|**2d6**|
+|Clan totémique mineur / Clan familial important|**1d6**|
+|Faction mineure|**1d4**|
+
+👉 **Un jet = une période d’effort (souvent 1 mois)**
+
+---
+
+## 🎯 Seuils cumulés recommandés
+
+|Envergure de l’action|Seuil total|
+|---|---|
+|Locale|**10**|
+|Régionale|**20**|
+|Majeure|**30**|
+|Stratégique|**40**|
+|Historique / Légendaire|**50+**|
+
+> Le MJ peut ajuster le seuil selon :
+> 
+> - la résistance adverse
+> - les circonstances
+> - les avantages narratifs existants
+
+---
+
+## 💥 Échecs critiques cumulés
+
+### 🔴 Règle des répétitions dangereuses
+
+Si **trois jets consécutifs donnent exactement la même valeur totale**  
+(ex. 7 → 7 → 7), alors :
+
+> ⚠️ **La faction perd immédiatement 50 % de l’accumulation en cours**,  
+> arrondie à l’inférieur.
+
+- La ressource dépensée est **perdue**
+- L’action continue (si des ressources restent)
+- Le MJ décrit une **crise majeure** :
+    - sabotage
+    - corruption
+    - contre‑offensive
+    - scandale
+    - catastrophe logistique
+
+👉 Cette règle **représente l’usure, la prévisibilité et l’erreur systémique**.
+
+---
+
+## ♻️ Régénération des ressources
+
+À la fin de chaque mois :
+
+> Une faction récupère **la moitié de son score maximal** dans chaque ressource,  
+> arrondie à l’inférieur.
+
+Exemple :
+
+- Armée +3 → récupération de **1 point / mois**
+- Diplomatie +5 → récupération de **2 points / mois**
+
+---
+
+## 🧪 Exemples concrets
+
+### Exemple 1 — Guerre prolongée
+
+Le **Clan du Dauphin** veut sécuriser durablement une constellation hostile.
+
+- Ressource : ⚔️ Armée (+3)
+- Dés : 2d6
+- Seuil : 30 (action majeure)
+
+Mois 1 : 8 → total 8  
+Mois 2 : 6 → total 14  
+Mois 3 : 6 → total 20  
+Mois 4 : 6 → ⚠️ troisième 6 consécutif  
+→ perte de 10 points (50 % de 20) → total retombe à 10
+
+La guerre s’enlise, un front cède, des pertes lourdes surviennent.
+
+---
+
+### Exemple 2 — Infiltration politique
+
+Le **Clan du Homard** tente de manipuler un conseil impérial.
+
+- Ressource : 🌐 Diplomatie Empires (+4)
+- Dés : 2d6
+- Seuil : 20
+
+Les jets sont variés (5, 9, 7) → accumulation stable  
+→ succès discret, traité biaisé en faveur de la Monarchie.
+
+---
+
+### Exemple 3 — Action rapide et risquée
+
+Le **Clan de l’Espadon** sabote une route esclavagiste.
+
+- Ressource : 🕵️ Espionnage (+2)
+- Dés : 2d6
+- Seuil : 10
+
+Un seul mois suffit → succès rapide  
+Mais l’échec critique aurait signifié capture ou représailles.
+
+---
+
+## 🧠 Règles d’arbitrage (MJ)
+
+- Une action peut être **interrompue volontairement**  
+    → l’accumulation est conservée
+- Une action abandonnée sous pression ennemie  
+    → le MJ peut infliger une perte partielle
+- Les PJ peuvent :
+    - réduire un seuil
+    - annuler un jet
+    - éviter une perte critique  
+        par des actions ciblées en jeu
+
+---
+
+## ✅ Résumé rapide
+
+- **1 jet = 1 période**
+- **Les résultats s’additionnent**
+- **Un seuil détermine le succès**
+- **La répétition crée le danger**
+- **Les ressources racontent l’effort dans le temps**
