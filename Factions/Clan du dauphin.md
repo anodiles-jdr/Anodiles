@@ -41,7 +41,7 @@ tags:
 
 | Ressource            | Niveau | Notes fictionnelles |
 | -------------------- | ------ | ------------------- |
-| 💰 Argent            | +3     |                     |
+| 💰 Argent            | +1     |                     |
 | ✨ Magie              | +2     |                     |
 | 🌾 Nourriture        | +3     |                     |
 | 🧑‍🤝‍🧑 Population  | +3     |                     |
@@ -51,18 +51,28 @@ tags:
 ## 🧩 Aspects secondaires
 
 - Mutualisme & service
+	_C’est le clan le plus mutualiste et le plus puissant._  
+	_Leur objectif principal est de rendre service aux habitants de l’anneau._  
+	_En cas de conflits dans l’anneau d’îles, le clan est actif dans sa résolution._
 
-- 
-
-- 
-
+- Démocratie navale & diversité
+	_Les capitaines sont élus par leur équipage_  
+	_Une grande variété de navires, races, occupations_  
+	_Les capitaines votent au nom de leur équipage_
+	
+- Pauvreté monétaire, richesse relationnelle
+	_Clan pauvre sur le plan monétaire_  
+	_mais disposant d’aides et de mécènes_  
+	_fortement lié aux Voyageurs et à la République_
   
 
 ## ⚔️ Capacités spéciales (Stunts)
 
-- **Nom :** effet narratif + mécanique
-
-- **Nom :** …
+- **Prouesse / Stunt — Compagnon d’arme :**
+	- Lorsqu’un allié se repose à vos côtés après un conflit, il récupère **+1 niveau de stress ou de conséquence légère supplémentaire**, tant que vous êtes présent.
+- **Pouvoir de rencontre — Frère de sang :**
+	- Lorsqu’un allié adjacent est ciblé par une attaque de corps à corps, vous pouvez devenir la cible de l’attaque à sa place.  
+Si vous subissez une conséquence en faisant cela, gagnez immédiatement **un point Fate**.
 
   
 
