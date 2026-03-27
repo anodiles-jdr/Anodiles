@@ -46,7 +46,7 @@ Sphères d’action : Politique ☐ Militaire ☐ Économique ☐ Religieuse ☐
 | Subtile   | +__   |
 | Rapide    | +__   |
 | Prudente  | +__   |
-| Flashy | +__ |
+| Flashy    | +__   |
 
   
 
@@ -56,30 +56,15 @@ Sphères d’action : Politique ☐ Militaire ☐ Économique ☐ Religieuse ☐
 
   
 
-| Ressource | Niveau | Notes fictionnelles |
-
-|----------|--------|---------------------|
-
-| 💰 Argent | +__ | |
-
-| ✨ Magie | +__ | |
-
-| 🌾 Nourriture | +__ | |
-
-| 🧑‍🤝‍🧑 Population | +__ | |
-
-| ⚔️ Armée / Force | +__ | |
-
-| 📚 Savoir | +__ | |
-
-| 🕵️ Réseau / Espions | +__ | |
-
-  
-
-*Le niveau peut servir de bonus passif, de difficulté oppositionnelle ou de réserve narrative.*
-
-  
-
+| Ressource            | Niveau | Notes fictionnelles |
+| -------------------- | ------ | ------------------- |
+| 💰 Argent            | +__    |                     |
+| ✨ Magie              | +__    |                     |
+| 🌾 Nourriture        | +__    |                     |
+| 🧑‍🤝‍🧑 Population  | +__    |                     |
+| ⚔️ Armée / Force     | +__    |                     |
+| 📚 Savoir            | +__    |                     |
+| 🕵️ Réseau / Espions | +__    |                     |
 ## 🧩 Aspects secondaires
 
 - 
@@ -104,24 +89,16 @@ Stress : ☐ ☐ ☐ 
 
 Conséquences : Mineure / Modérée / Sévère
 
-  
-
 ## 👥 Figures importantes
 
 - [[Nom du PNJ]] – rôle
 
 - [[Nom du PNJ]] – rôle
-
-  
-
 ## 🤝 Relations
 
 - [[Faction A]] : 
 
 - [[Faction B]] : 
-
-  
-
 ## 🎯 Objectifs
 
 Court terme : 
@@ -129,9 +106,6 @@ Court terme : 
 Moyen terme : 
 
 Long terme : 
-
-  
-
 ## 📜 Secrets (MJ)
 
 - 
