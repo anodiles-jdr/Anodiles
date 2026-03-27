@@ -50,7 +50,7 @@ tags:
 | 🕵️ Réseau / Espions | +2     |                     |
 ## 🧩 Aspects secondaires
 
-- Le clan est réputé 
+- Mutualisme & service
 
 - 
 
