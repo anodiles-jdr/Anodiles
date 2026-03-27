@@ -82,9 +82,9 @@ tags:
 - [[Nom du PNJ]] – rôle
 ## 🤝 Relations
 
-- [[Clan du Requins]] : 
-
-- [[Faction B]] : 
+- [[Clan du Requins]] : Ils constituent l'antithèse du clan. La position légaliste du clan du Dauphin fait qu'ils n'attaquent pas à vu, mais les requins doivent toujours se débrouiller pour passer sous les radars.
+- 
+- [[Clan de la Tortue]] : Seul clan qui peut rivaliser en 
 ## 🎯 Objectifs
 
 Court terme : 
