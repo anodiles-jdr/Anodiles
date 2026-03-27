@@ -12,12 +12,12 @@ tags:
   - Dauphin
   - Clan
 ---
-*Phrase courte qui résume l’essence de la faction.*
+*Jamais loin, toujours aidant, redoutable*
 
 
 ## 🎭 Aspects majeurs
 
-**Concept :** 
+**Concept :** C'est le clan le plus important de l'Anneau. Leur code de l'honneur est simple, aider, sécuriser des men
 
 **Problème :**
 ## 🌍 Domaine d’influence
