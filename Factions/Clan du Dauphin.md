@@ -37,8 +37,6 @@ tags:
 | Flashy    | +3    |
 ## 📦 Ressources
 
-> Ce que la faction peut mobiliser de façon fiable
-
 | Ressource             | Niveau | Notes fictionnelles   |
 | --------------------- | ------ | --------------------- |
 | 💰 Argent             | +1     |                       |
@@ -92,9 +90,12 @@ tags:
 
 **Moyen terme :** Affaiblir notablement le [[Clan du Homard]], consolider la république pour ainsi se recentrer sur l'anneau maintenant que la tyrannie a été défaite en Providence.
 
-**Long terme :** Unifier encore plus l'anneau, 
+**Long terme :** Unifier encore plus l'anneau. Faire émerger un élan patriotique au sein des habitants de l'anneau.
+
+
 ## 📜 Secrets (MJ)
 
-- Les derniers capitaines légendaires désignés par le clan sont des voyageurs infil
+- Les derniers capitaines légendaires désignés par le clan sont des voyageurs infiltrés incognito
+- 
 
 -
