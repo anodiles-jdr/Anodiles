@@ -13,187 +13,127 @@ ennemis: []
 tags: [faction, politique, religion, crime]
 
 ---
-> *Phrase courte qui résume l’essence de la faction.*
-## 🎭 Concept & Problème (Aspects majeurs)
+# Nom de la faction
 
-**Concept de faction :** 
+*Phrase courte qui résume l’essence de la faction.*
 
-*Ex : Empire marchand tentaculaire*, *Ordre mystique gardien des anciens savoirs*
+  
 
-**Problème central :** 
+## 🎭 Aspects majeurs
 
-*Ex : Dépendance aux routes commerciales*, *Dogmatisme rigide*
+**Concept :** 
+
+**Problème :**
+
+  
 
 ## 🌍 Domaine d’influence
 
-- Territoires contrôlés :
+Territoires : 
 
-- Population concernée :
+Population : 
 
-- Ressources clés :
+Sphères d’action : Politique ☐ Militaire ☐ Économique ☐ Religieuse ☐ Occulte ☐ Culturelle
 
-- Sphères d’action :
-
-  - ☐ Politique
-
-  - ☐ Militaire
-
-  - ☐ Économique
-
-  - ☐ Religieuse
-
-  - ☐ Occulte
-
-  - ☐ Culturelle
-
-## ⚖️ Approches de faction (FATE)
-
-> Comment la faction agit **en tant qu’entité collective**
   
-| Approche     | Score |
-| ------------ | ----- |
-| Puissante    | +__   |
-| Rusée        | +__   |
-| Subtile      | +__   |
-| Rapide       | +__   |
-| Prudente     | +__   |
-| Flashy       | +__   |
+
+## ⚖️ Approches de faction
+
+| Approche  | Score |
+| --------- | ----- |
+| Puissante | +__   |
+| Rusée     | +__   |
+| Subtile   | +__   |
+| Rapide    | +__   |
+| Prudente  | +__   |
+| Flashy | +__ |
+
+  
+
+## 📦 Ressources
+
+> Ce que la faction peut mobiliser de façon fiable
+
+  
+
+| Ressource | Niveau | Notes fictionnelles |
+
+|----------|--------|---------------------|
+
+| 💰 Argent | +__ | |
+
+| ✨ Magie | +__ | |
+
+| 🌾 Nourriture | +__ | |
+
+| 🧑‍🤝‍🧑 Population | +__ | |
+
+| ⚔️ Armée / Force | +__ | |
+
+| 📚 Savoir | +__ | |
+
+| 🕵️ Réseau / Espions | +__ | |
+
+  
+
+*Le niveau peut servir de bonus passif, de difficulté oppositionnelle ou de réserve narrative.*
+
+  
+
 ## 🧩 Aspects secondaires
 
--
+- 
 
--
+- 
 
--
-
-  
-
-*Utilisables pour invoquer, compliquer ou définir des scènes.*
+- 
 
   
 
----
+## ⚔️ Capacités spéciales (Stunts)
 
-  
+- **Nom :** effet narratif + mécanique
 
-## ⚔️ Capacités spéciales (Stunts de faction)
-
-  
-
-- **Nom du stunt :** description narrative + effet mécanique 
-
-  *Ex : Une fois par session, la faction peut déclarer avoir un contact utile dans une grande ville.*
-
-  
-
-- **Nom du stunt :** …
-
-  
-
----
+- **Nom :** …
 
   
 
 ## 🛡️ Stress & Conséquences (optionnel)
 
-  
+Stress : ☐ ☐ ☐ 
 
-**Stress de faction :**
-
-- ☐ ☐ ☐
-
-  
-
-**Conséquences typiques :**
-
-- Mineure : 
-
-- Modérée : 
-
-- Sévère : 
-
-  
-
-*(Représente pertes d’influence, scandales, rébellions, schismes…)*
-
-  
-
----
+Conséquences : Mineure / Modérée / Sévère
 
   
 
 ## 👥 Figures importantes
 
-  
-
 - [[Nom du PNJ]] – rôle
 
 - [[Nom du PNJ]] – rôle
 
   
 
----
+## 🤝 Relations
+
+- [[Faction A]] : 
+
+- [[Faction B]] : 
 
   
 
-## 🤝 Relations avec d’autres factions
+## 🎯 Objectifs
+
+Court terme : 
+
+Moyen terme : 
+
+Long terme : 
 
   
 
-- [[Faction A]] : alliance fragile
+## 📜 Secrets (MJ)
 
-- [[Faction B]] : guerre froide
-
-- [[Faction C]] : vassal / ennemi juré
-
-  
-
----
-
-  
-
-## 📜 Secrets & vérités cachées (MJ)
-
-  
-
-> À ne révéler qu’en jeu.
-
-  
+- 
 
 -
-
--
-
-  
-
----
-
-  
-
-## 🎯 Objectifs actuels
-
-  
-
-- Court terme :
-
-- Moyen terme :
-
-- Long terme :
-
-  
-
----
-
-  
-
-## 📖 Notes de fiction
-
-  
-
-- Anecdotes
-
-- Rumeurs
-
-- Symboles
-
-- Devise
