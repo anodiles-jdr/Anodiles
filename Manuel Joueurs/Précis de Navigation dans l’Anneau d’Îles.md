@@ -1,3 +1,8 @@
+---
+tags:
+  - Règles
+  - Navigation
+---
 > _Cours de marine orbitale appliquée
 ## I — Principes fondamentaux de l’Anneau
 

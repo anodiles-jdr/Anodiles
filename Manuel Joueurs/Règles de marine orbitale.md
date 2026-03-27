@@ -1,3 +1,8 @@
+---
+tags:
+  - Règles
+  - Navigation
+---
 ## 1. Principes généraux
 
 La navigation dans l’Anneau d’Îles ne se résout **ni par un jet unique**, ni par un simple calcul de distance.
