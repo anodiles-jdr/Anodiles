@@ -54,9 +54,6 @@ Logistique, Communication, Cartographie, Diplomatie indirecte.
 |⭐ Elite|+3|Capitaines d’exception|
 |🤝 Diplomatie Clan|+2|Neutralité respectée|
 |🌐 Diplomatie Empires|+3|Tolérés, mais surveillés|
-
----
-
 ## 🧩 Aspects secondaires
 
 ### 🧭 Neutralité utile, neutralité irritante
@@ -67,9 +64,6 @@ _Et refuse de juger ses clients._
 
 - ✅ Invocation : accès universel, liberté de circulation
 - ❌ Contrainte : suspicion morale, accusations de complicité
-
----
-
 ### 🗺️ Maîtres des routes et des cartes
 
 _On dit qu’aucune carte n’égale celles des capitaines mouettes._  
@@ -78,9 +72,6 @@ _Chaque raccourci est noté._
 
 - ✅ Invocation : navigation parfaite, fuite, anticipation
 - ❌ Contrainte : cartes convoitées, vols, pressions
-
----
-
 ### ⚡ Rapides, légers, indispensables
 
 _Peu armés, jamais lents._  
@@ -88,29 +79,17 @@ _Leur valeur est dans la vitesse et la fiabilité._
 
 - ✅ Invocation : livraisons critiques, urgence, évitement
 - ❌ Contrainte : vulnérabilité en combat prolongé
-
----
-
 ## ⚔️ Capacités spéciales (Stunts)
 
 ### **Prouesse — On ne tire pas sur le messager**
 
 - Lorsqu’un navire de la Mouette transporte un message, un colis ou une personne sous contrat, les adversaires hésitent : **la première action hostile contre lui subit −2**, sauf en cas de trahison flagrante.
-
----
-
 ### **Prouesse — On ne perd jamais un colis**
 
 - Lorsqu’un objectif implique la livraison ou la protection d’un bien confié, le clan peut **annuler une complication liée à la perte, au retard ou à l’erreur** une fois par scène.
-
----
-
 ### **Prouesse — Toujours à l’heure**
 
 - Le clan peut déclarer être arrivé **juste à temps**, même dans une situation critique, en dépensant 1 point Fate.
-
----
-
 ## 🤝 Relations
 
 - **[[Clan de la Tortue]]** :  
@@ -122,9 +101,6 @@ _Leur valeur est dans la vitesse et la fiabilité._
 - **[[Clan du Dauphin]]** :  
     Partenaire fiable mais source de tensions morales. Le Dauphin attend parfois plus d’engagement que la Mouette n’est prête à offrir.
     
-
----
-
 ## 🎯 Objectifs
 
 **Court terme :**  
@@ -135,9 +111,6 @@ Renforcer les accords avec la Confrérie des Épices et consolider leur statut d
 
 **Long terme :**  
 Devenir si essentiel que même les guerres devront composer avec eux.
-
----
-
 ## 📖 Histoire et culture
 
 - Fondé probablement par le Clan de la Tortue
@@ -145,9 +118,6 @@ Devenir si essentiel que même les guerres devront composer avec eux.
 - Neutralité reconnue par tous les clans
 - Toléré par les Empires malgré leur méfiance
 - Tradition cartographique et orale très forte
-
----
-
 ## 📜 Secrets (MJ)
 
 - Certaines cartes mouettes révèlent des routes interdites aux Empires.
