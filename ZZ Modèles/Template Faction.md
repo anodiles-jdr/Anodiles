@@ -13,44 +13,18 @@ ennemis: []
 tags: [faction, politique, religion, crime]
 
 ---
-
-  
-
-# 🏴 Nom de la faction
-
-  
-
 > *Phrase courte qui résume l’essence de la faction.*
-
-  
-
----
-
-  
-
 ## 🎭 Concept & Problème (Aspects majeurs)
-
-  
 
 **Concept de faction :** 
 
 *Ex : Empire marchand tentaculaire*, *Ordre mystique gardien des anciens savoirs*
 
-  
-
 **Problème central :** 
 
 *Ex : Dépendance aux routes commerciales*, *Dogmatisme rigide*
 
-  
-
----
-
-  
-
 ## 🌍 Domaine d’influence
-
-  
 
 - Territoires contrôlés :
 
@@ -72,49 +46,19 @@ tags: [faction, politique, religion, crime]
 
   - ☐ Culturelle
 
-  
-
----
-
-  
-
 ## ⚖️ Approches de faction (FATE)
 
-  
-
 > Comment la faction agit **en tant qu’entité collective**
-
   
-
 | Approche     | Score |
-
-|--------------|-------|
-
+| ------------ | ----- |
 | Puissante    | +__   |
-
 | Rusée        | +__   |
-
 | Subtile      | +__   |
-
 | Rapide       | +__   |
-
-| Prudente    | +__   |
-
-| Flashy      | +__   |
-
-  
-
-*Ex : Une guilde marchande aura +2 Rusée, un empire militaire +3 Puissante.*
-
-  
-
----
-
-  
-
+| Prudente     | +__   |
+| Flashy       | +__   |
 ## 🧩 Aspects secondaires
-
-  
 
 -
 
