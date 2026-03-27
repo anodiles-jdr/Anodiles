@@ -15,7 +15,7 @@ Le score d'approche est un échelle allant de 0 à 3. Elle permet d'établir des
 | Flashy    |
 ## 📦 Ressources
 
-Comme pour les approches, elle permettent d'établir une hiérarchie entre faction sur les thèmes abordés. Les ressources sont des points que la faction peut investir dans la narration. Un point investit autorise de lancer 1d6. 
+Comme pour les approches, elle permettent d'établir une hiérarchie entre faction sur les thèmes abordés. Les ressources sont des points que la faction peut investir dans la narration. Un point investit autorise de lancer 1d6 pour atteindre un seuil définit par l'action à entreprendre. La faction reconstitue la moitié de ses points par ressource, par mois, arrondi à l'inférieur. Les empires lance 3d6 et garde 
 
 | Ressource             | Niveau |
 | --------------------- | ------ |
