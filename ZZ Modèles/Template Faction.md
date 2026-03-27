@@ -1,17 +1,14 @@
 ---
-
 type: faction
-
 statut: majeure | mineure | secrète
-
 zone:
-
 alliés: []
-
 ennemis: []
-
-tags: [faction, politique, religion, crime]
-
+tags:
+  - faction
+  - politique
+  - religion
+  - crime
 ---
 # Nom de la faction
 
