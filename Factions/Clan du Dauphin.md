@@ -49,7 +49,7 @@ tags:
 | 🕵️ Réseau / Espions  | +2     |                       |
 | ⭐ Elite               | +3     |                       |
 | 🤝 Diplomatie Clan    | +4     |                       |
-| 🌐 Diplomatie empires | +0     | +3 avec la république |
+| 🌐 Diplomatie empires | +0     | +3 avec la République |
 ## 🧩 Aspects secondaires
 
 - Toujours aider… même quand ça coûte trop
@@ -72,7 +72,7 @@ tags:
 	- Lorsqu’un allié se repose à vos côtés après un conflit, il récupère +1 niveau de stress ou réduit d’un cran une conséquence légère, tant que vous êtes présent.
 
 **Pouvoir de rencontre — Frère de sang**
-	- Lorsqu’un allié adjacent est ciblé par une attaque de corps à corps, vous pouvez devenir la cible de l’attaque à sa place. Si vous subissez une conséquence en faisant cela, gagnez immédiatement un point Fate.
+	- Lorsqu’un allié adjacent est ciblé par une attaque de corps à corps, vous pouvez devenir la cible de l’attaque à sa place. Si vous êtes mis hors de combat en faisant cela, l’allié gagne un boost gratuit (_Inspiré par le sacrifice_).
 ## 🤝 Relations
 
 - [[Clan du Requins]] : Ils constituent l'antithèse du clan. La position légaliste du clan du Dauphin fait qu'ils n'attaquent pas à vu, mais les requins doivent toujours se débrouiller pour passer sous les radars.
