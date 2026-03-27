@@ -94,9 +94,17 @@ tags:
 
 ## 📖 Histoire et autre
 
+- Les capitaines sont élus par leur équipage de façon régulière et après certains évènements codifiés.
+- Le clan désigne une fois par an un capitaine légendaire, lui et les précédents proposent des lois et objectifs.
+- Les capitaines votent lois et objectifs au nom de leur équipage.
+- Il a unifié et sauvé l’anneau d’îles des Empires après la première vague.
+- Une grande variété de navires, races, occupations des équipages existe en son sein.
+- Le clan est fortement lié aux Voyageurs et à la République.
 ## 📜 Secrets (MJ)
 
-- Les derniers capitaines légendaires désignés par le clan sont des voyageurs infiltrés incognito
-- 
+- Les derniers capitaines légendaires désignés par le clan sont des voyageurs infiltrés incognito.
+- Une flotte de sous-marin est en cours de construction.
+- Des Dvats sont en cours de dressage pour la flotte principale.
+- Ces deux points sont liés
 
 -
