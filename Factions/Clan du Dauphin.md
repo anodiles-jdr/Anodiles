@@ -70,9 +70,10 @@ tags:
  
 ## ⚔️ Capacités spéciales (Stunts)
 
-- Prouesse / Stunt — Compagnon d’arme :
+**Prouesse / Stunt — Compagnon d’arme**
 	- Lorsqu’un allié se repose à vos côtés après un conflit, il récupère +1 niveau de stress ou de conséquence légère supplémentaire, tant que vous êtes présent.
-- Pouvoir de rencontre — Frère de sang :
+
+**Pouvoir de rencontre — Frère de sang**
 	- Lorsqu’un allié adjacent est ciblé par une attaque de corps à corps, vous pouvez devenir la cible de l’attaque à sa place. Si vous subissez une conséquence en faisant cela, gagnez immédiatement un point Fate.
 
 ## 👥 Figures importantes
@@ -83,7 +84,7 @@ tags:
 ## 🤝 Relations
 
 - [[Clan du Requins]] : Ils constituent l'antithèse du clan. La position légaliste du clan du Dauphin fait qu'ils n'attaquent pas à vu, mais les requins doivent toujours se débrouiller pour passer sous les radars.
-- 
+
 - [[Clan de la Tortue]] : Seul clan qui peut rivaliser en importance dans l'anneau, rassemblé ils seraient le clan parfait ajoutant à leurs qualités une sagesse millénaire, une fortune colossale et une audience diplomatique sans pareil.
 ## 🎯 Objectifs
 
@@ -91,9 +92,9 @@ tags:
 
 **Moyen terme :** Affaiblir notablement le [[Clan du Homard]], consolider la république pour ainsi se recentrer sur l'anneau maintenant que la tyrannie a été défaite en Providence.
 
-Long terme : 
+**Long terme :** Unifier encore plus l'anneau, 
 ## 📜 Secrets (MJ)
 
-- 
+- Les derniers capitaines légendaires désignés par le clan sont des voyageurs infil
 
 -
