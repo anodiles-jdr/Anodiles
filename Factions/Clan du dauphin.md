@@ -24,10 +24,10 @@ tags:
 
 **Territoires :** Ils sont présent dans tout l'anneau et dispose d'au moins un clan majeur dans chaque constellation. Compte tenu de leur importance, la constellation du Dormeur, celle qui orbite le plus lentement, est celle qui accueille le gros des forces. 
 
-**Population :** C'est sans conteste la flotte la plus importan
+**Population :** C'est sans conteste la flotte la plus importante de l'anneau. 12 Flottes majeures, au moins autant de flotte intermédiaire, sans compter des capitaines aux talents trop prononcés qui préfère voyager seul. Certains îles, de grandes tailles, sont peuplés par les familles et anciens du clan
 
 Sphères d’action : 
-Politique ☐ Militaire ☐ Économique ☐ Religieuse ☐ Occulte ☐ Culturelle
+Politique ☐ Militaire ☐ Économique Culturelle
 
   
 
