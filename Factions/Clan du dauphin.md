@@ -39,15 +39,18 @@ tags:
 
 > Ce que la faction peut mobiliser de façon fiable
 
-| Ressource            | Niveau | Notes fictionnelles |
-| -------------------- | ------ | ------------------- |
-| 💰 Argent            | +1     |                     |
-| ✨ Magie              | +2     |                     |
-| 🌾 Nourriture        | +3     |                     |
-| 🧑‍🤝‍🧑 Population  | +3     |                     |
-| ⚔️ Armée / Force     | +3     |                     |
-| 📚 Savoir            | +1     |                     |
-| 🕵️ Réseau / Espions | +2     |                     |
+| Ressource            | Niveau | Notes fictionnelles  |
+| -------------------- | ------ | -------------------- |
+| 💰 Argent            | +1     |                      |
+| ✨ Magie              | +2     |                      |
+| 🌾 Nourriture        | +3     |                      |
+| 🧑‍🤝‍🧑 Population  | +3     |                      |
+| ⚔️ Armée / Force     | +3     |                      |
+| 📚 Savoir            | +1     |                      |
+| 🕵️ Réseau / Espions | +2     |                      |
+| Elite                | +3     |                      |
+| Diplomatie Clan      | +2     |                      |
+| Diplomatie empires   | +0     | +3 avec la républiqu |
 ## 🧩 Aspects secondaires
 
 - Mutualisme & service
@@ -68,11 +71,10 @@ tags:
 
 ## ⚔️ Capacités spéciales (Stunts)
 
-- **Prouesse / Stunt — Compagnon d’arme :**
-	- Lorsqu’un allié se repose à vos côtés après un conflit, il récupère **+1 niveau de stress ou de conséquence légère supplémentaire**, tant que vous êtes présent.
-- **Pouvoir de rencontre — Frère de sang :**
-	- Lorsqu’un allié adjacent est ciblé par une attaque de corps à corps, vous pouvez devenir la cible de l’attaque à sa place.  
-Si vous subissez une conséquence en faisant cela, gagnez immédiatement **un point Fate**.
+- Prouesse / Stunt — Compagnon d’arme :
+	- Lorsqu’un allié se repose à vos côtés après un conflit, il récupère +1 niveau de stress ou de conséquence légère supplémentaire, tant que vous êtes présent.
+- Pouvoir de rencontre — Frère de sang :
+	- Lorsqu’un allié adjacent est ciblé par une attaque de corps à corps, vous pouvez devenir la cible de l’attaque à sa place. Si vous subissez une conséquence en faisant cela, gagnez immédiatement un point Fate.
 
   
 
