@@ -19,7 +19,7 @@ tags:
 
 **Concept :** C'est le clan le plus important de l'Anneau. Leur code de l'honneur est simple, aider, sécuriser des menaces intérieures et extérieures. Ils se voient comme une force de police ou d'interposition, comme des logisticiens quant les ressources manquent. Leurs bonnes actions.
 
-**Problème :** Ce n'est pas un clan neutre. Leur vision morale et communautaire
+**Problème :** Ce n'est pas un clan neutre. Leur vision morale et communautaire placent le clan dans des relations compliquées voire hostile avec les empires d'autant plus depuis la révolution de Providence. Le risque de guerre généralisée, la peur de voir des forces impériales éliminés des parties du clan font qu'en interne, certains capitaines commence à 
 ## 🌍 Domaine d’influence
 
 Territoires : 
