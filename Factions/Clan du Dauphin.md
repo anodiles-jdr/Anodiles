@@ -92,6 +92,7 @@ tags:
 
 **Long terme :** Unifier encore plus l'anneau. Faire émerger un élan patriotique au sein des habitants de l'anneau.
 
+## 📖 Histoire et autre
 
 ## 📜 Secrets (MJ)
 
