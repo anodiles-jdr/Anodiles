@@ -22,9 +22,9 @@ tags:
 **Problème :** Ce n'est pas un clan neutre. Leur vision morale et communautaire placent le clan dans des relations compliquées voire hostile avec les empires d'autant plus depuis la révolution de Providence. Le risque de guerre généralisée, la peur de voir des forces impériales éliminés des parties du clan font qu'en interne, certains capitaines commence à ne plus être aussi inflexible dans leur moralité.
 ## 🌍 Domaine d’influence
 
-**Territoires :** Ils sont présent dans tout l'anneau et dispose d'au moins un clan majeur dans chaque constellation. Compte tenu de leur importance, la constellation Stable 
+**Territoires :** Ils sont présent dans tout l'anneau et dispose d'au moins un clan majeur dans chaque constellation. Compte tenu de leur importance, la constellation du Dormeur, celle qui orbite le plus lentement, est celle qui accueille le gros des forces. 
 
-Population : 
+**Population :** C'est sans conteste la flotte la plus importan
 
 Sphères d’action : 
 Politique ☐ Militaire ☐ Économique ☐ Religieuse ☐ Occulte ☐ Culturelle
