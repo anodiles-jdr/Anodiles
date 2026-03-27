@@ -13,8 +13,6 @@ tags:
   - Clan
 ---
 *Jamais loin, toujours aidant, redoutable*
-
-
 ## 🎭 Aspects majeurs
 
 **Concept :** C'est le clan le plus important de l'Anneau. Leur code de l'honneur est simple, aider, sécuriser des menaces intérieures et extérieures. Ils se voient comme une force de police ou d'interposition, comme des logisticiens quant les ressources manquent. Leurs bonnes actions.
@@ -26,42 +24,33 @@ tags:
 
 **Population :** C'est sans conteste la flotte la plus importante de l'anneau. 12 Flottes majeures, au moins autant de flotte intermédiaire, sans compter des capitaines aux talents trop prononcés qui préfère voyager seul. Certains îles, de grandes tailles, sont peuplés par les familles et anciens du clan
 
-Sphères d’action : 
-Politique ☐ Militaire ☐ Économique Culturelle
-
-  
-
+**Sphères d’action :** Politique, Militaire, Économique, Culturelle.
 ## ⚖️ Approches de faction
 
 | Approche  | Score |
 | --------- | ----- |
-| Puissante | +__   |
-| Rusée     | +__   |
-| Subtile   | +__   |
-| Rapide    | +__   |
-| Prudente  | +__   |
-| Flashy    | +__   |
-
-  
-
+| Puissante | +3    |
+| Rusée     | +1    |
+| Subtile   | +2    |
+| Rapide    | +2    |
+| Prudente  | +2    |
+| Flashy    | +3    |
 ## 📦 Ressources
 
 > Ce que la faction peut mobiliser de façon fiable
 
-  
-
 | Ressource            | Niveau | Notes fictionnelles |
 | -------------------- | ------ | ------------------- |
-| 💰 Argent            | +__    |                     |
-| ✨ Magie              | +__    |                     |
-| 🌾 Nourriture        | +__    |                     |
-| 🧑‍🤝‍🧑 Population  | +__    |                     |
-| ⚔️ Armée / Force     | +__    |                     |
-| 📚 Savoir            | +__    |                     |
-| 🕵️ Réseau / Espions | +__    |                     |
+| 💰 Argent            | +3     |                     |
+| ✨ Magie              | +2     |                     |
+| 🌾 Nourriture        | +3     |                     |
+| 🧑‍🤝‍🧑 Population  | +3     |                     |
+| ⚔️ Armée / Force     | +3     |                     |
+| 📚 Savoir            | +1     |                     |
+| 🕵️ Réseau / Espions | +2     |                     |
 ## 🧩 Aspects secondaires
 
-- 
+- Le clan est réputé 
 
 - 
 
