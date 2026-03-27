@@ -64,8 +64,7 @@ tags:
 - Pauvreté monétaire, richesse relationnelle
 	_Clan pauvre sur le plan monétaire_  
 	_mais disposant d’aides et de mécènes_  
-	_fortement lié aux Voyageurs et à la République_
- 
+	_fortement lié aux Voyageurs et à la République_ 
 ## ⚔️ Capacités spéciales (Stunts)
 
 **Prouesse / Stunt — Compagnon d’arme**
@@ -73,12 +72,6 @@ tags:
 
 **Pouvoir de rencontre — Frère de sang**
 	- Lorsqu’un allié adjacent est ciblé par une attaque de corps à corps, vous pouvez devenir la cible de l’attaque à sa place. Si vous subissez une conséquence en faisant cela, gagnez immédiatement un point Fate.
-
-## 👥 Figures importantes
-
-- [[Nom du PNJ]] – rôle
-
-- [[Nom du PNJ]] – rôle
 ## 🤝 Relations
 
 - [[Clan du Requins]] : Ils constituent l'antithèse du clan. La position légaliste du clan du Dauphin fait qu'ils n'attaquent pas à vu, mais les requins doivent toujours se débrouiller pour passer sous les radars.
@@ -91,10 +84,9 @@ tags:
 **Moyen terme :** Affaiblir notablement le [[Clan du Homard]], consolider la république pour ainsi se recentrer sur l'anneau maintenant que la tyrannie a été défaite en Providence.
 
 **Long terme :** Unifier encore plus l'anneau. Faire émerger un élan patriotique au sein des habitants de l'anneau.
-
 ## 📖 Histoire et autre
 
-- Les capitaines sont élus par leur équipage de façon régulière et après certains évènements codifiés.
+- Les capitaines sont élus par leur équipage de façon régulière et après certains événements codifiés.
 - Le clan désigne une fois par an un capitaine légendaire, lui et les précédents proposent des lois et objectifs.
 - Les capitaines votent lois et objectifs au nom de leur équipage.
 - Il a unifié et sauvé l’anneau d’îles des Empires après la première vague.
