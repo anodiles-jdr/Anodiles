@@ -4,7 +4,7 @@ Toutes les factions sont décrites selon une **structure commune**, mais seules 
 - les **Approches de faction** (comparaison directe)
 - les **Ressources** (capacité d’action et d’influence)
 
-L
+Puisque Anodiles peut avoir des périodes longues en temps d'aventure mais avec peu d'action à entreprendre, embarquer vos joueurs dans les choix des factions qu'ils ont intégré et une façon élégante de donner de la profondeur au temps qui passe.
 
 ---
 
