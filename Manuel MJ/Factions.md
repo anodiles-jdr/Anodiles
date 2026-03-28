@@ -77,7 +77,11 @@ Résolution en quelques jets cumulés.
 
 ## ⚖️ Approches de faction
 
-Les **Approches de faction** décrivent _comment_ une faction agit face au monde au niveau local. On raisonne par exemple à l'échelle d'une bataille pas d'une guerre, au fait de briser un blocus, de saboter une infrastructure. C'est pourquoi ces valeurs sont absolues. Une faction peut très bien avoir des milliers d'espions, elle n'en n'envoie que quelque uns pour une mission.
+Les **Approches de faction** décrivent _comment_ une faction agit face au monde **à l’échelle locale**.  
+On raisonne ici à l’échelle d’une **bataille**, d’une **opération ciblée** ou d’un **objectif précis** : briser un blocus, saboter une infrastructure, prendre le contrôle d’un port, organiser une évacuation.
+Ces valeurs sont donc **absolues** : elles ne mesurent pas l’ampleur globale d’une faction, mais sa capacité à agir efficacement dans une situation donnée.  
+Une faction peut disposer de milliers d’espions ou de soldats ; pour une mission, elle n’en engage toujours qu’une fraction.  
+Les Approches représentent la **qualité de cette projection**, pas sa quantité.
 
 Elles sont notées sur une **échelle de 0 à 3** :
 
