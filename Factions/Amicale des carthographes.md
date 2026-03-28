@@ -61,19 +61,6 @@ Scientifique, Maritime, Informationnelle, Stratégique.
 | 🤝 Diplomatie Clan   | +3     |                                                 |
 | 🌐 Diplomatie Nation | +2     |                                                 |
 
-|Ressource|Niveau|
-|---|---|
-|💰 Richesse|+0|
-|✨ Magie|+1|
-|🚢 Flotte|+0|
-|🧿 Artefacts|+2|
-|🕵️ Espionnage|+2|
-|🛡️ Contre‑espionnage|+0|
-|🤝 Diplomatie (clans)|+2|
-|🌐 Diplomatie (nation)|+2|
-|⚔️ Armée|+0|
-|⭐ Élite|+1|
-
 **Compétences associées :**  
 Sciences, Océans
 
