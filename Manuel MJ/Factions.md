@@ -4,7 +4,76 @@ Toutes les factions sont décrites selon une **structure commune**, mais seules 
 - les **Approches de faction** (comparaison directe)
 - les **Ressources** (capacité d’action et d’influence)
 
-Puisque Anodiles peut avoir des périodes longues en temps d'aventure mais avec peu d'action à entreprendre, embarquer vos joueurs dans les choix des factions qu'ils ont intégré et une façon élégante de donner de la profondeur au temps qui passe.
+## 🎯 Intention de design 
+
+> Les règles de factions ne sont pas faites pour accélérer l’histoire,  
+> mais pour **donner du poids aux périodes de latence**.
+
+Elles permettent :
+
+- de maintenir l’engagement des joueurs hors des scènes d’action,
+- de rendre visibles les conséquences du temps long,
+- et de renforcer le sentiment que les personnages font partie d’un monde vivant.
+
+---
+
+## 🧭 Comment embarquer les joueurs
+
+Lors d’un voyage prolongé, d’une attente forcée ou d’une transition entre deux arcs :
+
+1. Présentez brièvement la **situation des factions liées aux PJ**
+2. Proposez **1 à 2 décisions stratégiques**, pas plus
+3. Résolvez-les via :
+    - Approches (comparaison)
+    - Ressources (accumulation)
+4. Décrivez **les effets visibles**, même mineurs
+
+👉 Il ne s’agit pas de “jouer une partie de gestion”,  
+mais de **donner une voix aux PJ dans les choix du monde**.
+
+---
+
+## 🧪 Exemple 1 — Voyage maritime (temps mort actif)
+
+Les PJ voyagent plusieurs semaines entre deux constellations.
+
+Le MJ propose :
+
+- _Le Clan du Dauphin peut investir de la Diplomatie Clan pour stabiliser une région._
+- _Le Clan du Requin tente de renforcer son emprise locale._
+
+Les joueurs débattent :
+
+- soutenir l’effort diplomatique
+- ou détourner des ressources vers l’armée
+
+Résolution :
+
+- accumulation de Diplomatie
+- comparaison d’approches en toile de fond
+
+👉 À l’arrivée, le port n’est plus le même.  
+Le voyage **a eu un impact**.
+
+---
+
+## 🧪 Exemple 2 — Attente politique
+
+Les PJ attendent la fin d’une rotation continentale pour accéder à un territoire clé.
+
+Pendant ce temps :
+
+- le Clan du Homard agit diplomatiquement auprès de la Monarchie
+- la République hésite à réagir ouvertement
+
+Les joueurs décident :
+
+- de pousser une action subtile (Réseau / Espions)
+- ou de laisser faire
+
+Résolution en quelques jets cumulés.
+
+👉 Quand l’intrigue reprend, **le cadre a changé**, sans avoir “brûlé” une scène.
 
 ---
 
