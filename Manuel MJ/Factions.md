@@ -4,6 +4,8 @@ Toutes les factions sont décrites selon une **structure commune**, mais seules 
 - les **Approches de faction** (comparaison directe)
 - les **Ressources** (capacité d’action et d’influence)
 
+L
+
 ---
 
 ## ⚖️ Approches de faction
@@ -24,8 +26,10 @@ Elles servent uniquement à :
 - établir une **opposition rapide**,
 - trancher une situation sans ralentir la narration.
 
-Selon les circonstances, le MJ peut moduler d'un point une approche et dépasser trois. Ainsi, si les joueurs jouent les approches, ils ne peuvent prédire les valeurs et donc les conséquences de l'opposition.
-
+Selon les circonstances fictionnelles, le MJ peut moduler temporairement une Approche de ±1, y compris au‑delà de la valeur de 3, sans jamais dépasser 4 ni descendre sous 0.  
+Cette modulation représente un avantage ou un handicap contextuel et doit toujours être justifiée dans la fiction. La modulation doit être révélé par le MJ à la résolution.
+Elle est temporaire et ne modifie jamais les valeurs permanentes de la faction.  
+Ainsi, même en jouant les Approches, les joueurs ne peuvent jamais prédire avec certitude l’issue exacte d’une opposition.
 ### Liste des approches
 
 |Approche|Description|
