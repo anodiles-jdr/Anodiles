@@ -1,3 +1,7 @@
+---
+tags:
+  - Témoignage
+---
 Avant toute chose, j’espère que votre voyage s’est déroulé sans encombre et que notre île familiale vous paraît accueillante. Nous n’avons peut-être pas l’éclat des grandes cités de l’anneau, mais ici, chaque pierre et chaque jetée raconte une histoire.
 
 Notre famille s’est installée sur cette île il y a maintenant cinq générations. Depuis lors, elle a peu changé — et c’est sans doute volontaire. La nature y est fragile, d’origine elfique, et par conséquent aussi dangereuse que capricieuse. C’est d’ailleurs pour cela qu’on l’appelle la _Griffe de Sorcière_. Nous avons toujours refusé d’en exploiter les ressources à leur plein potentiel, préférant la prudence à l’abondance éphémère.

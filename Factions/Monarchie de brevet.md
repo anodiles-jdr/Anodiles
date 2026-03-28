@@ -1,3 +1,7 @@
+---
+tags:
+  - faction
+---
 _« Si ça existe, on peut l’améliorer. Si ça n’existe pas, on peut le breveter. »_
 
 ---

@@ -1,3 +1,7 @@
+---
+tags:
+  - faction
+---
 _« Ce qui bouge doit être noté. Ce qui disparaît doit être mémorisé. »_
 
 ---

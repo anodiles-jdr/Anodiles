@@ -1,3 +1,7 @@
+---
+tags:
+  - Introduction
+---
 ### Ce que ce jeu est.
 
 ### Et, volontairement, ce qu’il n’est pas.

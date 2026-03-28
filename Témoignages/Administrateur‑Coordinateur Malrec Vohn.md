@@ -1,3 +1,8 @@
+---
+tags:
+  - Témoignage
+  - Démonocratie
+---
 ## Entretien n° 7‑A/Σ
 
 **Source :** Service des Flux, Adminis Libris  

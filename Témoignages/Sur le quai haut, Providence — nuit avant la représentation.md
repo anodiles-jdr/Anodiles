@@ -1,3 +1,9 @@
+---
+tags:
+  - Témoignage
+  - Balladins
+  - Nécrocauste
+---
 Le décor est déjà monté.  
 Des torches mal alignées, une scène trop étroite, la mer en contrebas.  
 La ville écoute sans le savoir.

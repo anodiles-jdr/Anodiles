@@ -1,3 +1,7 @@
+---
+tags:
+  - Règles
+---
 ## 🔮 ARCANE
 
 ### Couleur masquée
