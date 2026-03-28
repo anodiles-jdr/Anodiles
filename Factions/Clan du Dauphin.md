@@ -52,32 +52,34 @@ tags:
 | 🌐 Diplomatie empires | +0     | +3 avec la République |
 ## 🧩 Aspects secondaires
 
-### Toujours aider… même quand ça coûte trop
-	_C’est le clan le plus mutualiste et le plus puissant._  
-	_Leur objectif principal est de rendre service aux habitants de l’anneau._  
-	_En cas de conflits dans l’anneau d’îles, le clan est actif dans sa résolution._
-- ✅ **Invocation :** mobiliser rapidement de l’aide, obtenir le soutien populaire, justifier une intervention “légitime”. 
+### 🤝 Toujours aider… même quand ça coûte trop
 
-  **Contrainte :** attentes démesurées, appels à l’aide incessants, épuisement des ressources ou sur‑exposition politique.
+_Le Clan du Dauphin est profondément mutualiste et met sa puissance au service des habitants de l’Anneau._  
+_Il intervient activement pour résoudre les conflits internes et maintenir la stabilité, même lorsque cela exige des sacrifices matériels, humains ou politiques._
 
-- Un clan uni, mille voix à convaincre
-	_Les capitaines sont élus par leur équipage_  
-	_Une grande variété de navires, races, occupations_  
-	_Les capitaines votent au nom de leur équipage_
-- ✅ **Invocation :** légitimité morale, expertise variée, soutien collectif dans une négociation ou une crise. 
+- ✅ **Invocation :** aide rapide, soutien populaire, légitimité d’intervention
+- ❌ **Contrainte :** attentes démesurées, épuisement des ressources, sur‑exposition politique
 
-  **Contrainte :** blocages internes, débats interminables, décisions retardées ou compromises par des intérêts divergents.
-	
-- Riche de dettes, pauvre en liquidités
-	_Clan pauvre sur le plan monétaire_  
-	_mais disposant d’aides et de mécènes_  
-	_fortement lié aux Voyageurs et à la République_ 
- - ✅ **Invocation :** activer un réseau d’alliés, obtenir une faveur diplomatique, accéder à des ressources indirectes. 
-  - ❌ **Contrainte :** pressions politiques, services exigés en retour, perte d’autonomie ou chantage voilé.
+### ⚓ Un clan uni, mille voix à convaincre
+
+_Les capitaines sont élus par leurs équipages et représentent une grande diversité de navires, d’origines et de cultures._  
+_Cette démocratie navale confère une forte légitimité au clan, mais rend chaque décision collective lente et fragile._
+
+- ✅ **Invocation :** légitimité morale, expertise collective, soutien coordonné
+- ❌ **Contrainte :** débats interminables, divisions internes, décisions retardées ou bloquées
+
+### 💰 Riche de dettes, pauvre en liquidités
+
+_Le clan dispose de peu de richesses monétaires propres et dépend largement de soutiens extérieurs et de mécènes._  
+_Ses liens étroits avec les Voyageurs et la République lui ouvrent de nombreuses portes, au prix d’obligations difficiles à refuser._
+
+- ✅ **Invocation :** activation de réseaux, faveurs diplomatiques, accès indirect aux ressources
+- ❌ **Contrainte :** pressions politiques, services exigés en retour, perte d’autonomie
+
 ## ⚔️ Capacités spéciales (Stunts)
 
-**Prouesse / Stunt — Compagnon d’arme**
-	- Lorsqu’un allié se repose à vos côtés après un conflit, il récupère +1 niveau de stress ou réduit d’un cran une conséquence légère, tant que vous êtes présent.
+### Prouesse / Stunt — Compagnon d’arme**
+Lorsqu’un allié se repose à vos côtés après un conflit, il récupère +1 niveau de stress ou réduit d’un cran une conséquence légère, tant que vous êtes présent.
 
 **Pouvoir de rencontre — Frère de sang**
 	- Lorsqu’un allié adjacent est ciblé par une attaque de corps à corps, vous pouvez devenir la cible de l’attaque à sa place. Si vous êtes mis hors de combat en faisant cela, l’allié gagne un boost gratuit (_Inspiré par le sacrifice_).
