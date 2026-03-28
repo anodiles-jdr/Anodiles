@@ -112,7 +112,7 @@ _Nous soignons pour pouvoir frapper encore._
 
 ### **Aptitude — En péril**
 
-- Tant que le clan est **en péril**, il inflige **+1 dégât** à toutes ses attaques.
+- Tant qu'un de se membre est **en péril**, il inflige **+1 dégât** à toutes ses attaques.
 
 ---
 
