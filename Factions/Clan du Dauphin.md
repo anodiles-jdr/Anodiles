@@ -56,16 +56,25 @@ tags:
 	_C’est le clan le plus mutualiste et le plus puissant._  
 	_Leur objectif principal est de rendre service aux habitants de l’anneau._  
 	_En cas de conflits dans l’anneau d’îles, le clan est actif dans sa résolution._
+	**Invocation :** mobiliser rapidement de l’aide, obtenir le soutien populaire, justifier une intervention “légitime”. 
+
+  **Contrainte :** attentes démesurées, appels à l’aide incessants, épuisement des ressources ou sur‑exposition politique.
 
 - Un clan uni, mille voix à convaincre
 	_Les capitaines sont élus par leur équipage_  
 	_Une grande variété de navires, races, occupations_  
 	_Les capitaines votent au nom de leur équipage_
+	**Invocation :** légitimité morale, expertise variée, soutien collectif dans une négociation ou une crise. 
+
+  **Contrainte :** blocages internes, débats interminables, décisions retardées ou compromises par des intérêts divergents.
 	
 - Riche de dettes, pauvre en liquidités
 	_Clan pauvre sur le plan monétaire_  
 	_mais disposant d’aides et de mécènes_  
 	_fortement lié aux Voyageurs et à la République_ 
+	**Invocation :** activer un réseau d’alliés, obtenir une faveur diplomatique, accéder à des ressources indirectes. 
+
+  **Contrainte :** pressions politiques, services exigés en retour, perte d’autonomie ou chantage voilé.
 ## ⚔️ Capacités spéciales (Stunts)
 
 **Prouesse / Stunt — Compagnon d’arme**
