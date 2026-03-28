@@ -61,6 +61,8 @@ Lorsqu’une faction agit **contre une autre faction** :
 - Clan de la Mouette (Subtile +3) face au Clan du Homard (Subtile +2)  
     → La Mouette passe… mais laisse des traces : information compromise, dette future.
 
+
+
 ## Ressources
 
 Les **Ressources** représentent la capacité d’une faction à mener des **actions de long terme** :  
