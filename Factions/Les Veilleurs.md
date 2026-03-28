@@ -1,3 +1,7 @@
+---
+tags:
+  - faction
+---
 _« Se souvenir pour durer. »_
 
 ---

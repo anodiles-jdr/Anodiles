@@ -1,3 +1,7 @@
+---
+tags:
+  - faction
+---
 _« Nous venons d’ailleurs, et le monde ne s’en remet jamais. »_
 
 ---
