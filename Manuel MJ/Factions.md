@@ -43,12 +43,10 @@ Le MJ propose :
 - _Le Clan du Requin tente de renforcer son emprise locale._
 
 Les joueurs débattent :
-
 - soutenir l’effort diplomatique
 - ou détourner des ressources vers l’armée
 
 Résolution :
-
 - accumulation de Diplomatie
 - comparaison d’approches en toile de fond
 
