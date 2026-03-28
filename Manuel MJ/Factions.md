@@ -77,7 +77,7 @@ Résolution en quelques jets cumulés.
 
 ## ⚖️ Approches de faction
 
-Les **Approches de faction** décrivent _comment_ une faction agit face au monde.
+Les **Approches de faction** décrivent _comment_ une faction agit face au monde au niveau local. On raisonne par exemple à l'échelle d'une bataille pas d'une guerre. 
 
 Elles sont notées sur une **échelle de 0 à 3** :
 
