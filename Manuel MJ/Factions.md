@@ -37,30 +37,138 @@ Elles servent uniquement à :
 
 ---
 
-### Résolution par comparaison
+# Résolution des Approches
 
-Lorsqu’une faction agit **contre une autre faction** :
+Il existe **trois cas distincts** lors d’une opposition de factions par Approche :
 
-- **Score supérieur**  
-    → la faction obtient **un avantage clair**, l’adversaire subit un **désavantage narratif**
+1. **Opposition directe (même approche)**
+2. **Substitution d’approche**
+3. **Égalité**
+
+Ces cas **ne doivent jamais être confondus**.
+
+---
+
+## 1️⃣ Opposition directe
+
+Les deux factions utilisent **la même Approche**.
+
+### Résolution
+
+- Score supérieur → **avantage net** pour le plus haut, **désavantage** pour l’autre
+- Score inférieur → inverse
+- **Score égal → égalité**
+
+---
+
+### ✅ Exemple clair d’égalité (sans substitution)
+
+**Situation**
+
+- Clan du Requin : **Puissante +3**
+- Clan du Dauphin : **Puissante +3**
+
+**Résolution : égalité**
+
+> Chaque faction obtient **un gain** et **une complication**.
+
+**Résultat fictionnel**
+
+- ✅ Le Requin parvient à forcer le passage et à montrer sa supériorité
     
-- **Score inférieur**  
-    → l’inverse
+- ❌ Mais subit de lourdes pertes et attire une coalition hostile
     
-- **Égalité**  
-    → **les deux factions obtiennent à la fois un avantage et une complication**
+- ✅ Le Dauphin empêche un massacre et protège des civils
+    
+- ❌ Mais doit céder un point stratégique
     
 
-👉 Le MJ décrit **quoi** et **comment**, en lien avec l’approche utilisée.
+👉 **Même approche, même score, double conséquence**.  
+Ceci est une **égalité pure**, sans substitution.
 
-#### Exemple
+---
 
-- Clan du Requin (Puissante +3) attaque un Clan familial (Puissante +1)  
-    → Le Requin écrase rapidement la résistance ; le clan familial subit pertes et panique.
+## 2️⃣ Substitution d’Approche
+
+Une faction **ne répond pas avec la même Approche**, mais en oppose une autre **justifiée par la fiction**.
+
+> Exemple : répondre à **Puissante** par **Rusée**, **Prudente** ou **Subtile**.
+
+⚠️ **Ceci n’est pas une égalité**, même si les scores sont identiques.
+
+---
+
+### 📌 Règle fondamentale (borne)
+
+> **La faction à l’initiative gagne toujours quelque chose.**
+> 
+> La substitution :
+> 
+> - ne peut **jamais annuler totalement** l’action initiée
+> - sert à **transformer la nature du résultat**, pas à le nier
+
+---
+
+### ✅ Exemple clair de substitution (distinct de l’égalité)
+
+**Situation**
+
+- Clan du Homard initie une action militaire  
+    → Approche : **Puissante +3**
+- Clan de la Mouette se défend par **Rusée +3**
+
+**Résolution : substitution réussie**
+
+**Résultat**
+
+- ✅ **Homard (initiative)**
     
-- Clan de la Mouette (Subtile +3) face au Clan du Homard (Subtile +2)  
-    → La Mouette passe… mais laisse des traces : information compromise, dette future.
+    - Objectif partiellement atteint
+    - Pression militaire exercée
+- ✅ **Mouette (substitution)**
+    
+    - Impact détourné : pertes minimisées, évacuation réussie
+    - Mais routes compromises, neutralité fragilisée
 
+👉 **Gagnant–gagnant**, mais **coût différent pour chacun**.  
+Ce n’est **pas une égalité**, c’est une **déformation du conflit**.
+
+---
+
+## 3️⃣ Égalité + substitution : interdit
+
+👉 **Règle explicite à ajouter** (très important) :
+
+> Une opposition **ne peut jamais être à la fois une égalité et une substitution**.
+> 
+> - L’égalité n’existe que lorsque **les deux factions utilisent la même Approche**.
+> - La substitution produit toujours une **résolution asymétrique**, car l’initiative reste déterminante.
+
+Cette phrase seule évite 90 % des confusions futures.
+
+---
+
+## 🧠 Tableau récapitulatif (lisibilité MJ)
+
+|Situation|Résultat|
+|---|---|
+|Même approche, score supérieur|Avantage / désavantage|
+|Même approche, score égal|Gain + complication pour chaque|
+|Substitution réussie|Initiative gagne toujours quelque chose|
+|Substitution échouée|Initiative gagne pleinement|
+|Substitution|Jamais une égalité|
+
+---
+
+## 🎯 Philosophie finale (alignée avec ton intention)
+
+- Les Approches **ne sont pas défensives**, elles sont **expressives**
+- Se défendre par une autre Approche :
+    - **change la forme du choc**
+    - **pas son existence**
+- L’initiative est **toujours récompensée**
+- L’égalité est **productive**, pas bloquante
+- Le système est **gagnant–gagnant**, mais **jamais gratuit**
 
 
 ## Ressources
