@@ -112,13 +112,13 @@ _Nous soignons pour pouvoir frapper encore._
 
 ### **Aptitude — En péril**
 
-- Tant qu'un de se membre est **en péril**, il inflige **+1 dégât** à toutes ses attaques.
+- Tant qu'un des membres du clan à porté de vue est **en péril**, tous les membres du clan infligent **+1 dégât** à toutes ses attaques.
 
 ---
 
 ### **Prouesse — Les démons ne passeront pas par nous**
 
-- Lorsqu’un démon, mutant ou serviteur démoniaque est l’adversaire principal, le clan obtient **+2 en attaque ou défense**, au choix.
+- Lorsqu’un démon, mutant ou serviteur démoniaque est l’adversaire principal, le membre du clan obtient **+2 en attaque ou défense**, au choix.
 
 ---
 
