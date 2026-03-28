@@ -24,7 +24,7 @@ Elles servent uniquement à :
 - établir une **opposition rapide**,
 - trancher une situation sans ralentir la narration.
 
-Selon les circonstances, le MJ peut moduler d'un point une approche et dépasser trois. Ainsi, si les joueurs jouent la
+Selon les circonstances, le MJ peut moduler d'un point une approche et dépasser trois. Ainsi, si les joueurs jouent les approches, ils ne peuvent prédire les valeurs et donc les conséquences de l'opposition.
 
 ### Liste des approches
 
