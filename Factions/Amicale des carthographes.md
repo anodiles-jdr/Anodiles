@@ -48,6 +48,19 @@ Scientifique, Maritime, Informationnelle, Stratégique.
 
 ## 📦 Ressources
 
+| Ressource            | Niveau | Précision                                       |
+| -------------------- | ------ | ----------------------------------------------- |
+| 💰 Argent            | +0     | +2 uniquement pour la constitution d'expédition |
+| ✨ Magie              | +1     |                                                 |
+| 🌾 Nourriture        | +0     |                                                 |
+| 🧑‍🤝‍🧑 Population  | +0     |                                                 |
+| ⚔️ Armée / Force     | +0     |                                                 |
+| 📚 Savoir            | +3     | Monte +5 sur la géographie                      |
+| 🕵️ Réseau / Espions | +2     |                                                 |
+| ⭐ Elite              | +0     |                                                 |
+| 🤝 Diplomatie Clan   | +3     |                                                 |
+| 🌐 Diplomatie Nation | +2     |                                                 |
+
 |Ressource|Niveau|
 |---|---|
 |💰 Richesse|+0|
