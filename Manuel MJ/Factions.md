@@ -24,6 +24,8 @@ Elles servent uniquement à :
 - établir une **opposition rapide**,
 - trancher une situation sans ralentir la narration.
 
+Selon les circonstances, le MJ peut moduler d'un point une approche et dépasser trois. Ainsi, si les joueurs jouent la
+
 ### Liste des approches
 
 |Approche|Description|
@@ -143,8 +145,6 @@ Ce n’est **pas une égalité**, c’est une **déformation du conflit**.
 > 
 > - L’égalité n’existe que lorsque **les deux factions utilisent la même Approche**.
 > - La substitution produit toujours une **résolution asymétrique**, car l’initiative reste déterminante.
-
-Cette phrase seule évite 90 % des confusions futures.
 
 ---
 
