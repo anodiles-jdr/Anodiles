@@ -309,36 +309,25 @@ Chaque équipement dispose d’un nombre limité d’utilisations par scène.
 
 ### Exemples
 
-- Equipement ordinaire → **2 utilisations**
-- Armure remarquable → **4 utilisations**
-- Armure exceptionnelle (+3) → **5 utilisations**
+- Equipement ordinaire (+1) → **3 utilisations**
+- Equipement remarquable (+2) → **4 utilisations**
+- Equipement exceptionnelle (+3) → **5 utilisations**
 
 Une fois toutes les utilisations dépensées :
 
-- l’armure reste portée,
-- mais **ne peut plus absorber ni relancer** jusqu’à la fin de la scène.
+- l’équipement reste portée,
+- mais **ne peut plus être utilisé** jusqu’à la fin de la scène.
 
 ---
 
 ## Quand utiliser une charge
 
-Vous pouvez utiliser une charge d’armure :
+Vous pouvez utiliser une charge d’équipement :
 
 - **après avoir vu le résultat du jet**,
 - avant que le MJ ne décrive complètement les conséquences.
 
-👉 Vous choisissez **quand** encaisser.
-
----
-
-## Limites importantes
-
-- Les charges d’armure **ne se cumulent pas** avec d’autres équipements.
-- Une armure ne peut pas être utilisée si elle n’est pas pertinente.
-- Une armure ne protège pas contre tout :  
-    certaines conséquences passent à côté (chute, magie, trahison, etc.).
-
-Le MJ reste l’arbitre de la pertinence.
+👉 Vous choisissez **quand** relancer.
 
 ---
 
@@ -346,8 +335,8 @@ Le MJ reste l’arbitre de la pertinence.
 
 À la fin de la scène :
 
-- les charges d’armure sont **réinitialisées**,
-- sauf si la fiction indique clairement que l’armure est :
+- les charges d’équipement sont **réinitialisées**,
+- sauf si la fiction indique clairement que l’équipement est :
     - endommagée,
     - perdue,
     - ou compromise.
