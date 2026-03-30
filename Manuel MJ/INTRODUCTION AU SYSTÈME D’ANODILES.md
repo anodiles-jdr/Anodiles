@@ -142,7 +142,7 @@ Le monde d’Anodiles est imprégné des **quatre éléments** :
 - Terre
 
 Les éléments ne modifient jamais les chances de réussite.  
-Ils déterminent **comment le monde réagit** aux actions.
+Ils peuvent déterminer **comment le monde réagit** aux actions.
 
 - **Eau** : flux, instabilité, anticipation.
 - **Air** : opportunité, mobilité, fenêtres brèves.
