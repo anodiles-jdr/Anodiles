@@ -176,9 +176,7 @@ La qualité de l’équipement détermine le **nombre de relances disponibles**.
 
 ## Utiliser une relance
 
-- Vous pouvez relancer **un seul d6 à la fois**.
-- Vous pouvez relancer le même dé plusieurs fois, tant qu’il vous reste des relances.
-- Vous ne pouvez jamais relancer **les deux dés en même temps**.
+- Vous pouvez relancer **un seul d6 autant de fois que vous avez de relance**.
 - Les relances d’un équipement ne s’additionnent pas à celles d’un autre.
 
 👉 Si plusieurs éléments pourraient donner des relances, le MJ vous indiquera **lequel s’applique**.
@@ -303,15 +301,15 @@ Chaque utilisation consomme **une charge d’armure**.
 
 ---
 
-## Charges d’armure par scène
+## Charges par scène
 
-Chaque armure dispose d’un nombre limité d’utilisations par scène.
+Chaque équipement dispose d’un nombre limité d’utilisations par scène.
 
-> **Nombre d’utilisations par scène = 2 + la qualité de l’armure**
+> **Nombre d’utilisations par scène = 2 + la qualité de le l'équipement**
 
 ### Exemples
 
-- Armure ordinaire → **2 utilisations**
+- Equipement ordinaire → **2 utilisations**
 - Armure remarquable → **4 utilisations**
 - Armure exceptionnelle (+3) → **5 utilisations**
 
