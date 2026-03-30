@@ -49,14 +49,14 @@ Militaire, Contre‑démonisme, Sabotage, Soins de guerre.
 
 ## ⚖️ Approches de faction
 
-|Approche|Score|
-|---|---|
-|Puissante|+4|
-|Rusée|+2|
-|Subtile|+1|
-|Rapide|+2|
-|Prudente|+0|
-|Flashy|+3|
+| Approche  | Score |
+| --------- | ----- |
+| Puissante | +4    |
+| Rusée     | +2    |
+| Subtile   | +1    |
+| Rapide    | +2    |
+| Prudente  | +0    |
+| Flashy    | +3    |
 
 ---
 
