@@ -8,15 +8,33 @@ Un équipement actif vous donne un **bonus de situation** quand il est pertinent
 
 ### Règle d’or (très importante)
 
-L’équipement **ne s’ajoute pas directement** à votre jet.
+L’équipement **ne modifie jamais directement votre jet**.
 
-Lors d’une action, vous lancez toujours :
+Lors d’une action risquée ou décisive, vous lancez **toujours** :
 
-**2d6 + approche (si pertinente) + un seul modificateur du MJ (–3 à +3)**
+```
+2d6 + approche (si pertinente) + un seul modificateur accordé par le MJ (–3 à +3)
+```
 
-Si votre équipement est pertinent, le MJ peut décider que **le modificateur du MJ** provient de votre équipement (souvent **+1**).  
-👉 On ne cumule pas “+1 arme +1 kit +1 terrain”.  
-👉 On choisit **un seul** modificateur total (–3 à +3), dont la source peut être votre équipement, le terrain, la préparation, etc.
+Il n’existe **aucun autre bonus chiffré**.
+
+---
+
+### Le rôle de l’équipement
+
+Lorsque votre équipement est pertinent pour l’action :
+
+- il **n’ajoute pas de +1, +2 ou +3** au jet,
+- il peut vous permettre **de relancer un ou plusieurs d6**, selon sa qualité.
+
+Les relances :
+
+- s’utilisent **après le jet initial**,
+- permettent de relancer **un seul d6 à la fois**,
+- obligent à garder le nouveau résultat.
+
+👉 L’équipement **n’augmente pas vos chances**.  
+👉 Il vous permet de **sécuriser ou affiner le résultat**.
 
 ---
 
@@ -26,18 +44,18 @@ Une arme ne vous rend pas meilleur en tout. Elle vous rend **plus crédible** da
 
 ### Table de base (proposition canonique)
 
-|Arme|Bonus de situation typique|Approches favorisées|Exemple d’usage|
-|---|---|---|---|
-|**Épée**|+1|Combat **ou** Subtile|duel propre, garder la distance, contrôler|
-|**Dague**|+1|Combat **ou** Rapide|attaque éclair, opportunité, mêlée serrée|
-|**Fleuret**|+1|Rapide **ou** Flashy|panache, riposte, précision ostentatoire|
-|**Hache**|+1|Puissante **ou** Flashy|rupture, intimidation, choc|
-|**Masse / marteau**|+1|Puissante **ou** Prudente|encaisser, frapper juste, briser du dur|
-|**Lance / pique**|+1|Prudente **ou** Combat|tenir la ligne, portée, garde|
-|**Arc**|+1|Prudente **ou** Subtile|viser, choisir le moment, discrétion|
-|**Arbalète**|+1|Prudente **ou** Rusée|tir préparé, angle, méthode|
-|**Fouet / chaîne**|+1|Rusée **ou** Flashy|contrôle, désarmement, spectacle|
-|**Bâton**|+1|Prudente **ou** Subtile|défense, neutralisation, maîtrise|
+| Arme                | Bonus de situation typique | Approches favorisées      | Exemple d’usage                            |
+| ------------------- | -------------------------- | ------------------------- | ------------------------------------------ |
+| **Épée**            | +1                         | Combat **ou** Subtile     | duel propre, garder la distance, contrôler |
+| **Dague**           | +1                         | Combat **ou** Rapide      | attaque éclair, opportunité, mêlée serrée  |
+| **Fleuret**         | +1                         | Rapide **ou** Flashy      | panache, riposte, précision ostentatoire   |
+| **Hache**           | +1                         | Puissante **ou** Flashy   | rupture, intimidation, choc                |
+| **Masse / marteau** | +1                         | Puissante **ou** Prudente | encaisser, frapper juste, briser du dur    |
+| **Lance / pique**   | +1                         | Prudente **ou** Combat    | tenir la ligne, portée, garde              |
+| **Arc**             | +1                         | Prudente **ou** Subtile   | viser, choisir le moment, discrétion       |
+| **Arbalète**        | +1                         | Prudente **ou** Rusée     | tir préparé, angle, méthode                |
+| **Fouet / chaîne**  | +1                         | Rusée **ou** Flashy       | contrôle, désarmement, spectacle           |
+| **Bâton**           | +1                         | Prudente **ou** Subtile   | défense, neutralisation, maîtrise          |
 
 **Notes**
 
@@ -113,20 +131,6 @@ Un objet “hors slot” peut exister (sac, coffre), mais :
 - difficile à invoquer en urgence,
 - ou risqué,
 - et jamais source d’un bonus supplémentaire.
-
----
-
-# 5) Exemple (très concret)
-
-> « Je veux poignarder un garde dans l’ombre. Approche : Subtile. »
-
-- Dague : elle favorise Combat/Rapide, donc pas automatique ici
-- Le MJ peut :
-    - décider que l’ombre et la préparation donnent **+1**
-    - ou que la dague est quand même appropriée car action de mêlée → **+1**
-- Mais il n’y aura **qu’un seul** modificateur total.
-
-Jet : **2d6 + Subtile + (modificateur MJ unique)**
 
 ---
 
