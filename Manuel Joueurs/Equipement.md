@@ -337,13 +337,6 @@ Vous pouvez utiliser une charge d’équipement :
 
 - les charges d’équipement sont **réinitialisées**,
 - sauf si la fiction indique clairement que l’équipement est :
-    - endommagée,
-    - perdue,
-    - ou compromise.
-
----
-
-## À retenir
-
-> **Une armure ne vous sauve pas toujours.  
-> Elle vous donne le droit de tenir… un peu plus longtemps.**
+    - endommagé,
+    - perdu,
+    - ou compromis.
