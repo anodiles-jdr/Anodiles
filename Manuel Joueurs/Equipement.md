@@ -83,15 +83,14 @@ L’armure ne donne pas une “classe d’armure”. Elle donne surtout :
 | **Bouclier**                | Prudente **ou** Combat    | protéger un allié, tenir la ligne               |
 | **Cape / manteau spécial**  | Subtile **ou** Flashy     | dissimulation, mise en scène, protection ciblée |
 
-**Option recommandée (très Anodiles)** Une protection peut aussi justifier, à la place du +1 :
-
+**Option recommandée** Une protection peut aussi justifier
 - « Je transforme une conséquence immédiate en **usure / Exposition** » Mais toujours **sans cumul**, et toujours sous arbitrage du MJ.
 
 ---
 
 # 3) KITS — bonus utilitaires et “permission d’agir”
 
-Un kit n’est pas juste un +1. C’est souvent :
+Un kit c'est souvent :
 
 - une **permission** (“tu peux tenter ce genre de chose”)
 - et un **+1 de situation** quand il est approprié
@@ -126,7 +125,7 @@ Possible, mais le MJ peut :
 
 ### Équipement hors slot (si vous l’autorisez)
 
-Un objet “hors slot” peut exister (sac, coffre), mais :
+Un objet “hors slot” peut exister (sac, coffre, décor), mais :
 
 - difficile à invoquer en urgence,
 - ou risqué,
