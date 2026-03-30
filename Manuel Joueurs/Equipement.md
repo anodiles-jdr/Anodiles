@@ -44,18 +44,18 @@ Une arme ne vous rend pas meilleur en tout. Elle vous rend **plus crédible** da
 
 ### Table de base (proposition canonique)
 
-| Arme                | Bonus de situation typique | Approches favorisées      | Exemple d’usage                            |
-| ------------------- | -------------------------- | ------------------------- | ------------------------------------------ |
-| **Épée**            | +1                         | Combat **ou** Subtile     | duel propre, garder la distance, contrôler |
-| **Dague**           | +1                         | Combat **ou** Rapide      | attaque éclair, opportunité, mêlée serrée  |
-| **Fleuret**         | +1                         | Rapide **ou** Flashy      | panache, riposte, précision ostentatoire   |
-| **Hache**           | +1                         | Puissante **ou** Flashy   | rupture, intimidation, choc                |
-| **Masse / marteau** | +1                         | Puissante **ou** Prudente | encaisser, frapper juste, briser du dur    |
-| **Lance / pique**   | +1                         | Prudente **ou** Combat    | tenir la ligne, portée, garde              |
-| **Arc**             | +1                         | Prudente **ou** Subtile   | viser, choisir le moment, discrétion       |
-| **Arbalète**        | +1                         | Prudente **ou** Rusée     | tir préparé, angle, méthode                |
-| **Fouet / chaîne**  | +1                         | Rusée **ou** Flashy       | contrôle, désarmement, spectacle           |
-| **Bâton**           | +1                         | Prudente **ou** Subtile   | défense, neutralisation, maîtrise          |
+| Arme                | Approches favorisées      | Exemple d’usage                            |
+| ------------------- | ------------------------- | ------------------------------------------ |
+| **Épée**            | Combat **ou** Subtile     | duel propre, garder la distance, contrôler |
+| **Dague**           | Combat **ou** Rapide      | attaque éclair, opportunité, mêlée serrée  |
+| **Fleuret**         | Rapide **ou** Flashy      | panache, riposte, précision ostentatoire   |
+| **Hache**           | Puissante **ou** Flashy   | rupture, intimidation, choc                |
+| **Masse / marteau** | Puissante **ou** Prudente | encaisser, frapper juste, briser du dur    |
+| **Lance / pique**   | Prudente **ou** Combat    | tenir la ligne, portée, garde              |
+| **Arc**             | Prudente **ou** Subtile   | viser, choisir le moment, discrétion       |
+| **Arbalète**        | Prudente **ou** Rusée     | tir préparé, angle, méthode                |
+| **Fouet / chaîne**  | Rusée **ou** Flashy       | contrôle, désarmement, spectacle           |
+| **Bâton**           | Prudente **ou** Subtile   | défense, neutralisation, maîtrise          |
 
 **Notes**
 
@@ -74,14 +74,14 @@ L’armure ne donne pas une “classe d’armure”. Elle donne surtout :
 
 ### Table de base (proposition canonique)
 
-|Protection|Bonus de situation typique|Approches favorisées|Effet narratif fréquent|
-|---|---|---|---|
-|**Vêtements renforcés / cuir**|+1|Rapide **ou** Subtile|bouger sans gêne, discret|
-|**Armure légère**|+1|Combat **ou** Prudente|tenir sous pression, encaisser un choc|
-|**Maille / armure moyenne**|+1|Prudente|avancer méthodiquement, ignorer l’inconfort|
-|**Armure lourde**|+1|Puissante **ou** Prudente|tenir un point, encaisser, imposer|
-|**Bouclier**|+1|Prudente **ou** Combat|protéger un allié, tenir la ligne|
-|**Cape / manteau spécial**|+1|Subtile **ou** Flashy|dissimulation, mise en scène, protection ciblée|
+| Protection                  | Approches favorisées      | Effet narratif fréquent                         |
+| --------------------------- | ------------------------- | ----------------------------------------------- |
+| **Vêtements renforcés**     | Rapide **ou** Subtile     | bouger sans gêne, discret                       |
+| **Armure légère**           | Combat **ou** Prudente    | tenir sous pression, encaisser un choc          |
+| **Maille / armure moyenne** | Prudente                  | avancer méthodiquement, ignorer l’inconfort     |
+| **Armure lourde**           | Puissante **ou** Prudente | tenir un point, encaisser, imposer              |
+| **Bouclier**                | Prudente **ou** Combat    | protéger un allié, tenir la ligne               |
+| **Cape / manteau spécial**  | Subtile **ou** Flashy     | dissimulation, mise en scène, protection ciblée |
 
 **Option recommandée (très Anodiles)** Une protection peut aussi justifier, à la place du +1 :
 
@@ -98,15 +98,15 @@ Un kit n’est pas juste un +1. C’est souvent :
 
 ### Table de base (proposition canonique)
 
-|Kit|Bonus de situation typique|Approches favorisées|Exemples|
-|---|---|---|---|
-|**Kit d’exploration**|+1|Prudente **ou** Rusée|cordes, pitons, carte, lampe|
-|**Kit de soins**|+1|Prudente|stabiliser, traiter, réduire les dégâts narratifs|
-|**Kit d’alchimie**|+1|Rusée **ou** Flashy|fumées, acides, explosifs légers|
-|**Kit de crochetage**|+1|Subtile **ou** Rapide|serrures, pièges, discrétion|
-|**Kit d’artisan / ingélieurie**|+1|Prudente **ou** Rusée|réparer, bricoler, stabiliser|
-|**Kit de navigation**|+1|Prudente **ou** Rusée|route, météo, manœuvres|
-|**Kit de diplomatie** *(|+1|Subtile **ou** Flashy|audience, négociation, protocole|
+| Kit                             | Approches favorisées  | Exemples                                          |
+| ------------------------------- | --------------------- | ------------------------------------------------- |
+| **Kit d’exploration**           | Prudente **ou** Rusée | cordes, pitons, carte, lampe                      |
+| **Kit de soins**                | Prudente              | stabiliser, traiter, réduire les dégâts narratifs |
+| **Kit d’alchimie**              | Rusée **ou** Flashy   | fumées, acides, explosifs légers                  |
+| **Kit de crochetage**           | Subtile **ou** Rapide | serrures, pièges, discrétion                      |
+| **Kit d’artisan / ingélieurie** | Prudente **ou** Rusée | réparer, bricoler, stabiliser                     |
+| **Kit de navigation**           | Prudente **ou** Rusée | route, météo, manœuvres                           |
+| **Kit de diplomatie**           | Subtile **ou** Flashy | audience, négociation, protocole                  |
 
 ---
 
