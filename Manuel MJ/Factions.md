@@ -277,12 +277,12 @@ Lorsqu’une faction entreprend une action complexe :
 
 ## 🎲 Dés selon le type de faction
 
-|Type de faction|Dés par jet|
-|---|---|
-|Empire / Monarchie|**3d6**|
-|Clan totémique majeur / République|**2d6**|
-|Clan totémique mineur / Clan familial important|**1d6**|
-|Faction mineure|**1d4**|
+| Type de faction                                 | Dés par jet |
+| ----------------------------------------------- | ----------- |
+| Empire / Monarchie                              | **3d6**     |
+| Clan totémique majeur / République              | **2d6**     |
+| Clan totémique mineur / Clan familial important | **1d6**     |
+| Faction mineure                                 | **1d4**     |
 
 👉 **Un jet = une période d’effort (souvent 1 mois)**
 
@@ -290,13 +290,13 @@ Lorsqu’une faction entreprend une action complexe :
 
 ## 🎯 Seuils cumulés recommandés
 
-|Envergure de l’action|Seuil total|
-|---|---|
-|Locale|**10**|
-|Régionale|**20**|
-|Majeure|**30**|
-|Stratégique|**40**|
-|Historique / Légendaire|**50+**|
+| Envergure de l’action   | Seuil total |
+| ----------------------- | ----------- |
+| Locale                  | **10**      |
+| Régionale               | **20**      |
+| Majeure                 | **30**      |
+| Stratégique             | **40**      |
+| Historique / Légendaire | **50+**     |
 
 > Le MJ peut ajuster le seuil selon :
 > 
