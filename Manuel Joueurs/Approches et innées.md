@@ -9,14 +9,14 @@ L’approche indique **comment** vous agissez, pas ce que vous faites.
 
 Les six approches sont :
 
-|Approche|
-|---|
-|**Puissante**|
-|**Rusée**|
-|**Subtile**|
-|**Rapide**|
-|**Prudente**|
-|**Flashy**|
+| Approche      |
+| ------------- |
+| **Puissante** |
+| **Rusée**     |
+| **Subtile**   |
+| **Rapide**    |
+| **Prudente**  |
+| **Flashy**    |
 
 Avant chaque action importante, vous décrivez :
 
