@@ -34,18 +34,18 @@ Militaire, Criminelle, Économique (par la contrainte), Culture de la peur.
 |Flashy|+3|
 ## 📦 Ressources
 
-|Ressource|Niveau|Notes fictionnelles|
-|---|---|---|
-|💰 Argent|+2|Capitaines riches, butins constants|
-|✨ Magie|+1|Artefacts, talismans volés|
-|🌾 Nourriture|+1|Pillage et razzias|
-|🧑‍🤝‍🧑 Population|+1|Esclaves, protégés contraints|
-|⚔️ Armée / Force|+3|Équipages violents et aguerris|
-|📚 Savoir|+1|Connaissance des routes et faiblesses|
-|🕵️ Réseau / Espions|+2|Éclaireurs « indépendants »|
-|⭐ Elite|+4|Duellistes, champions, capitaines|
-|🤝 Diplomatie Clan|+1|Peur et respect forcé|
-|🌐 Diplomatie Empires|+1|Corruption, arrangements secrets|
+| Ressource             | Niveau | Notes fictionnelles                   |
+| --------------------- | ------ | ------------------------------------- |
+| 💰 Argent             | +2     | Capitaines riches, butins constants   |
+| ✨ Magie               | +1     | Artefacts, talismans volés            |
+| 🌾 Nourriture         | +1     | Pillage et razzias                    |
+| 🧑‍🤝‍🧑 Population   | +1     | Esclaves, protégés contraints         |
+| ⚔️ Armée / Force      | +3     | Équipages violents et aguerris        |
+| 📚 Savoir             | +1     | Connaissance des routes et faiblesses |
+| 🕵️ Réseau / Espions  | +2     | Éclaireurs « indépendants »           |
+| ⭐ Elite               | +4     | Duellistes, champions, capitaines     |
+| 🤝 Diplomatie Clan    | +1     | Peur et respect forcé                 |
+| 🌐 Diplomatie Empires | +1     | Corruption, arrangements secrets      |
 ## 🧩 Aspects secondaires
 
 ### 🦈 Loi du plus fort
