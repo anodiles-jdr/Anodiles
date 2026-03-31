@@ -1,60 +1,83 @@
-Introduction 
+Je m’appelle **Tsanin Odepluie**.  
+Ma colorisation est rouge.  
+Je suis le père d’**Aelin**, dont la couleur naturelle est bleue.
 
-Je m'appelle Tsanin Odepluie, ma colorisation est rouge, et je suis le père d'Aelin, un jeune elfe dont la couleur naturelle est bleue. Nous avons traversé une expérience singulière lorsque notre fils a été intégré dans un internat bleu. Je souhaite partager notre histoire pour témoigner des défis et des joies de ce parcours, et de la manière dont notre société elfique a évolué pour embrasser la diversité et la réconciliation. 
+Je n’ai jamais prétendu être un homme courageux.  
+Lorsque notre fils fut désigné pour intégrer un **internat bleu**, j’ai d’abord ressenti une fierté inquiète — puis une peur sourde que je n’ai pas su nommer.
 
-L'Annonce et les Préparatifs 
+Nous savions, bien sûr, que ces internats existaient pour “réconcilier les couleurs”. On nous l’avait répété toute notre vie. Mais savoir qu’un système est juste n’empêche pas de redouter ce qu’il exige.
 
-Lorsque nous avons reçu la lettre d’acceptation d’Aelin à l’internat de couleur bleue, notre famille a ressenti un mélange d'excitation et d'appréhension. Nous avions toujours su que le système de parrainage et d'intégration était en place pour favoriser l'unité et la compréhension entre les différentes couleurs, mais l'idée de voir notre fils élevé dans la maison rouge aille vivre parmi des bleus nous inquiétait. 
+---
 
-- Réactions Initiales : Aelin était enthousiaste. Il voyait cela comme une opportunité d'apprendre et de grandir. Ma femme et moi, cependant, étions préoccupés par les possibles défis d'adaptation et de l'acceptation de notre fils dans un environnement où il serait différent. 
-    
+#### **L’annonce**
 
-- Préparatifs : Nous avons préparé Aelin en lui parlant des valeurs d'inclusion et de respect mutuel enseignées dans les internats. Nous lui avons rappelé l'importance de rester fidèle à sa couleur tout en apprenant à valoriser celles des autres. 
-    
+Aelin, lui, accueillit la nouvelle avec un enthousiasme désarmant.  
+Il parlait de la mer, des fresques bleues, des cérémonies nocturnes qu’il avait entendues décrire.
 
-L'Arrivée à l'Internat 
+Sa mère et moi échangions des regards plus silencieux.  
+Nous avions grandi à une époque où la couleur déterminait encore le cercle de confiance. Pas par décret — par habitude.
 
-Le jour de l’arrivée à l’internat bleu fut marquant. Le bâtiment, situé en bord de mers, à flanc de montage, aux multiples fresques d’un infinité de teintes bleues, semblait accueillant et pourtant légèrement intimidant. 
+Avant son départ, nous lui avons parlé de respect, d’écoute, de loyauté à soi‑même.  
+Je lui ai dit — et je me rends compte aujourd’hui à quel point c’était maladroit — de “ne pas oublier d’où il venait”.
 
-- Accueil : Les élèves et le personnel de l’internat nous ont accueillis chaleureusement. Des rituels d’accueil, comprenant des chants et des danses, étaient organisés pour célébrer l’arrivée des nouveaux venus. 
-    
+---
 
-- Premières Impressions : Aelin, avec sa robe rouge éclatante, se démarquait nettement. Mais loin de se sentir isolé, il fut rapidement entouré par des camarades curieux et bienveillants qui l’aidèrent à s’installer. Certains comme lui porté la robe traditionnelle de notre maison mais toutes les maisons étaient représentées. 
-    
+#### **L’arrivée**
 
-Les Défis d'Intégration 
+L’internat bleu se dressait au‑dessus de la mer, adossé à la roche, couvert de teintes mouvantes qui changeaient avec la lumière.  
+C’était beau. Et cela aussi m’inquiétait.
 
-Malgré le chaleureux accueil, Aelin dut faire face à plusieurs défis durant ses premiers mois à l’internat. 
+L’accueil fut formel, presque solennel.  
+Des chants, des danses, des gestes anciens répétés avec précision.  
+On sentait que ces rituels avaient été pensés pour apaiser — et pour cadrer.
 
-- Adaptation Sociale : La différence de couleur suscita des questions et des regards, parfois de la part de ceux qui n’avaient jamais interagi avec des elfes d’autres couleurs. Aelin fit face à quelques commentaires maladroits, mais aussi à de nombreuses marques de soutien.  
-    
+Aelin se tenait là, vêtu de rouge, entouré d’enfants de toutes couleurs. Il n’était pas le seul “différent”, mais il était visible. Je crois que cela lui plaisait.
 
-- Rituels et Traditions : Les traditions spécifiques aux bleus, comme les cérémonies nocturnes et les jeux aquatiques, étaient nouvelles pour Aelin. Il les aborda avec curiosité et respect, et ses camarades l’aidèrent à les comprendre et à y participer. 
-    
+---
 
-La Transition et l'Acceptation 
+#### **Les premiers mois**
 
-Avec le temps, Aelin parvint à s'intégrer pleinement, grâce à son ouverture d’esprit et au soutien de l’internat. 
+Tout ne fut pas simple.
 
-- Amitiés et Liens : Aelin se lia d'amitié avec plusieurs élèves. Il forma des liens forts, basés sur des intérêts communs et le respect mutuel. Ces amitiés devinrent des ponts entre les couleurs parentale, enrichissant l'expérience de tous et renforçant leur unité autours des différences initiales. 
-    
+Il y eut des questions maladroites.  
+Des silences trop longs.  
+Des regards qui cherchaient à comprendre sans toujours y parvenir.
 
-- Participation Active : Aelin s’impliqua activement dans la vie de l’internat. Il participa à des projets artistiques où il mélangeait les rouges et les bleus, symbolisant l’unité et la collaboration. 
-    
+Les jeux aquatiques nocturnes, les exercices de respiration collective, les veilles silencieuses au bord de l’eau — tout cela était étranger à Aelin. Il s’y est pourtant engagé avec sérieux, comme s’il avait compris que l’effort comptait autant que le résultat.
 
-Réconciliation et Épanouissement 
+Je ne sais pas s’il a souffert.  
+Il ne nous l’a jamais dit clairement.  
+Je sais seulement qu’il a cessé, au fil des lettres, de parler en termes de “bleus” et de “rouges”.
 
-L’expérience d’Aelin à l’internat fut non seulement une réussite personnelle mais aussi un témoignage vivant des progrès de notre société elfique. 
+---
 
-- Croissance Personnelle : Aelin gagna en maturité et en compréhension des autres. Il apprit que la véritable couleur d’un elfe réside autant dans son cœur et ses actions que dans la teinte de son aura magique. 
-    
+#### **Ce que cela a changé**
 
-- Impact sur la Famille : Notre famille fut également transformée par cette expérience. Les échanges réguliers avec les familles de l’internat nous permirent de mieux comprendre et apprécier la diversité des couleurs. Tout en découvrant plus précisément la maison bleue. 
-    
+Avec le temps, Aelin s’est lié à d’autres.  
+Des amitiés réelles, imparfaites, parfois tendues.  
+Il m’a parlé de projets artistiques mêlant pigments rouges et bleus, de disputes aussi, jamais violentes, mais jamais anodines.
 
-- Symboles de Réconciliation : Lors des cérémonies de fin d’année, Aelin fut choisi pour lire un discours sur la réconciliation et l’unité. Sa voix, incarnée l’espoir et la continuité des valeurs de notre société. 
-    
+Lors de la cérémonie de fin d’année, on lui demanda de prendre la parole.  
+Pourquoi lui ? Je l’ignore encore.
 
-Conclusion 
+Il parla d’unité, oui.  
+Mais aussi de malaise.  
+Du fait que l’on n’efface pas des générations de séparation par décret ou par chant.
 
-L'intégration d'Aelin dans un internat, bien qu'initialement source d'inquiétude, s'est avérée être une expérience enrichissante et transformative. Elle a renforcé notre foi en les valeurs de réconciliation et d'unité qui guident la société elfique contemporaine. Aelin, avec sa couleur rouge vive, est devenu un ambassadeur de la diversité, montrant par son exemple que les différences peuvent être une source de richesse et de beauté.
+Je l’ai écouté, partagé entre fierté et vertige.
+
+---
+
+#### **Conclusion**
+
+Je ne prétends pas que notre société elfique soit guérie.  
+Je crois seulement qu’elle essaie — parfois maladroitement, parfois sincèrement.
+
+Mon fils est revenu changé.  
+Pas bleu. Pas rouge autrement.  
+Simplement plus conscient de ce que coûte l’harmonie.
+
+Si ce témoignage a une valeur, qu’il serve au moins à rappeler ceci :
+
+> **La réconciliation n’est pas un état.  
+> C’est un effort qui ne se voit que lorsqu’il menace d’échouer.**
