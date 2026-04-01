@@ -1,14 +1,14 @@
 ---
 type: faction
-statut: majeure | mineure | secrète
+statut: majeure
 zone: Anneau
 alliés:
   - Clan de la Mouette
+  - Clan du Dauphin
 ennemis: []
 tags:
   - faction
   - politique
-  - religion
 ---
 _Le temps est notre allié._  
 _La Tortue se souvient._

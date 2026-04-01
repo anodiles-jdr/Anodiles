@@ -1,5 +1,6 @@
 ---
 type: faction
+statut: majeure
 zone: Anneau
 alliés:
   - Clan de la Mouette
