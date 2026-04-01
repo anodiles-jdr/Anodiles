@@ -1,7 +1,7 @@
 ---
 type: faction
 statut: majeure | mineure | secrète
-zone:
+zone: Anneau
 alliés:
   - Clan de la Mouette
 ennemis: []
@@ -9,7 +9,6 @@ tags:
   - faction
   - politique
   - religion
-  - crime
 ---
 _Le temps est notre allié._  
 _La Tortue se souvient._
