@@ -3,16 +3,16 @@ tags:
   - Empire
   - Histoire
 ---
-## **Déclenchement**
+### **Déclenchement**
 
-Les âges d’or naissent rarement d’une illumination soudaine : ils émergent de découvertes lentes, diffuses, qui finissent par s’additionner. Dans l’Herganat, tout commence lorsque plusieurs érudits — sans se connaître, et en l’espace de quelques années — identifient le phénomène de **dissolution de l’âme dans l’air**.  
-La nécromancie ne débute pas comme un art occulte, mais comme une **science physique**, cherchant à comprendre ce que devient l’essence d’un individu après la mort.
+Les âges d’or naissent rarement d’une illumination soudaine : ils émergent de découvertes lentes, diffuses, qui finissent par s’additionner. Dans l’Herganat, tout commence lorsque plusieurs érudits — sans se connaître, et en l’espace de quelques années — identifient le phénomène de dissolution de l’âme dans l’air.  
+La nécromancie ne débute pas comme un art occulte, mais comme une science physique, cherchant à comprendre ce que devient l’essence d’un individu après la mort.
 
-Les premiers mort‑vivants créés sont rudimentaires, presque expérimentaux : des zombies dociles, des squelettes de service. Il faudra près de deux siècles d’essais, de disputes théoriques et de raffinements rituels pour aboutir à la création de la **première archi‑liche**.  
-Sa naissance marque l’unification politique du territoire et le début du **calendrier commun**.
+Les premiers mort‑vivants créés sont rudimentaires, presque expérimentaux : des zombies dociles, des squelettes de service. Il faudra près de deux siècles d’essais, de disputes théoriques et de raffinements rituels pour aboutir à la création de la première archi‑liche.  
+Sa naissance marque l’unification politique du territoire et le début du calendrier commun.
 
 La Thanatocratie n’est donc pas née d’un acte unique, mais d’un **mouvement intellectuel**, un moment où l’Herganat a compris qu’il pouvait façonner l’âme comme il façonnait la pierre.
-## **Affirmation**
+### **Affirmation**
 
 Avec l’apparition des premiers mort‑vivants, l’Herganat découvre un avantage décisif : une **main‑d’œuvre infatigable**, insensible, parfaitement loyale. Très vite, les élites nécromantiques se posent une question simple : à quoi bon maintenir serfs et esclaves en vie, lorsque des corps animés assurent le même travail, sans revendications ni risques de révolte ?
 
