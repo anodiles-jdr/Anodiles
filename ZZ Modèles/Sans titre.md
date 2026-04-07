@@ -1,4 +1,4 @@
-#### 💢 OTAGES 👤💨
+#### 👥 OTAGES 👤💨
 ▢▢ | ▢▢ 
 ✅ Subtile 🕶 **•** Prudente 🛡️
 ❌ Puissante 💥 **•** Flashy 🎭
@@ -7,7 +7,7 @@
 
 ---
 
-#### 💢 LUSTRE 🪨🔥
+#### 🪨 LUSTRE ⚒️🔥
 ▢▢ | ▢▢
 ✅ **Rapide** ⚡ **•** **Rusée** 🧠  
 ❌ **Prudente** 🛡️ **•** **Subtile** 🕶️
