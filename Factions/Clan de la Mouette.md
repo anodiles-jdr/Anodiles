@@ -42,18 +42,18 @@ Logistique, Communication, Cartographie, Diplomatie indirecte.
 |Flashy|+1|
 ## 📦 Ressources
 
-|Ressource|Niveau|Notes fictionnelles|
-|---|---|---|
-|💰 Argent|+2|Contrats, guildes marchandes|
-|✨ Magie|+1|Artefacts de navigation|
-|🌾 Nourriture|+1|Approvisionnement minimal|
-|🧑‍🤝‍🧑 Population|+1|Peu nombreux mais fiables|
-|⚔️ Armée / Force|+1|Défensive uniquement|
-|📚 Savoir|+2|Cartographie, routes secrètes|
-|🕵️ Réseau / Espions|+3|Information par le transport|
-|⭐ Elite|+3|Capitaines d’exception|
-|🤝 Diplomatie Clan|+2|Neutralité respectée|
-|🌐 Diplomatie Empires|+3|Tolérés, mais surveillés|
+| Ressource             | Niveau | Notes fictionnelles           |
+| --------------------- | ------ | ----------------------------- |
+| 💰 Argent             | +2     | Contrats, guildes marchandes  |
+| ✨ Magie               | +1     | Artefacts de navigation       |
+| 🌾 Nourriture         | +1     | Approvisionnement minimal     |
+| 🧑‍🤝‍🧑 Population   | +1     | Peu nombreux mais fiables     |
+| ⚔️ Armée / Force      | +1     | Défensive uniquement          |
+| 📚 Savoir             | +2     | Cartographie, routes secrètes |
+| 🕵️ Réseau / Espions  | +3     | Information par le transport  |
+| ⭐ Elite               | +3     | Capitaines d’exception        |
+| 🤝 Diplomatie Clan    | +2     | Neutralité respectée          |
+| 🌐 Diplomatie Empires | +3     | Tolérés, mais surveillés      |
 ## 🧩 Aspects secondaires
 
 ### 🧭 Neutralité utile, neutralité irritante
