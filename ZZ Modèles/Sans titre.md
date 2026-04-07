@@ -1,5 +1,5 @@
 ### ÉVÉNEMENT — Rituel en cours
-**Jauge :** 4 ▢▢▢▢ · 2 ▢▢ · 0 ▢ 
+**Jauge :** 0 ▢▢▢▢ 4
 **Nature du coût :** Symbolique / Cosmique
 #### ✅ Approches favorables
 - Prudente
