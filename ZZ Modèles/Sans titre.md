@@ -3,4 +3,4 @@
 ✅ Subtile 🕶 · Prudente 🛡️
 ❌ Puissante 💥 · Flashy 🎭
 💥 Les otages sont libérés.
-➕ Action mineure d’évacuation
+➕ · 🔄 · ✂️ Puissante possible contre la scène
