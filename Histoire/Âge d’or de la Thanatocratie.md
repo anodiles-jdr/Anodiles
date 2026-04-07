@@ -55,20 +55,19 @@ Aussi violent qu’il fut, l’âge d’or de la Thanatocratie a laissé des tra
 
 #### Une diaspora humaine massive
 
-La zombification et les politiques impériales entraînent la fuite de milliers de serfs et d’esclaves vers l’anneau.  
-Les vagues migratoires multiples expliquent en partie la **prégnance démographique humaine** aujourd’hui.
+La zombification et les politiques impériales entraînent la fuite de milliers de serfs et d’esclaves vers l’anneau.  Les vagues migratoires multiples expliquent en partie la prégnance démographique humaine aujourd’hui.
 
 #### Une langue commune
 
-Le bas herganien, langue simple et consolidée par des siècles de centralisation nécromantique, devient la base du **parler commun d’Anodiles**.
+Le bas herganien, langue simple et consolidée par des siècles de centralisation nécromantique, devient la base du parler commun d’Anodiles.
 
-### Une science de l’âme
+#### Une science de l’âme
 
 Les nécromanciens laissent un héritage conceptuel majeur :
 
 - une définition claire de la mort,
 - la compréhension de la dissolution de l’âme,
-- la capacité de **fixer** une âme dans un corps,
+- la capacité de fixer une âme dans un corps,
 - la preuve que l’après‑vie n’existe pas sans réceptacle.
 
 Ce regard, froid et sans illusions, marque encore la philosophie d’Anodiles :  
@@ -76,9 +75,9 @@ La mort n’est pas un passage, mais une rupture.
 
 ### Une technologie politique unique
 
-La Thanatocratie légitime un principe : **le pouvoir du sang**.  
+La Thanatocratie légitime un principe : le pouvoir du sang.  
 Plus un lignage est ancien et puissant, plus la nécromancie qu’il exerce est stable, précise et efficace.  
 Cette idéologie se diffuse dans tout Anodiles, même dans des cultures qui rejettent l’Herganat.
-# **Conclusion**
+### **Conclusion**
 
 L’âge d’or de la Thanatocratie n’est pas seulement une période de domination nécromantique.  C’est un moment charnière où la science, la féodalité, la magie de l’âme et l’obsession du contrôle total se cristallisent pour former un empire cohérent, puissant… et condamné par sa propre rigidité.
