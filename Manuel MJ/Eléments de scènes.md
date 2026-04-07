@@ -19,7 +19,7 @@
 💥 Le sol s’effondre brutalement sous la zone ciblée.  
 ➕ **•** 🔄 **•** ✂️ Terrain devenu instable pour la scène
 
-#### PROCESSUS – Rituel du 🔮🪨
+#### PROCESSUS – Rituel du lien 🔮🪨
 ▢▢ | ▢▢
 ✅ **Prudente** 🛡️ **•** **Rusée** 🧠  
 ❌ **Rapide** ⚡ **•** **Puissante** 💥
