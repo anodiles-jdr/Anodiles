@@ -18,12 +18,12 @@
 
 # 🧬 GÉO‑ORIGINES (RACIALES / CULTURELLES)
 
-|Origine|Emoji|Sens implicite|
-|---|---|---|
-|**Humain**|👤|adaptation, compromis|
-|**Elfe**|🧝|révélation, savoir|
-|**Nain**|⚒️|structure, méthode|
-|**Orque**|🦷|imposition, domination|
+| Origine    | Emoji | Sens implicite         |
+| ---------- | ----- | ---------------------- |
+| **Humain** | 👤    | adaptation, compromis  |
+| **Elfe**   | 🧝    | révélation, savoir     |
+| **Nain**   | ⚒️    | structure, méthode     |
+| **Orque**  | 🦷    | imposition, domination |
 
 👉 Simples, très reconnaissables, sans caricature excessive.
 
