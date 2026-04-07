@@ -1,6 +1,6 @@
 #### 💢 OTAGES 👤💨
 ▢▢ | ▢▢ 
-✅ Subtile 🕶 · Prudente 🛡️
-❌ Puissante 💥 · Flashy 🎭
+✅ Subtile 🕶 **•** Prudente 🛡️
+❌ Puissante 💥 **•** Flashy 🎭
 💥 Les otages sont libérés.
-➕ · 🔄 · ✂️ Puissante possible contre la scène
+➕ **•** 🔄 **•** ✂️ Puissante possible contre la scène
