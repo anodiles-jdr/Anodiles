@@ -2,7 +2,7 @@
 **Jauge :** 4 ▢▢▢▢ · 2 ▢▢ · 0 ▢ 
 **Nature du coût :** Symbolique / Cosmique
 #### ✅ Approches favorables
-Prudente
+- Prudente
 - Rusée
 #### ❌ Approches défavorables
 - Rapide
