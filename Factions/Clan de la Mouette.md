@@ -32,14 +32,14 @@ Petit clan mais très mobile :
 Logistique, Communication, Cartographie, Diplomatie indirecte.
 ## ⚖️ Approches de faction
 
-|Approche|Score|
-|---|---|
-|Puissante|+1|
-|Rusée|+2|
-|Subtile|+3|
-|Rapide|+4|
-|Prudente|+2|
-|Flashy|+1|
+| Approche  | Score |
+| --------- | ----- |
+| Puissante | +1    |
+| Rusée     | +2    |
+| Subtile   | +3    |
+| Rapide    | +4    |
+| Prudente  | +2    |
+| Flashy    | +1    |
 ## 📦 Ressources
 
 | Ressource             | Niveau | Notes fictionnelles           |
