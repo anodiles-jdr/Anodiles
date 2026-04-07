@@ -24,14 +24,14 @@ Petit clan mais extrêmement concentré :
 Militaire, Criminelle, Économique (par la contrainte), Culture de la peur.
 ## ⚖️ Approches de faction
 
-|Approche|Score|
-|---|---|
-|Puissante|+3|
-|Rusée|+2|
-|Subtile|+1|
-|Rapide|+2|
-|Prudente|+0|
-|Flashy|+3|
+| Approche  | Score |
+| --------- | ----- |
+| Puissante | +3    |
+| Rusée     | +2    |
+| Subtile   | +1    |
+| Rapide    | +2    |
+| Prudente  | +0    |
+| Flashy    | +3    |
 ## 📦 Ressources
 
 | Ressource             | Niveau | Notes fictionnelles                   |
