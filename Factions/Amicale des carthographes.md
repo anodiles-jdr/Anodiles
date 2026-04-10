@@ -8,31 +8,31 @@ _« Ce qui bouge doit être noté. Ce qui disparaît doit être mémorisé. 
 
 ## 🎭 Aspects majeurs
 
-### **Concept**
+### Concept
 
-Les **stèles** disséminées sur les îles d’Anodiles sont l’œuvre des **Cartographes**.  
-Ils recensent les îles, consignent les agglomérations et séparations, suivent les **changements de trajectoire**, et tentent — parfois avec succès — de **prédire le comportement des îles erratiques ou hors Anneau**.
+Les stèles disséminées sur les îles d’Anodiles sont l’œuvre des Cartographes.  
+Ils recensent les îles, consignent les agglomérations et séparations, suivent les changements de trajectoire, et tentent — parfois avec succès — de prédire le comportement des îles erratiques ou hors Anneau.
 
-Hommes et femmes de science avant tout, les Cartographes constituent la **mémoire spatiale vivante** d’Anodiles. Sans eux, routes, ports, alliances et guerres seraient livrés au hasard des rotations.
+Hommes et femmes de science avant tout, les Cartographes constituent la mémoire spatiale vivante d’Anodiles. Sans eux, routes, ports, alliances et guerres seraient livrés au hasard des rotations.
 
-### **Problème**
+### Problème
 
-Cartographier Anodiles, c’est manipuler une information **stratégiquement critique**.  
+Cartographier Anodiles, c’est manipuler une information stratégiquement critique.  
 Chaque donnée peut sauver un navire… ou condamner une île.  
-Les Cartographes doivent donc composer en permanence entre **diffusion du savoir** et **rétention volontaire**, sous la pression constante des Empires, des clans et des puissances émergentes.
+Les Cartographes doivent donc composer en permanence entre diffusion du savoir et rétention volontaire, sous la pression constante des Empires, des clans et des puissances émergentes.
 
 ---
 
 ## 🌍 Domaine d’influence
 
-**Territoires :**  
+Territoires :  
 Aucun territoire propre.  
 Présence sur l’ensemble d’Anodiles via stèles, observatoires temporaires, navires et relais insulaires.
 
-**Population :**  
+Population :  
 Savants, géomanciens, astronomes maritimes, scribes de stèles, navigateurs spécialisés.
 
-**Sphères d’action :**  
+Sphères d’action :  
 Scientifique, Maritime, Informationnelle, Stratégique.
 
 ---
@@ -65,7 +65,7 @@ Scientifique, Maritime, Informationnelle, Stratégique.
 | 🤝 Diplomatie Clan   | +3     |                                                 |
 | 🌐 Diplomatie Nation | +2     |                                                 |
 
-**Compétences associées :**  
+Compétences associées :  
 Sciences, Océans
 
 ---
@@ -76,8 +76,8 @@ Sciences, Océans
 
 _La pierre se souvient quand les hommes oublient._
 
-- ✅ **Invocation :** données fiables, continuité historique, repères durables
-- ❌ **Contrainte :** informations obsolètes, stèles détruites ou falsifiées
+- ✅ Invocation : données fiables, continuité historique, repères durables
+- ❌ Contrainte : informations obsolètes, stèles détruites ou falsifiées
 
 ---
 
@@ -85,8 +85,8 @@ _La pierre se souvient quand les hommes oublient._
 
 _Bien des cartes se dessinent en mer._
 
-- ✅ **Invocation :** mobilité, accès aux routes maritimes, protection indirecte
-- ❌ **Contrainte :** dépendance aux clans hôtes, zones interdites
+- ✅ Invocation : mobilité, accès aux routes maritimes, protection indirecte
+- ❌ Contrainte : dépendance aux clans hôtes, zones interdites
 
 ---
 
@@ -94,22 +94,22 @@ _Bien des cartes se dessinent en mer._
 
 _Certains secrets n’existent que parce qu’ils bougent._
 
-- ✅ **Invocation :** compréhension des îles erratiques, prédictions audacieuses
-- ❌ **Contrainte :** expéditions perdues, théories incomplètes
+- ✅ Invocation : compréhension des îles erratiques, prédictions audacieuses
+- ❌ Contrainte : expéditions perdues, théories incomplètes
 
 ---
 
 ## ⚔️ Capacités spéciales (Prouesses)
 
-### **Cartographie vivante**
+### Cartographie vivante
 
 Les Cartographes peuvent produire des cartes évolutives tenant compte des rotations, dérives et interactions entre îles.
 
-### **Stèles‑relais**
+### Stèles‑relais
 
 Une stèle active permet de transmettre des informations clés à d’autres Cartographes sans passer par les réseaux classiques.
 
-### **Lire l’improbable**
+### Lire l’improbable
 
 Face à une île erratique ou hors trajectoire connue, un Cartographe peut formuler une hypothèse exploitable là où d’autres voient le hasard.
 
@@ -117,29 +117,29 @@ Face à une île erratique ou hors trajectoire connue, un Cartographe peut formu
 
 ## 🤝 Relations
 
-- **Clan de la Mouette** : partenaires privilégiés, soutien logistique fréquent
-- **Clans de l’Anneau** : respect pragmatique
-- **Empires** : intérêt stratégique, tentatives de captation du savoir
-- **République** : coopération prudente, besoin mutuel
+- Clan de la Mouette : partenaires privilégiés, soutien logistique fréquent
+- Clans de l’Anneau : respect pragmatique
+- Empires : intérêt stratégique, tentatives de captation du savoir
+- République : coopération prudente, besoin mutuel
 
 ---
 
 ## 🧭 Pratiques et modes de vie
 
-La majorité des Cartographes sont embarqués sur des **navires du clan de la Mouette**.  
-Certains préfèrent cependant les îles à **haute ou basse vitesse de rotation**, afin d’observer des phénomènes rares.
+La majorité des Cartographes sont embarqués sur des navires du clan de la Mouette.  
+Certains préfèrent cependant les îles à haute ou basse vitesse de rotation, afin d’observer des phénomènes rares.
 
-Plus rares encore sont ceux qui osent voyager **à bord d’une île erratique**, acceptant un risque extrême au nom du savoir.
+Plus rares encore sont ceux qui osent voyager à bord d’une île erratique, acceptant un risque extrême au nom du savoir.
 
 ---
 
 ## 🎯 Rôle dans Anodiles
 
 Les Cartographes ne décident pas où vont les îles.  
-Ils décident **qui sait où elles vont**.
+Ils décident qui sait où elles vont.
 
 Ils ne font pas la guerre.  
-Ils déterminent **où elle aura lieu**.
+Ils déterminent où elle aura lieu.
 
 ---
 
@@ -153,4 +153,4 @@ Ils déterminent **où elle aura lieu**.
 
 ## 🧠 En une phrase (Aspect de campagne possible)
 
-> **« Dans un monde qui dérive, savoir où l’on est devient un pouvoir. »**
+> « Dans un monde qui dérive, savoir où l’on est devient un pouvoir. »

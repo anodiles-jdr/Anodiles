@@ -6,7 +6,7 @@ tags:
 
 Anodiles n’est pas une planète.  
 Elle n’orbite autour d’aucun soleil, ne connaît ni lune, ni étoiles, ni constellations rassurantes.  
-Le monde est un **disque titanesque**, suspendu dans un vide sans fond, éclairé uniquement par un astre artificiel : une **sphère lumineuse** qui glisse d’un bord du ciel à l’autre avec la régularité d’un mécanisme — trop parfaite pour être naturelle.
+Le monde est un disque titanesque, suspendu dans un vide sans fond, éclairé uniquement par un astre artificiel : une sphère lumineuse qui glisse d’un bord du ciel à l’autre avec la régularité d’un mécanisme — trop parfaite pour être naturelle.
 
 Ce “soleil” n’en est pas un.  
 Sa lumière n’a pas la vibration d’une étoile, et les savants savent que son intensité ne change jamais : elle est constante, sans souffle, sans vie.  
@@ -37,10 +37,10 @@ Pas une étoile.
 Pas une lune.  
 Aucun repère.
 
-Une obscurité **totale**, uniforme, sans horizon.  
+Une obscurité totale, uniforme, sans horizon.  
 Elle dure six heures, perçant les esprits et les cœurs. Les voyageurs étrangers parlent d’une nuit “épaisse”, comme si l’air lui-même devenait matière noire.
 
-Certains jurent que, dans ce silence, **le vide observe**.
+Certains jurent que, dans ce silence, le vide observe.
 ## Un Mystère Cosmique
 
 D’où vient cette lumière ?  
@@ -78,4 +78,4 @@ Les nuits totales aussi.
 Et beaucoup de sages pensent que c’est cette interaction — lumière artificielle + atmosphère élémentaire — qui a permis à Anodiles de survivre après les Grandes Vagues.
 ## Conclusion
 
-Anodiles n’a pas de ciel.  Elle n’a qu’un **mécanisme céleste**, une lumière programmée, un noir absolu… et un vide qui semble attendre. Même les plus braves, face à cette nuit parfaite, sentent leur respiration ralentir. Parce qu’au-dessus du disque, il n’y a rien. Ou peut-être quelque chose. Quelque chose qui regarde.
+Anodiles n’a pas de ciel.  Elle n’a qu’un mécanisme céleste, une lumière programmée, un noir absolu… et un vide qui semble attendre. Même les plus braves, face à cette nuit parfaite, sentent leur respiration ralentir. Parce qu’au-dessus du disque, il n’y a rien. Ou peut-être quelque chose. Quelque chose qui regarde.

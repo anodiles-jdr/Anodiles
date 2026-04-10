@@ -8,51 +8,51 @@ Les élémentaires sont les plus anciennes forces vivantes d’Anodiles. Bien qu
 
 ---
 
-## 🟦 **Les Îles : stabilité, flottaison et dérive**
+## 🟦 Les Îles : stabilité, flottaison et dérive
 
-Chaque île d’Anodiles contient une proportion unique d’élémentaires **primaires** (Feu, Terre, Air, Eau).  
+Chaque île d’Anodiles contient une proportion unique d’élémentaires primaires (Feu, Terre, Air, Eau).  
 La manière dont ces forces s’équilibrent détermine :
 
-- sa **flottaison**,
-- son **orbite**,
-- sa **stabilité**,
-- son **comportement erratique ou calme**.
+- sa flottaison,
+- son orbite,
+- sa stabilité,
+- son comportement erratique ou calme.
 
 Voici les principes observés :
 
-### **1. Les îles stables**
+### 1. Les îles stables
 
 Elles possèdent une proportion d’élémentaires proche de celle du “grand équilibre” d’Anodiles.  
 Elles suivent la trajectoire circulaire classique.
 
-### **2. Les îles erratiques**
+### 2. Les îles erratiques
 
-Souvent trop riches en **Feu** et en **Air**, elles avancent vite, changent de rythme, dérivent, accélèrent ou ralentissent brutalement.  
+Souvent trop riches en Feu et en Air, elles avancent vite, changent de rythme, dérivent, accélèrent ou ralentissent brutalement.  
 Elles représentent un danger réel pour la navigation.
 
-### **3. Les îles sous-marines**
+### 3. Les îles sous-marines
 
-Trop d’élémentaires de **Terre** y sont présents : elles rechutent, coulent ou émergent seulement par cycles.
+Trop d’élémentaires de Terre y sont présents : elles rechutent, coulent ou émergent seulement par cycles.
 
-### **4. Les îles volantes**
+### 4. Les îles volantes
 
 Cas exceptionnel :  
-Une île liée quasi exclusivement à l’élément **Air** devient une île flottante aérienne — magnifique, dangereuse, imprévisible.  
+Une île liée quasi exclusivement à l’élément Air devient une île flottante aérienne — magnifique, dangereuse, imprévisible.  
 Elles sont rares et souvent brèves dans leur stabilité.
 
 ---
 
-## 🌩️ **Les Lieux : microclimats, phénomènes rares et tempêtes vivantes**
+## 🌩️ Les Lieux : microclimats, phénomènes rares et tempêtes vivantes
 
 Les élémentaires se lient parfois à des phénomènes naturels.  
-Cette fusion temporaire crée des **microclimats** spectaculaires :
+Cette fusion temporaire crée des microclimats spectaculaires :
 
-- **Pluie chaude** (Air + Feu)
-- **Tornades de vapeur** (Air + Eau + Feu)
-- **Tempêtes de boue** (Eau + Terre)
-- **Pluies de feu** (Feu + Tempête : extrêmement rare)
-- **Geysers conscients**
-- **Cavernes “résonantes”** où un élémentaire de Terre s’est incarné trop longtemps
+- Pluie chaude (Air + Feu)
+- Tornades de vapeur (Air + Eau + Feu)
+- Tempêtes de boue (Eau + Terre)
+- Pluies de feu (Feu + Tempête : extrêmement rare)
+- Geysers conscients
+- Cavernes “résonantes” où un élémentaire de Terre s’est incarné trop longtemps
 
 Ce ne sont pas des effets magiques, mais des réactions naturelles amplifiées par la présence d’un élémentaire.
 
@@ -61,9 +61,9 @@ tous les habitants d’Anodiles, même sans être mages, connaissent une histoir
 
 ---
 
-## 🐾 **Les Êtres vivants : dons, métamorphoses et catastrophes**
+## 🐾 Les Êtres vivants : dons, métamorphoses et catastrophes
 
-Les élémentaires **ignorent** les humanoïdes.  
+Les élémentaires ignorent les humanoïdes.  
 Mais ils montrent parfois un intérêt instinctif pour des créatures qui partagent leur nature :
 
 - Feu → lézards, félins rapides, oiseaux flamboyants
@@ -78,7 +78,7 @@ Quand cela arrive, la créature hôte :
 - gagne des capacités nouvelles (cracher du feu, respirer sous l’eau, etc.),
 - se transforme parfois en créature “mythique”.
 
-### **Mais tout n’est pas harmonie.**
+### Mais tout n’est pas harmonie.
 
 Les phénomènes de rejet sont redoutés :
 
@@ -94,33 +94,33 @@ Les érudits n’ont que des hypothèses.
 
 ---
 
-## ⚙️ **Ingélieurie : la magie qui force les élémentaires**
+## ⚙️ Ingélieurie : la magie qui force les élémentaires
 
-La grande invention naine est l’**ingélieurie**.  
+La grande invention naine est l’ingélieurie.  
 Elle ne communique pas avec les élémentaires :  
-elle les **force** à s’incarner dans des **choses non naturelles**.
+elle les force à s’incarner dans des choses non naturelles.
 
 Cela permet d’obtenir :
 
-- **sources d’énergie** (élémentaires de Feu)
-- **moteurs** (Feu, Air)
-- **collecteurs d’eau ou d’air**
-- **filtres et détecteurs de minéraux** (Terre + Air)
-- **machines complexes**
-- **scaphandres**
-- **sous-marins**
+- sources d’énergie (élémentaires de Feu)
+- moteurs (Feu, Air)
+- collecteurs d’eau ou d’air
+- filtres et détecteurs de minéraux (Terre + Air)
+- machines complexes
+- scaphandres
+- sous-marins
 
 La culture naine limite plus l’usage que la technique elle-même.
 
 La maxime classique le résume :
 
-> **« On ne parle pas au feu. On le domine. »**
+> « On ne parle pas au feu. On le domine. »
 
 ---
 
-## ⚠️ **Ingélieurie & Nature : catastrophes et dangers**
+## ⚠️ Ingélieurie & Nature : catastrophes et dangers
 
-Les Nains ont aussi appris à **lier des élémentaires à des choses naturelles**.  
+Les Nains ont aussi appris à lier des élémentaires à des choses naturelles.  
 Cette pratique est dangereuse :
 
 - volcans “réveillés”,
@@ -132,7 +132,7 @@ Cette pratique est dangereuse :
 Malgré cela, la Monarchie naine poursuit ces expériences.  
 Elle constitue même une unité militaire d’élite :
 
-### **Les Matriciens**,
+### Les Matriciens,
 
 des soldats liés volontairement à des élémentaires, parfois plusieurs.
 

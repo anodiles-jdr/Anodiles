@@ -5,7 +5,7 @@ Les navires sont inestimables, les bateaux précieux.
 
 Voilà, en peu de mots, la situation.
 
-Dans l’Anneau d’îles, un **bateau** désigne une embarcation de quelques places, destinée aux trajets courts — une belle barque, parfois robuste, parfois fragile. Un **navire**, en revanche, est une tout autre affaire. Plus vaste, plus durable, il exige des arbres anciens pour sa construction. Or ces arbres ne poussent que sur des îles jalousement protégées par les clans totémiques les plus puissants, ou sur les îles‑continents. L’île des Orques est ainsi une cible de choix… avant que vous ne deveniez vous‑même la cible.
+Dans l’Anneau d’îles, un bateau désigne une embarcation de quelques places, destinée aux trajets courts — une belle barque, parfois robuste, parfois fragile. Un navire, en revanche, est une tout autre affaire. Plus vaste, plus durable, il exige des arbres anciens pour sa construction. Or ces arbres ne poussent que sur des îles jalousement protégées par les clans totémiques les plus puissants, ou sur les îles‑continents. L’île des Orques est ainsi une cible de choix… avant que vous ne deveniez vous‑même la cible.
 
 Un navire, dès lors, ne peut être inutile. Parce qu’il est rare, il appartient presque toujours à un collectif — une famille, un clan, une île — ou, plus rarement (sauf chez les clans du Requin), à un·e capitaine. Il a toujours une fonction claire : marchandage, transport de passagers, présence martiale, contrôle de route. Le navire comme lieu de vie permanent ou comme simple moyen de transport individuel est donc exceptionnel.
 
