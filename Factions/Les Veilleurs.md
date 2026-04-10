@@ -8,40 +8,40 @@ _« Se souvenir pour durer. »_
 
 ## 🎭 Nature de l’organisation
 
-Les **Veilleurs** sont à l’origine de la transformation profonde de la société orque après la **Grande Vague**. Leur **espérance de vie exceptionnelle** les a conduits à remettre en question la nature même de ce qu’étaient les orques jusque‑là, et à impulser une mutation culturelle, sociale et politique sans précédent.
+Les Veilleurs sont à l’origine de la transformation profonde de la société orque après la Grande Vague. Leur espérance de vie exceptionnelle les a conduits à remettre en question la nature même de ce qu’étaient les orques jusque‑là, et à impulser une mutation culturelle, sociale et politique sans précédent.
 
 Avant leur émergence, les orques vivaient :
 
-- en **groupes générationnels isolés**
+- en groupes générationnels isolés
 - sans villes
 - sans architecture durable (hors totems, menhirs, structures rituelles)
 - sans navigation au‑delà du simple canotage
 - sans ambition expansionniste
-- avec des relations extérieures **rarissimes et fortuites**
+- avec des relations extérieures rarissimes et fortuites
 
 L’île‑mère orque était alors perçue par les autres peuples comme :
 
-- **neutre**
-- **dangereuse**
-- **sans intérêt économique**
-- **vivement déconseillée**
+- neutre
+- dangereuse
+- sans intérêt économique
+- vivement déconseillée
 
 ---
 
 ## 🌍 Rupture historique : après la Grande Vague
 
-La **Grande Vague** marque un point de bascule.  
-Les Veilleurs deviennent le **catalyseur d’une nouvelle organisation sociale**, transformant les orques :
+La Grande Vague marque un point de bascule.  
+Les Veilleurs deviennent le catalyseur d’une nouvelle organisation sociale, transformant les orques :
 
 > d’une race biologiquement stable et culturellement figée  
 > → en une civilisation consciente d’elle‑même et capable de se projeter.
 
 Les orques passent alors :
 
-- de la **subsistance** à l’**artisanat d’art**
-- de l’oralité rudimentaire à une **évolution profonde du langage**
-- de l’immobilisme territorial à un **expansionnisme contraint**
-- de l’isolement à des **rapports politiques structurés**
+- de la subsistance à l’artisanat d’art
+- de l’oralité rudimentaire à une évolution profonde du langage
+- de l’immobilisme territorial à un expansionnisme contraint
+- de l’isolement à des rapports politiques structurés
 
 ---
 
@@ -49,16 +49,16 @@ Les orques passent alors :
 
 Les apports sont nombreux, mais les plus structurants sont :
 
-- **Évolution du langage**  
+- Évolution du langage  
     Le langage orque s’enrichit, se complexifie, permettant abstraction, planification et transmission longue.
     
-- **Urbanisation**  
-    Apparition de **villes**, de **lieux de savoir**, de **pôles culturels**.
+- Urbanisation  
+    Apparition de villes, de lieux de savoir, de pôles culturels.
     
-- **Expansionnisme**  
+- Expansionnisme  
     La contamination de l’île‑mère impose une projection hors du territoire originel.
     
-- **Artisanat non utilitaire**  
+- Artisanat non utilitaire  
     L’objet cesse d’être seulement utile : il devient porteur de sens, d’identité et de mémoire.
     
 
@@ -66,7 +66,7 @@ Les apports sont nombreux, mais les plus structurants sont :
 
 ## 🧠 Deux visions issues des Veilleurs
 
-Les Veilleurs ne sont **pas un bloc idéologique homogène**. Leur rôle de moteur a fait émerger **deux visions de l’optimum civilisationnel**, aujourd’hui incarnées par deux factions antagonistes.
+Les Veilleurs ne sont pas un bloc idéologique homogène. Leur rôle de moteur a fait émerger deux visions de l’optimum civilisationnel, aujourd’hui incarnées par deux factions antagonistes.
 
 ---
 
@@ -75,9 +75,9 @@ Les Veilleurs ne sont **pas un bloc idéologique homogène**. Leur rôle de mote
 _(majoritaire)_
 
 - Hostilité radicale envers les autres peuples d’Anodiles
-- Vision **défaitiste** de la pierre verte
-- Civilisation conçue comme **forteresse assiégée**
-- Optimum atteint par la **purification territoriale et la domination**
+- Vision défaitiste de la pierre verte
+- Civilisation conçue comme forteresse assiégée
+- Optimum atteint par la purification territoriale et la domination
 
 ---
 
@@ -85,10 +85,10 @@ _(majoritaire)_
 
 _(minoritaire mais influente)_
 
-- La pierre verte est une **opportunité**
-- Possibilité d’un **renouveau orque**
-- Civilisation conçue comme **projet politique et écologique**
-- Optimum atteint par la **projection, la diplomatie et la transformation choisie**
+- La pierre verte est une opportunité
+- Possibilité d’un renouveau orque
+- Civilisation conçue comme projet politique et écologique
+- Optimum atteint par la projection, la diplomatie et la transformation choisie
 
 _(L’opposition Rejetés / Projetés est volontairement homophonique : refuser ou se projeter.)_
 
@@ -104,7 +104,7 @@ Aujourd’hui, les Veilleurs :
 - forment les élites orques
 - influencent les décisions majeures sans gouverner directement
 
-Ils sont **présents en grand nombre chez les Projetés**, mais aussi chez les Rejetés, où leur rôle est plus doctrinal que créatif.
+Ils sont présents en grand nombre chez les Projetés, mais aussi chez les Rejetés, où leur rôle est plus doctrinal que créatif.
 
 ---
 
@@ -114,8 +114,8 @@ Ils sont **présents en grand nombre chez les Projetés**, mais aussi chez les R
 
 _Les Veilleurs pensent à l’échelle des siècles._
 
-- ✅ **Invocation :** vision à long terme, sagesse, anticipation
-- ❌ **Contrainte :** lenteur, décalage avec l’urgence, incompréhension générationnelle
+- ✅ Invocation : vision à long terme, sagesse, anticipation
+- ❌ Contrainte : lenteur, décalage avec l’urgence, incompréhension générationnelle
 
 ---
 
@@ -123,8 +123,8 @@ _Les Veilleurs pensent à l’échelle des siècles._
 
 _La stagnation est une mort lente._
 
-- ✅ **Invocation :** capacité d’adaptation, remise en question des traditions
-- ❌ **Contrainte :** fractures culturelles, conflits internes
+- ✅ Invocation : capacité d’adaptation, remise en question des traditions
+- ❌ Contrainte : fractures culturelles, conflits internes
 
 ---
 
@@ -132,8 +132,8 @@ _La stagnation est une mort lente._
 
 _La civilisation n’est pas une trahison._
 
-- ✅ **Invocation :** légitimité morale, innovation culturelle
-- ❌ **Contrainte :** accusations de corruption, rejet des plus traditionalistes
+- ✅ Invocation : légitimité morale, innovation culturelle
+- ❌ Contrainte : accusations de corruption, rejet des plus traditionalistes
 
 ---
 
@@ -141,7 +141,7 @@ _La civilisation n’est pas une trahison._
 
 - Tous les Veilleurs ne croient plus réellement à l’optimum atteignable.
 - Certains Veilleurs manipulent discrètement les Rejetés et les Projetés pour “forcer” l’évolution.
-- Un Veilleur très ancien aurait connu les orques **avant même leur forme actuelle**.
+- Un Veilleur très ancien aurait connu les orques avant même leur forme actuelle.
 
 ---
 
@@ -149,7 +149,7 @@ _La civilisation n’est pas une trahison._
 
 Les Veilleurs sont parfaits pour :
 
-- des **PNJ mentors**
-- des **conseillers ambigus**
-- des **instigateurs de grands projets**
-- des **sources de conflits idéologiques internes**
+- des PNJ mentors
+- des conseillers ambigus
+- des instigateurs de grands projets
+- des sources de conflits idéologiques internes

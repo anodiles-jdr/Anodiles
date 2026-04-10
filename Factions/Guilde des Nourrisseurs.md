@@ -4,26 +4,26 @@ _« Mieux vaut trop que pas assez. »_
 
 ## 🎭 Aspects majeurs
 
-### **Concept**
+### Concept
 
-Fondée après la Deuxième Vague, la **Guilde des Nourrisseurs** est une organisation productiviste dont la mission est claire : **éviter toute pénurie à tout prix**. Là où la Confrérie des Épices privilégie la qualité, la durabilité et les équilibres à long terme, les Nourrisseurs concentrent leurs efforts sur l’efficacité immédiate, la montée en charge rapide et la sécurisation des flux vitaux.  
+Fondée après la Deuxième Vague, la Guilde des Nourrisseurs est une organisation productiviste dont la mission est claire : éviter toute pénurie à tout prix. Là où la Confrérie des Épices privilégie la qualité, la durabilité et les équilibres à long terme, les Nourrisseurs concentrent leurs efforts sur l’efficacité immédiate, la montée en charge rapide et la sécurisation des flux vitaux.  
 Soins, aide alimentaire, systèmes de production d’urgence : leur intervention est souvent la différence entre survie et effondrement.
 
-### **Problème**
+### Problème
 
-Leurs méthodes, aussi indispensables soient‑elles, posent de sérieuses questions de **soutenabilité écologique, sociale et politique**. Surexploitation des ressources, dépendance créée chez les populations aidées, pressions diplomatiques liées à leur pouvoir logistique : refuser l’aide des Nourrisseurs est presque impossible… mais l’accepter engage souvent l’avenir.
+Leurs méthodes, aussi indispensables soient‑elles, posent de sérieuses questions de soutenabilité écologique, sociale et politique. Surexploitation des ressources, dépendance créée chez les populations aidées, pressions diplomatiques liées à leur pouvoir logistique : refuser l’aide des Nourrisseurs est presque impossible… mais l’accepter engage souvent l’avenir.
 
 ---
 
 ## 🌍 Domaine d’influence
 
-**Territoires :**  
+Territoires :  
 Présents dans tout l’Anneau, les Nourrisseurs s’installent prioritairement dans les zones fragiles, récemment sinistrées ou stratégiquement instables. Leurs infrastructures sont souvent temporaires… mais ont tendance à durer.
 
-**Population :**  
+Population :  
 Ingénieurs, soigneurs, logisticiens, intendants, scientifiques et personnels de sécurité. Une population hétérogène, souvent recrutée pour ses compétences plutôt que pour son appartenance clanique.
 
-**Sphères d’action :**  
+Sphères d’action :  
 Économique, Sanitaire, Scientifique, Diplomatique.
 
 ---
@@ -65,8 +65,8 @@ Ingénieurs, soigneurs, logisticiens, intendants, scientifiques et personnels de
 _La survie prime sur toute autre considération._  
 _Chaque crise est une urgence absolue._
 
-- ✅ **Invocation :** montée en production rapide, logistique d’urgence, priorisation efficace
-- ❌ **Contrainte :** épuisement des ressources, décisions brutales, dommages collatéraux
+- ✅ Invocation : montée en production rapide, logistique d’urgence, priorisation efficace
+- ❌ Contrainte : épuisement des ressources, décisions brutales, dommages collatéraux
 
 ---
 
@@ -75,8 +75,8 @@ _Chaque crise est une urgence absolue._
 _Soins, nourriture et infrastructures arrivent toujours à temps._  
 _Mais rarement sans contrepartie._
 
-- ✅ **Invocation :** accès garanti aux populations, influence locale immédiate, soutien populaire
-- ❌ **Contrainte :** dépendance créée, attentes permanentes, ressentiment à long terme
+- ✅ Invocation : accès garanti aux populations, influence locale immédiate, soutien populaire
+- ❌ Contrainte : dépendance créée, attentes permanentes, ressentiment à long terme
 
 ---
 
@@ -85,40 +85,40 @@ _Mais rarement sans contrepartie._
 _L’efficacité guide chaque décision._  
 _Les débats viennent après la survie._
 
-- ✅ **Invocation :** décisions rapides, pragmatisme, mise en œuvre immédiate
-- ❌ **Contrainte :** conflits éthiques, opposition idéologique, perte de confiance des écologistes et traditionalistes
+- ✅ Invocation : décisions rapides, pragmatisme, mise en œuvre immédiate
+- ❌ Contrainte : conflits éthiques, opposition idéologique, perte de confiance des écologistes et traditionalistes
 
 ---
 
 ## ⚔️ Capacités spéciales (Stunts)
 
-### **Prouesse — Logistique de crise**
+### Prouesse — Logistique de crise
 
-Lorsqu’une zone est touchée par une pénurie ou un désastre, la Guilde peut **créer immédiatement un aspect de situation positif** lié à l’approvisionnement ou aux soins, avec une invocation gratuite.
+Lorsqu’une zone est touchée par une pénurie ou un désastre, la Guilde peut créer immédiatement un aspect de situation positif lié à l’approvisionnement ou aux soins, avec une invocation gratuite.
 
-### **Prouesse — Médecine de masse**
+### Prouesse — Médecine de masse
 
-Les actions de **Soins** menées par la Guilde affectent un groupe entier plutôt qu’un individu lorsque le contexte le permet.
+Les actions de Soins menées par la Guilde affectent un groupe entier plutôt qu’un individu lorsque le contexte le permet.
 
 ---
 
 ## 🤝 Relations
 
-- **Confrérie des Épices** : coopération tendue. Les deux organisations sont complémentaires… et profondément opposées dans leurs philosophies.
-- **Clans de l’Anneau** : partenaires indispensables, parfois envahissants.
-- **Empires & Nations** : relations pragmatiques, souvent basées sur des accords de nécessité.
+- Confrérie des Épices : coopération tendue. Les deux organisations sont complémentaires… et profondément opposées dans leurs philosophies.
+- Clans de l’Anneau : partenaires indispensables, parfois envahissants.
+- Empires & Nations : relations pragmatiques, souvent basées sur des accords de nécessité.
 
 ---
 
 ## 🎯 Objectifs
 
-**Court terme :**  
+Court terme :  
 Prévenir toute nouvelle crise alimentaire ou sanitaire dans l’Anneau.
 
-**Moyen terme :**  
+Moyen terme :  
 Renforcer les capacités de production autonome des îles tout en conservant une position centrale.
 
-**Long terme :**  
+Long terme :  
 Devenir l’acteur incontournable de la survie dans les Anodiles, quitte à redéfinir les équilibres de pouvoir.
 
 ---
@@ -133,6 +133,6 @@ Devenir l’acteur incontournable de la survie dans les Anodiles, quitte à red�
 
 ## 📜 Secrets (MJ)
 
-- Certaines pénuries sont **anticipées mais non évitées**, afin de renforcer l’influence de la Guilde.
+- Certaines pénuries sont anticipées mais non évitées, afin de renforcer l’influence de la Guilde.
 - Des projets expérimentaux de production intensive ont déjà causé des catastrophes locales étouffées.
 - Une partie du réseau d’espionnage sert à orienter les crises plutôt qu’à les prévenir.

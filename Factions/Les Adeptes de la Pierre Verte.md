@@ -4,26 +4,26 @@ _« Puissance, puissance, donne‑moi ta puissance, ô glorieuse pierre verte.
 
 ## 🎭 Aspects majeurs
 
-### **Concept**
+### Concept
 
-Les **Adeptes de la Pierre Verte** sont issus d’une **scission interne des Voyageurs**. Lorsque ces derniers ont choisi d’influencer Anodiles et la vie de ses habitants, les Adeptes ont refusé toute implication. Ils se sont séparés, rejetant aussi bien l’ingérence que la réforme du monde.  
-Peu après, ils se sont fait connaître pour leur **intérêt exclusif pour la pierre verte**, qu’ils considèrent comme une source de **puissance physique et mentale** pour qui sait s’en servir. Leur quête est **auto‑centrée**, tournée vers l’expérimentation et l’accumulation, sans considération pour les conséquences extérieures.
+Les Adeptes de la Pierre Verte sont issus d’une scission interne des Voyageurs. Lorsque ces derniers ont choisi d’influencer Anodiles et la vie de ses habitants, les Adeptes ont refusé toute implication. Ils se sont séparés, rejetant aussi bien l’ingérence que la réforme du monde.  
+Peu après, ils se sont fait connaître pour leur intérêt exclusif pour la pierre verte, qu’ils considèrent comme une source de puissance physique et mentale pour qui sait s’en servir. Leur quête est auto‑centrée, tournée vers l’expérimentation et l’accumulation, sans considération pour les conséquences extérieures.
 
-### **Problème**
+### Problème
 
-Les Adeptes ont adopté une **neutralité absolue et violente** : ils n’aident personne, refusent toute aide, et se tiennent volontairement à l’écart de toute forme de politique ou d’enjeu collectif. Cette posture paradoxale — s’intéresser à un artefact profondément déstabilisant tout en prétendant ne pas influer sur le monde — les rend profondément **mal vus**. Leur asocialité est souvent interprétée comme de la cruauté ou de l’insensibilité, alors qu’il s’agit avant tout d’un **rejet total du lien social**.
+Les Adeptes ont adopté une neutralité absolue et violente : ils n’aident personne, refusent toute aide, et se tiennent volontairement à l’écart de toute forme de politique ou d’enjeu collectif. Cette posture paradoxale — s’intéresser à un artefact profondément déstabilisant tout en prétendant ne pas influer sur le monde — les rend profondément mal vus. Leur asocialité est souvent interprétée comme de la cruauté ou de l’insensibilité, alors qu’il s’agit avant tout d’un rejet total du lien social.
 
 ---
 
 ## 🌍 Domaine d’influence
 
-**Territoires :**  
-Aucun territoire propre. Les Adeptes **écument Anodiles**, apparaissant puis disparaissant au gré de leurs recherches.
+Territoires :  
+Aucun territoire propre. Les Adeptes écument Anodiles, apparaissant puis disparaissant au gré de leurs recherches.
 
-**Population :**  
-Un groupe **récent**, peu structuré, composé d’individus solitaires ou de petites cellules mobiles.
+Population :  
+Un groupe récent, peu structuré, composé d’individus solitaires ou de petites cellules mobiles.
 
-**Sphères d’action :**  
+Sphères d’action :  
 Occulte, Expérimentale, Marginale.
 
 ---
@@ -65,8 +65,8 @@ Occulte, Expérimentale, Marginale.
 _Les Adeptes refusent toute forme d’engagement._  
 _Agir ou ne pas agir revient au même._
 
-- ✅ **Invocation :** indépendance totale, imprévisibilité, liberté d’action
-- ❌ **Contrainte :** isolement, absence de soutien, hostilité généralisée
+- ✅ Invocation : indépendance totale, imprévisibilité, liberté d’action
+- ❌ Contrainte : isolement, absence de soutien, hostilité généralisée
 
 ---
 
@@ -75,8 +75,8 @@ _Agir ou ne pas agir revient au même._
 _La pierre est un but, pas un moyen._  
 _Tout le reste est secondaire._
 
-- ✅ **Invocation :** accès à la puissance brute, découvertes occultes, dépassement physique
-- ❌ **Contrainte :** dépendance, dégradation des pierres, corruption progressive
+- ✅ Invocation : accès à la puissance brute, découvertes occultes, dépassement physique
+- ❌ Contrainte : dépendance, dégradation des pierres, corruption progressive
 
 ---
 
@@ -85,26 +85,26 @@ _Tout le reste est secondaire._
 _L’indifférence n’est pas la haine._  
 _Les autres ne comptent simplement pas._
 
-- ✅ **Invocation :** détachement émotionnel, résistance à la manipulation
-- ❌ **Contrainte :** incompréhension totale, représailles, solitude extrême
+- ✅ Invocation : détachement émotionnel, résistance à la manipulation
+- ❌ Contrainte : incompréhension totale, représailles, solitude extrême
 
 ---
 
 ## ⚔️ Capacités spéciales (Aptitudes & Pouvoirs)
 
-### **Aptitude — Résistance nécrotique**
+### Aptitude — Résistance nécrotique
 
-Vous bénéficiez d’une **résistance aux dégâts nécrotiques de 2 par tiers**.
-
----
-
-### **Situation avantageuse**
-
-Avoir une **pierre verte active contre son corps**.
+Vous bénéficiez d’une résistance aux dégâts nécrotiques de 2 par tiers.
 
 ---
 
-### **Compétences associées**
+### Situation avantageuse
+
+Avoir une pierre verte active contre son corps.
+
+---
+
+### Compétences associées
 
 - Athlétisme
 - Endurance
@@ -114,29 +114,29 @@ _(Compétences renforcées : Athlétisme, Endurance, Saut)_
 
 ---
 
-### **Pouvoir — Vie contre énergie**
+### Pouvoir — Vie contre énergie
 
-**Action mineure.**  
-Vous dépensez une récupération et **dégradez votre pierre verte**.  
-Jusqu’à la fin de votre prochain test, votre jet d’**Athlétisme**, **Endurance** ou **Saut** est **augmenté de +20**, et vous gagnez **5 points de vie temporaires**.
+Action mineure.  
+Vous dépensez une récupération et dégradez votre pierre verte.  
+Jusqu’à la fin de votre prochain test, votre jet d’Athlétisme, Endurance ou Saut est augmenté de +20, et vous gagnez 5 points de vie temporaires.
 
 ---
 
 ## 🎯 Rôle dans Anodiles
 
-- Ils **collectent**, **volent** ou **pillent** la pierre verte.
-- Ils découvrent de **nouveaux usages**, sans jamais les diffuser.
-- Ils n’ont **ni provoqué de guerres**, ni fondé d’alliances majeures.
-- Leur influence est **réelle mais limitée**, bien moindre que celle des Voyageurs.
+- Ils collectent, volent ou pillent la pierre verte.
+- Ils découvrent de nouveaux usages, sans jamais les diffuser.
+- Ils n’ont ni provoqué de guerres, ni fondé d’alliances majeures.
+- Leur influence est réelle mais limitée, bien moindre que celle des Voyageurs.
 
 ---
 
 ## 🤝 Relations
 
-- **Voyageurs** : rupture idéologique définitive.
-- **Empires** : méfiance, traque opportuniste.
-- **République / Clans** : incompréhension mutuelle.
-- **Autres Adeptes** : coopération minimale, souvent temporaire.
+- Voyageurs : rupture idéologique définitive.
+- Empires : méfiance, traque opportuniste.
+- République / Clans : incompréhension mutuelle.
+- Autres Adeptes : coopération minimale, souvent temporaire.
 
 ---
 
@@ -152,7 +152,7 @@ Jusqu’à la fin de votre prochain test, votre jet d’**Athlétisme**, **Endur
 
 Les Adeptes sont parfaits comme :
 
-- **antagonistes amoraux**
-- **PNJ solitaires puissants**
-- **sources de savoir interdit**
-- **miroir sombre des Voyageurs**
+- antagonistes amoraux
+- PNJ solitaires puissants
+- sources de savoir interdit
+- miroir sombre des Voyageurs

@@ -5,45 +5,45 @@ _« Quand tout devient une ressource, même la damnation devient rentable. �
 
 ## 🎭 Aspects majeurs
 
-### **Concept**
+### Concept
 
-Il y a mille ans, un **cataclysme** a **coupé l’Empire en deux**.  
-La moitié orientale a été **irrémédiablement polluée**, transformant territoires, corps et pratiques. C’est dans cette zone que s’est développée la **Démonocratie**.
+Il y a mille ans, un cataclysme a coupé l’Empire en deux.  
+La moitié orientale a été irrémédiablement polluée, transformant territoires, corps et pratiques. C’est dans cette zone que s’est développée la Démonocratie.
 
 La Démonocratie n’est pas une hérésie, ni une secte :  
-c’est une **administration totale**, une **entreprise‑État**, fondée sur la **démonologie appliquée**.  
-Son objectif est simple, assumé, mesurable : **produire de la puissance**.
+c’est une administration totale, une entreprise‑État, fondée sur la démonologie appliquée.  
+Son objectif est simple, assumé, mesurable : produire de la puissance.
 
 ---
 
-### **Problème**
+### Problème
 
 La Démonocratie repose sur un paradoxe absolu.  
-Elle prétend maintenir l’ordre, la stabilité et l’efficacité… dans un environnement **impropre à toute vie non transformée**.
+Elle prétend maintenir l’ordre, la stabilité et l’efficacité… dans un environnement impropre à toute vie non transformée.
 
-Son agriculture est **industrielle et synthétique**, ses territoires ressemblent à une **vaste usine à chair vivante**, et ses administrés ne survivent que parce qu’ils ont été **adaptés**, **modifiés**, **optimisés**.
+Son agriculture est industrielle et synthétique, ses territoires ressemblent à une vaste usine à chair vivante, et ses administrés ne survivent que parce qu’ils ont été adaptés, modifiés, optimisés.
 
-Ce modèle est **incompatible** avec toute morale extérieure — mais **parfaitement fonctionnel** selon ses propres critères.
+Ce modèle est incompatible avec toute morale extérieure — mais parfaitement fonctionnel selon ses propres critères.
 
 ---
 
 ## 🌍 Domaine d’influence
 
-**Territoires :**  
+Territoires :  
 La moitié polluée de l’ancien Empire, zones démonistes, complexes agricoles‑organiques, cités‑usines, enclaves administratives.
 
-**Environnement :**
+Environnement :
 
 - Sols morts ou artificiels
 - Agriculture synthétique
 - Écosystèmes fermés
 - Chair cultivée, recyclée, optimisée
 
-**Population :**  
-Des **administrés**, pas des citoyens.  
-Vivre dans la Démonocratie implique une **transformation volontaire ou imposée**.
+Population :  
+Des administrés, pas des citoyens.  
+Vivre dans la Démonocratie implique une transformation volontaire ou imposée.
 
-**Sphères d’action :**  
+Sphères d’action :  
 Occulte, Industrielle, Administrative, Expérimentale.
 
 ---
@@ -85,8 +85,8 @@ Occulte, Industrielle, Administrative, Expérimentale.
 _La Démonocratie fonctionne comme une société industrielle._  
 _La hiérarchie, les flux et la production priment sur tout._
 
-- ✅ **Invocation :** efficacité froide, logistique parfaite, décisions rapides
-- ❌ **Contrainte :** déshumanisation, révoltes silencieuses, erreurs systémiques
+- ✅ Invocation : efficacité froide, logistique parfaite, décisions rapides
+- ❌ Contrainte : déshumanisation, révoltes silencieuses, erreurs systémiques
 
 ---
 
@@ -95,8 +95,8 @@ _La hiérarchie, les flux et la production priment sur tout._
 _Tout est évalué, mesuré, comparé._  
 _La puissance est l’unique indicateur de succès._
 
-- ✅ **Invocation :** optimisation extrême, montée en puissance rapide
-- ❌ **Contrainte :** sur‑exploitation, pertes humaines acceptées, instabilité
+- ✅ Invocation : optimisation extrême, montée en puissance rapide
+- ❌ Contrainte : sur‑exploitation, pertes humaines acceptées, instabilité
 
 ---
 
@@ -105,22 +105,22 @@ _La puissance est l’unique indicateur de succès._
 _La pierre verte ne crée rien._  
 _Elle révèle ce qui est déjà là._
 
-- ✅ **Invocation :** éveil démoniaque contrôlé, innovations radicales
-- ❌ **Contrainte :** dégénérescence, pollution accrue, seuils irréversibles
+- ✅ Invocation : éveil démoniaque contrôlé, innovations radicales
+- ❌ Contrainte : dégénérescence, pollution accrue, seuils irréversibles
 
 ---
 
 ## 🧬 Démonologie appliquée (rappel intégré)
 
-- Les **démons sommeillent** dans tous les êtres vivants.
-- Ils sont **liés à un hôte unique** et restent endormis.
-- La **pierre verte** réveille ces démons.
+- Les démons sommeillent dans tous les êtres vivants.
+- Ils sont liés à un hôte unique et restent endormis.
+- La pierre verte réveille ces démons.
 - Sans démoniste :
-    - ➜ **folie**
-    - ➜ **mort**
+    - ➜ folie
+    - ➜ mort
 - Avec démoniste :
-    - ➜ **stabilisation**
-    - ➜ **exploitation**
+    - ➜ stabilisation
+    - ➜ exploitation
 
 Les transformations peuvent être :
 
@@ -129,23 +129,23 @@ Les transformations peuvent être :
 - fonctionnelles
 - dégénératives
 
-La Démonocratie **ne juge pas** ces transformations.  
-Elle les **classe**, les **exploite** ou les **recycle**.
+La Démonocratie ne juge pas ces transformations.  
+Elle les classe, les exploite ou les recycle.
 
 ---
 
 ## ⚔️ Capacités spéciales (Prouesses)
 
-### **Médecins de l’impossible**
+### Médecins de l’impossible
 
-Les démonistes ne sauvent pas des vies : ils **rendent la survie productive**.
+Les démonistes ne sauvent pas des vies : ils rendent la survie productive.
 
-### **Industrie de la chair**
+### Industrie de la chair
 
 Toute biomasse est une ressource.  
 Rien n’est gaspillé.
 
-### **Administration de la monstruosité**
+### Administration de la monstruosité
 
 Même les pires dégénérescences trouvent une fonction dans le système.
 
@@ -153,16 +153,16 @@ Même les pires dégénérescences trouvent une fonction dans le système.
 
 ## 🤝 Relations
 
-- **Empire (nécrocratie)** : coexistence tendue, interdépendance historique.
-- **Adeptes de la pierre verte** : usage commun, philosophie opposée.
-- **République** : rejet idéologique total.
-- **Autres peuples** : horreur, fascination, commerce discret.
+- Empire (nécrocratie) : coexistence tendue, interdépendance historique.
+- Adeptes de la pierre verte : usage commun, philosophie opposée.
+- République : rejet idéologique total.
+- Autres peuples : horreur, fascination, commerce discret.
 
 ---
 
 ## 📜 Secrets (MJ)
 
-- Certains démons **originels** ne sont pas liés à des hôtes biologiques.
+- Certains démons originels ne sont pas liés à des hôtes biologiques.
 - La Démonocratie connaît des seuils de puissance au‑delà desquels le système devient instable.
 - Le cataclysme d’il y a mille ans n’était peut‑être pas un accident.
 
@@ -172,7 +172,7 @@ Même les pires dégénérescences trouvent une fonction dans le système.
 
 La Démonocratie est idéale comme :
 
-- **antagoniste systémique**
-- **miroir monstrueux du capitalisme**
-- **allié pragmatique inavouable**
-- **source d’horreur rationnelle**
+- antagoniste systémique
+- miroir monstrueux du capitalisme
+- allié pragmatique inavouable
+- source d’horreur rationnelle

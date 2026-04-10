@@ -4,27 +4,27 @@ _« Nous ne survivrons pas. Nous renaîtrons. »_
 
 ## 🎭 Aspects majeurs
 
-### **Concept**
+### Concept
 
-Contrairement à leurs frères qui voient dans la **pierre verte** une catastrophe irrémédiable, les **Projetés** portent une vision radicalement différente : celle d’un **monde nouveau**, plein de possibilités pour les orques.  
-Ils rêvent d’un avenir où chaque orque pourra **choisir le moment de devenir un arbre**, où l’**île‑mère sera décontaminée**, et où leur peuple disposera d’un **poids politique suffisant** pour ne plus craindre ni les haches, ni les Empires, ni les pirates.  
-Cette utopie repose sur une **foi inébranlable dans la nature des orques** et leur capacité à se transformer sans se renier.
+Contrairement à leurs frères qui voient dans la pierre verte une catastrophe irrémédiable, les Projetés portent une vision radicalement différente : celle d’un monde nouveau, plein de possibilités pour les orques.  
+Ils rêvent d’un avenir où chaque orque pourra choisir le moment de devenir un arbre, où l’île‑mère sera décontaminée, et où leur peuple disposera d’un poids politique suffisant pour ne plus craindre ni les haches, ni les Empires, ni les pirates.  
+Cette utopie repose sur une foi inébranlable dans la nature des orques et leur capacité à se transformer sans se renier.
 
-### **Problème**
+### Problème
 
-La vision des Projetés est fragile. Elle nécessite du temps, des alliances et une stabilité que le monde d’Anodiles accorde rarement. Leur approche diplomatique les place en opposition directe avec les **Rejetés**, qui sabotent activement leurs efforts. Entre idéalisme, pressions extérieures et menaces internes, chaque avancée des Projetés est précaire et constamment remise en cause.
+La vision des Projetés est fragile. Elle nécessite du temps, des alliances et une stabilité que le monde d’Anodiles accorde rarement. Leur approche diplomatique les place en opposition directe avec les Rejetés, qui sabotent activement leurs efforts. Entre idéalisme, pressions extérieures et menaces internes, chaque avancée des Projetés est précaire et constamment remise en cause.
 
 ---
 
 ## 🌍 Domaine d’influence
 
-**Territoires :**  
-Aucun territoire officiellement reconnu. Les Projetés investissent des **villes orques**, des **universités**, des **pôles culturels** et un **îlot détaché de l’île‑mère**, aujourd’hui maintenu en vol.
+Territoires :  
+Aucun territoire officiellement reconnu. Les Projetés investissent des villes orques, des universités, des pôles culturels et un îlot détaché de l’île‑mère, aujourd’hui maintenu en vol.
 
-**Population :**  
-Une population organisée autour de centres urbains et culturels. Les **Veilleurs** y sont nombreux, garants du savoir, de la mémoire et de la vision à long terme.
+Population :  
+Une population organisée autour de centres urbains et culturels. Les Veilleurs y sont nombreux, garants du savoir, de la mémoire et de la vision à long terme.
 
-**Sphères d’action :**  
+Sphères d’action :  
 Politique, Culturelle, Écologique, Diplomatique.
 
 ---
@@ -66,8 +66,8 @@ Politique, Culturelle, Écologique, Diplomatique.
 _Les orques doivent pouvoir décider de leur destin._  
 _La transformation n’est pas une fin, mais un choix._
 
-- ✅ **Invocation :** motivation collective, vision à long terme, cohésion idéologique
-- ❌ **Contrainte :** lenteur des changements, découragement face aux échecs, divisions internes
+- ✅ Invocation : motivation collective, vision à long terme, cohésion idéologique
+- ❌ Contrainte : lenteur des changements, découragement face aux échecs, divisions internes
 
 ---
 
@@ -76,8 +76,8 @@ _La transformation n’est pas une fin, mais un choix._
 _Un navire de bois orque n’est jamais profané._  
 _Il est choyé, respecté, et lié à son équipage._
 
-- ✅ **Invocation :** navigation harmonieuse, loyauté absolue de l’équipage, résilience en mer
-- ❌ **Contrainte :** sacrifices extrêmes, refus de l’abandon, pertes irrémédiables
+- ✅ Invocation : navigation harmonieuse, loyauté absolue de l’équipage, résilience en mer
+- ❌ Contrainte : sacrifices extrêmes, refus de l’abandon, pertes irrémédiables
 
 ---
 
@@ -86,22 +86,22 @@ _Il est choyé, respecté, et lié à son équipage._
 _Parler avec tous est une nécessité._  
 _Même avec ceux qui coupent les arbres._
 
-- ✅ **Invocation :** médiation, accès politique, zones sanctuaires
-- ❌ **Contrainte :** sabotages des Rejetés, accusations de naïveté, trahisons
+- ✅ Invocation : médiation, accès politique, zones sanctuaires
+- ❌ Contrainte : sabotages des Rejetés, accusations de naïveté, trahisons
 
 ---
 
 ## ⚔️ Capacités spéciales (Prouesses)
 
-### **Veilleurs de l’avenir**
+### Veilleurs de l’avenir
 
 Les Projetés disposent d’un grand nombre de Veilleurs, permettant la création de centres de savoir, d’universités et de pôles culturels reconnus.
 
-### **Un navire, une vie**
+### Un navire, une vie
 
-Un capitaine orque d’un navire de bois orque **sombrera toujours avec son navire**. Cette relation mystique renforce la cohésion et la détermination de l’équipage.
+Un capitaine orque d’un navire de bois orque sombrera toujours avec son navire. Cette relation mystique renforce la cohésion et la détermination de l’équipage.
 
-### **Foi dans le renouveau**
+### Foi dans le renouveau
 
 Les Projetés peuvent mobiliser des soutiens inattendus lorsqu’ils œuvrent pour un projet écologique ou politique de long terme.
 
@@ -111,19 +111,19 @@ Les Projetés peuvent mobiliser des soutiens inattendus lorsqu’ils œuvrent po
 
 Les Projetés ont déjà obtenu plusieurs succès notables :
 
-- Les **adeptes de la pierre verte** ont réussi à **décontaminer une petite portion détachée de l’île‑mère**.
-- La **République** a insufflé un **élémentaire d’air colossal**, permettant à l’îlot de se mettre à l’abri.
+- Les adeptes de la pierre verte ont réussi à décontaminer une petite portion détachée de l’île‑mère.
+- La République a insufflé un élémentaire d’air colossal, permettant à l’îlot de se mettre à l’abri.
 
-Les écologistes Projetés espèrent désormais provoquer une **éclosion** sur cet îlot volant, preuve tangible qu’un renouveau est possible.
+Les écologistes Projetés espèrent désormais provoquer une éclosion sur cet îlot volant, preuve tangible qu’un renouveau est possible.
 
 ---
 
 ## 🤝 Relations
 
-- **Rejetés** : hostilité idéologique ouverte, sabotages constants.
-- **République** : soutien prudent mais réel.
-- **Adeptes de la pierre verte** : coopération expérimentale.
-- **Empires** : neutralité progressive, création de zones sanctuaires.
+- Rejetés : hostilité idéologique ouverte, sabotages constants.
+- République : soutien prudent mais réel.
+- Adeptes de la pierre verte : coopération expérimentale.
+- Empires : neutralité progressive, création de zones sanctuaires.
 
 ---
 

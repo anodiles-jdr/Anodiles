@@ -17,16 +17,16 @@ tags:
 *Tous pour un, un pour tous !*
 ## 🎭 Aspects majeurs
 
-**Concept :** C'est le clan le plus important de l'Anneau. Leur code de l'honneur est simple, aider, sécuriser des menaces intérieures et extérieures. Ils se voient comme une force de police ou d'interposition, comme des logisticiens quant les ressources manquent. Leurs bonnes actions.
+Concept : C'est le clan le plus important de l'Anneau. Leur code de l'honneur est simple, aider, sécuriser des menaces intérieures et extérieures. Ils se voient comme une force de police ou d'interposition, comme des logisticiens quant les ressources manquent. Leurs bonnes actions.
 
-**Problème :** Ce n'est pas un clan neutre. Leur vision morale et communautaire placent le clan dans des relations compliquées voire hostile avec les empires d'autant plus depuis la révolution de Providence. Le risque de guerre généralisée, la peur de voir des forces impériales éliminés des parties du clan font qu'en interne, certains capitaines commence à ne plus être aussi inflexible dans leur moralité.
+Problème : Ce n'est pas un clan neutre. Leur vision morale et communautaire placent le clan dans des relations compliquées voire hostile avec les empires d'autant plus depuis la révolution de Providence. Le risque de guerre généralisée, la peur de voir des forces impériales éliminés des parties du clan font qu'en interne, certains capitaines commence à ne plus être aussi inflexible dans leur moralité.
 ## 🌍 Domaine d’influence
 
-**Territoires :** Ils sont présent dans tout l'anneau et dispose d'au moins un clan majeur dans chaque constellation. Compte tenu de leur importance, la constellation du Dormeur, celle qui orbite le plus lentement, est celle qui accueille le gros des forces. 
+Territoires : Ils sont présent dans tout l'anneau et dispose d'au moins un clan majeur dans chaque constellation. Compte tenu de leur importance, la constellation du Dormeur, celle qui orbite le plus lentement, est celle qui accueille le gros des forces. 
 
-**Population :** C'est sans conteste la flotte la plus importante de l'anneau. 12 Flottes majeures, au moins autant de flotte intermédiaire, sans compter des capitaines aux talents trop prononcés qui préfère voyager seul. Certains îles, de grandes tailles, sont peuplés par les familles et anciens du clan
+Population : C'est sans conteste la flotte la plus importante de l'anneau. 12 Flottes majeures, au moins autant de flotte intermédiaire, sans compter des capitaines aux talents trop prononcés qui préfère voyager seul. Certains îles, de grandes tailles, sont peuplés par les familles et anciens du clan
 
-**Sphères d’action :** Politique, Militaire, Économique, Culturelle.
+Sphères d’action : Politique, Militaire, Économique, Culturelle.
 ## ⚖️ Approches de faction
 
 | Approche  | Score |
@@ -58,24 +58,24 @@ tags:
 _Le Clan du Dauphin est profondément mutualiste et met sa puissance au service des habitants de l’Anneau._  
 _Il intervient activement pour résoudre les conflits internes et maintenir la stabilité, même lorsque cela exige des sacrifices matériels, humains ou politiques._
 
-- ✅ **Invocation :** aide rapide, soutien populaire, légitimité d’intervention
-- ❌ **Contrainte :** attentes démesurées, épuisement des ressources, sur‑exposition politique
+- ✅ Invocation : aide rapide, soutien populaire, légitimité d’intervention
+- ❌ Contrainte : attentes démesurées, épuisement des ressources, sur‑exposition politique
 
 ### ⚓ Un clan uni, mille voix à convaincre
 
 _Les capitaines sont élus par leurs équipages et représentent une grande diversité de navires, d’origines et de cultures._  
 _Cette démocratie navale confère une forte légitimité au clan, mais rend chaque décision collective lente et fragile._
 
-- ✅ **Invocation :** légitimité morale, expertise collective, soutien coordonné
-- ❌ **Contrainte :** débats interminables, divisions internes, décisions retardées ou bloquées
+- ✅ Invocation : légitimité morale, expertise collective, soutien coordonné
+- ❌ Contrainte : débats interminables, divisions internes, décisions retardées ou bloquées
 
 ### 💰 Riche de dettes, pauvre en liquidités
 
 _Le clan dispose de peu de richesses monétaires propres et dépend largement de soutiens extérieurs et de mécènes._  
 _Ses liens étroits avec les Voyageurs et la République lui ouvrent de nombreuses portes, au prix d’obligations difficiles à refuser._
 
-- ✅ **Invocation :** activation de réseaux, faveurs diplomatiques, accès indirect aux ressources
-- ❌ **Contrainte :** pressions politiques, services exigés en retour, perte d’autonomie
+- ✅ Invocation : activation de réseaux, faveurs diplomatiques, accès indirect aux ressources
+- ❌ Contrainte : pressions politiques, services exigés en retour, perte d’autonomie
 
 ## ⚔️ Capacités spéciales (Stunts)
 
@@ -91,11 +91,11 @@ _Ses liens étroits avec les Voyageurs et la République lui ouvrent de nombreus
 - [[Clan de la Tortue]] : Seul clan qui peut rivaliser en importance dans l'anneau, rassemblé ils seraient le clan parfait ajoutant à leurs qualités une sagesse millénaire, une fortune colossale et une audience diplomatique sans pareil.
 ## 🎯 Objectifs
 
-**Court terme :** Rassurer les habitants de l'anneau et leur garantir la paix.
+Court terme : Rassurer les habitants de l'anneau et leur garantir la paix.
 
-**Moyen terme :** Affaiblir notablement le [[Clan du Homard]], consolider la république pour ainsi se recentrer sur l'anneau maintenant que la tyrannie a été défaite en Providence.
+Moyen terme : Affaiblir notablement le [[Clan du Homard]], consolider la république pour ainsi se recentrer sur l'anneau maintenant que la tyrannie a été défaite en Providence.
 
-**Long terme :** Unifier encore plus l'anneau. Faire émerger un élan patriotique au sein des habitants de l'anneau.
+Long terme : Unifier encore plus l'anneau. Faire émerger un élan patriotique au sein des habitants de l'anneau.
 ## 📖 Histoire et autre
 
 - Les capitaines sont élus par leur équipage de façon régulière et après certains événements codifiés.

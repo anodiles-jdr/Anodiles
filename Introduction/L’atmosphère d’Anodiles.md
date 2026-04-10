@@ -4,7 +4,7 @@ tags:
 ---
 ## Magie
 
-***Utile, mais pas toute‑puissante***
+*Utile, mais pas toute‑puissante*
 
 Anodiles baigne dans une magie diffuse, présente dans l’air autant que dans les objets, mais jamais toute‑puissante.  
 Elle ne nourrit pas les foules, ne transporte pas les armées en un clin d’œil, et ne résout aucun conflit par un claquement de doigts.  
@@ -17,9 +17,9 @@ Les elfes, seuls à disposer d’un don naturel, ne peuvent ignorer qu’une par
 
 ## Steampunk
 
-***Élémentaire & Cyberpunk Social***
+*Élémentaire & Cyberpunk Social*
 
-### **L’âge de vapeur des nains**
+### L’âge de vapeur des nains
 
 Leur technologie n’est pas mûe par la vapeur, mais par la pression élémentaire présente dans l’air d’Anodiles.  
 
@@ -27,8 +27,8 @@ L’atmosphère agit comme un réseau naturel, où les élémentaires Feu et Air
 
 Les chaudrons palpitants de feu vivant, les hélices animées par des souffles liés : tout cela n’est possible que parce que l’air d’Anodiles est chargé, stratifié, habité.
 
-### **La menace cyberpunk**
-***Sociale, non technologique***
+### La menace cyberpunk
+*Sociale, non technologique*
 
 Ici, pas d’implants, mais l’opacité des guildes.  
 Les Voyageurs — qui lisent l’atmosphère comme une carte mouvante — et les Adeptes de la Pierre Verte — sensibles aux perturbations énergétiques dans l’air — manipulent les empires et observent les variations des flux comme d’autres lisent un livre.  
@@ -37,7 +37,7 @@ Dans un monde où l’atmosphère elle‑même transmet des forces, leurs complo
 
 ## Un monde sans dieux ni démons
 
-***Mais pas sans espoir***
+*Mais pas sans espoir*
 
 L’atmosphère d’Anodiles n’abrite aucun dieu, aucun esprit conscient : seulement les traces des forces anciennes, naturelles ou exogènes, qui façonnèrent les îles. 
 
@@ -73,20 +73,20 @@ Mais gare aux étrangers : ces équilibres atmosphériques fragiles tiennent par
 
 Au delà du lore et des particularités d'Anodiles, il y a quatres points qui ensemble sont singuliers.
 
-- **Un ciel mécanique :**
+- Un ciel mécanique :
 
 Un “soleil” artificiel, des nuits sans étoiles, et une atmosphère traversée de flux anciens.  
     Un monde dont le ciel est aussi construit que la terre.
     
-- **Des conflits humains :**
+- Des conflits humains :
 
 L’air est chargé de forces, mais les véritables cyclones viennent des ambitions humaines.
     
-- **Une Révolution en marche :**
+- Une Révolution en marche :
 
 Les Voyageurs savent lire l’atmosphère ; les Adeptes savent la perturber.  
 Le moindre changement dans la pression peut devenir un présage politique.
     
-- **La Magie au quotidien :**
+- La Magie au quotidien :
 
 Une lanterne qui ne s’éteint pas, une épée qui ne rouille pas — parce que l’air qui les entoure est déjà un allié. La magie ne domine pas Anodiles : elle y circule.

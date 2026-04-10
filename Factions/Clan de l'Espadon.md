@@ -18,11 +18,11 @@ _Les démons ne passeront pas par nous._
 
 ## 🎭 Aspects majeurs
 
-### **Concept :**
+### Concept :
 
 Clan guerrier né à la fondation de la République, composé de rescapés du Nécrocauste. Le Clan de l’Espadon a juré de ne jamais oublier et de consacrer son existence à la destruction des esclavagistes, des démonistes et de l’Empire qui les nourrit. Rapide, mobile et fanatique dans son engagement, il est la lame que l’on abat là où la République ne peut plus agir ouvertement.
 
-### **Problème :**
+### Problème :
 
 L’Espadon est incapable de compromis. Sa haine de l’Empire, des démonistes et de l’esclavage l’empêche toute neutralité réelle. Bien qu’officiellement indépendant, le clan est perçu comme un bras armé idéologique de la République, ce qui en fait une cible permanente et un facteur d’escalade dans les conflits. Son refus de l’oubli entretient une colère qui consume lentement ses propres membres.
 
@@ -30,18 +30,18 @@ L’Espadon est incapable de compromis. Sa haine de l’Empire, des démonistes 
 
 ## 🌍 Domaine d’influence
 
-### **Territoires :**
+### Territoires :
 
-Clan **nomade**, opérant principalement **aux abords des côtes impériales**, le long des routes de traite, des zones démonistes et des territoires à forte présence esclavagiste.
+Clan nomade, opérant principalement aux abords des côtes impériales, le long des routes de traite, des zones démonistes et des territoires à forte présence esclavagiste.
 
-### **Population :**
+### Population :
 
 - Survivants du Nécrocauste
 - Guerriers fanatiques
 - Médecins et chirurgiens de guerre
 - Démons libres ayant choisi de combattre leurs semblables
 
-### **Sphères d’action :**
+### Sphères d’action :
 
 Militaire, Contre‑démonisme, Sabotage, Soins de guerre.
 
@@ -110,42 +110,42 @@ _Nous soignons pour pouvoir frapper encore._
 
 ## ⚔️ Capacités spéciales (Stunts & Pouvoirs)
 
-### **Aptitude — En péril**
+### Aptitude — En péril
 
-- Tant qu'un des membres du clan à porté de vue est **en péril**, tous les membres du clan infligent **+1 dégât** à toutes ses attaques.
-
----
-
-### **Prouesse — Les démons ne passeront pas par nous**
-
-- Lorsqu’un démon, mutant ou serviteur démoniaque est l’adversaire principal, le membre du clan obtient **+2 en attaque ou défense**, au choix.
+- Tant qu'un des membres du clan à porté de vue est en péril, tous les membres du clan infligent +1 dégât à toutes ses attaques.
 
 ---
 
-### **Bonus de circonstance**
+### Prouesse — Les démons ne passeront pas par nous
+
+- Lorsqu’un démon, mutant ou serviteur démoniaque est l’adversaire principal, le membre du clan obtient +2 en attaque ou défense, au choix.
+
+---
+
+### Bonus de circonstance
 
 - Lorsqu’un point d’Action est dépensé :
-    - si vous êtes **en péril**, **ou**
-    - si un membre d’un clan allié est **inconscient**,  
-        → vous pouvez effectuer **une attaque de base gratuite**.
+    - si vous êtes en péril, ou
+    - si un membre d’un clan allié est inconscient,  
+        → vous pouvez effectuer une attaque de base gratuite.
 
 ---
 
-### **Pouvoir utilitaire — Malléable**
+### Pouvoir utilitaire — Malléable
 
-- Après un repos prolongé, le clan peut préparer **n’importe quel pouvoir utilitaire** lié aux compétences dans lesquelles il est entraîné, dans la limite autorisée par son niveau.
+- Après un repos prolongé, le clan peut préparer n’importe quel pouvoir utilitaire lié aux compétences dans lesquelles il est entraîné, dans la limite autorisée par son niveau.
 
 ---
 
 ## 🤝 Relations
 
-- **[[République]]** :  
+- [[République]] :  
     Alliance idéologique forte mais non officielle. Soutien financier, logistique et humain.
     
-- **[[Empires]]** :  
+- [[Empires]] :  
     Ennemis absolus. Toute occasion de frapper est saisie.
     
-- **[[Clan du Dauphin]]** :  
+- [[Clan du Dauphin]] :  
     Respect mêlé de tension. L’Espadon agit là où le Dauphin hésite encore.
     
 
@@ -153,13 +153,13 @@ _Nous soignons pour pouvoir frapper encore._
 
 ## 🎯 Objectifs
 
-**Court terme :**  
+Court terme :  
 Perturber les routes esclavagistes et démonistes.
 
-**Moyen terme :**  
+Moyen terme :  
 Affaiblir durablement la présence impériale sur les côtes.
 
-**Long terme :**  
+Long terme :  
 Faire payer à l’Empire chaque mort du Nécrocauste.
 
 ---

@@ -8,26 +8,26 @@ _Rapides, fiables, partout attendus._
 
 ## 🎭 Aspects majeurs
 
-### **Concept :**
+### Concept :
 
 Clan messager et transporteur de l’Anneau. Spécialisé dans l’acheminement de colis, d’informations et de personnes, le Clan de la Mouette est une infrastructure vivante : discret, rapide et essentiel. Héritier lointain du Clan de la Tortue, il a conquis son indépendance par son utilité universelle.
-### **Problème :**
+### Problème :
 
 Sa neutralité absolue est aussi sa faiblesse. En acceptant des contrats de tous — y compris du Clan du Requin lorsque ses rapines débordent — la Mouette entretient une ambiguïté morale irritante. Lors des grands conflits, son refus de choisir un camp peut provoquer méfiance, pressions et tentatives de manipulation, notamment de la part des Empires.
 
 ## 🌍 Domaine d’influence
 
-### **Territoires :**
+### Territoires :
 
-Présent sur **l’ensemble de l’Anneau**, le long des routes maritimes et aériennes. La Mouette fréquente ports neutres, avant‑postes isolés et zones frontalières.
-### **Population :**
+Présent sur l’ensemble de l’Anneau, le long des routes maritimes et aériennes. La Mouette fréquente ports neutres, avant‑postes isolés et zones frontalières.
+### Population :
 
 Petit clan mais très mobile :
 
 - capitaines‑cartographes expérimentés
 - équipages réduits et très qualifiés
 - relais portuaires, comptoirs discrets et balises de navigation
-### **Sphères d’action :**
+### Sphères d’action :
 
 Logistique, Communication, Cartographie, Diplomatie indirecte.
 ## ⚖️ Approches de faction
@@ -81,35 +81,35 @@ _Leur valeur est dans la vitesse et la fiabilité._
 - ❌ Contrainte : vulnérabilité en combat prolongé
 ## ⚔️ Capacités spéciales (Stunts)
 
-### **Prouesse — On ne tire pas sur le messager**
+### Prouesse — On ne tire pas sur le messager
 
-- Lorsqu’un navire de la Mouette transporte un message, un colis ou une personne sous contrat, les adversaires hésitent : **la première action hostile contre lui subit −2**, sauf en cas de trahison flagrante.
-### **Prouesse — On ne perd jamais un colis**
+- Lorsqu’un navire de la Mouette transporte un message, un colis ou une personne sous contrat, les adversaires hésitent : la première action hostile contre lui subit −2, sauf en cas de trahison flagrante.
+### Prouesse — On ne perd jamais un colis
 
-- Lorsqu’un objectif implique la livraison ou la protection d’un bien confié, le clan peut **annuler une complication liée à la perte, au retard ou à l’erreur** une fois par scène.
-### **Prouesse — Toujours à l’heure**
+- Lorsqu’un objectif implique la livraison ou la protection d’un bien confié, le clan peut annuler une complication liée à la perte, au retard ou à l’erreur une fois par scène.
+### Prouesse — Toujours à l’heure
 
-- Le clan peut déclarer être arrivé **juste à temps**, même dans une situation critique, en dépensant 1 point Fate.
+- Le clan peut déclarer être arrivé juste à temps, même dans une situation critique, en dépensant 1 point Fate.
 ## 🤝 Relations
 
-- **[[Clan de la Tortue]]** :  
+- [[Clan de la Tortue]] :  
     Ancien fondateur, aujourd’hui allié respecté. Relations fondées sur la confiance et la logistique.
     
-- **[[Clan du Requin]]** :  
+- [[Clan du Requin]] :  
     Relation pragmatique et controversée. La Mouette accepte parfois leurs contrats pour éviter l’escalade.
     
-- **[[Clan du Dauphin]]** :  
+- [[Clan du Dauphin]] :  
     Partenaire fiable mais source de tensions morales. Le Dauphin attend parfois plus d’engagement que la Mouette n’est prête à offrir.
     
 ## 🎯 Objectifs
 
-**Court terme :**  
+Court terme :  
 Maintenir la neutralité et sécuriser les grandes routes de livraison.
 
-**Moyen terme :**  
+Moyen terme :  
 Renforcer les accords avec la Confrérie des Épices et consolider leur statut d’intermédiaires indispensables.
 
-**Long terme :**  
+Long terme :  
 Devenir si essentiel que même les guerres devront composer avec eux.
 ## 📖 Histoire et culture
 

@@ -4,32 +4,32 @@
 
 ## 🎭 Aspects majeurs
 
-### **Concept**
+### Concept
 
-Depuis longtemps abandonnées, oubliées ou sacrifiées par l’Empire, les **cités et stations sous‑marines naines indépendantes** ont survécu sans obtempérer aux ordres d’évacuation.  
-Leurs habitants ont fait un choix simple et définitif : **rester**.
+Depuis longtemps abandonnées, oubliées ou sacrifiées par l’Empire, les cités et stations sous‑marines naines indépendantes ont survécu sans obtempérer aux ordres d’évacuation.  
+Leurs habitants ont fait un choix simple et définitif : rester.
 
-Les nains indépendants sont les descendants de familles qui ont fui l’Empire il y a plusieurs générations. À ce stade, plus personne ne les recherche officiellement. Ils ont grandi dans de petites stations sous‑marines, vivant de récoltes abyssales, de recyclage, d’ingélieurie de fortune et d’un lien intime avec le **monde du silence**.
+Les nains indépendants sont les descendants de familles qui ont fui l’Empire il y a plusieurs générations. À ce stade, plus personne ne les recherche officiellement. Ils ont grandi dans de petites stations sous‑marines, vivant de récoltes abyssales, de recyclage, d’ingélieurie de fortune et d’un lien intime avec le monde du silence.
 
-### **Problème**
+### Problème
 
 Ce mode de vie a un coût.  
-Les stations sont isolées, les ressources limitées, et les épaves ou zones de récolte se raréfient. De plus en plus de nains indépendants doivent quitter la vie de **fermier du fond des mers** pour collaborer avec des équipages de surface, souvent
+Les stations sont isolées, les ressources limitées, et les épaves ou zones de récolte se raréfient. De plus en plus de nains indépendants doivent quitter la vie de fermier du fond des mers pour collaborer avec des équipages de surface, souvent
 à contrecœur.
 
-Ils sont libres… mais **structurellement précaires**.
+Ils sont libres… mais structurellement précaires.
 
 ---
 
 ## 🌍 Domaine d’influence
 
-**Territoires :**  
+Territoires :  
 Stations sous‑marines indépendantes, anciennes infrastructures impériales, zones abyssales proches de l’Anneau d’îles.
 
-**Population :**  
+Population :  
 Familles naines installées depuis plusieurs générations, scaphandriers autonomes, artisans, explorateurs des profondeurs.
 
-**Sphères d’action :**  
+Sphères d’action :  
 Sous‑marine, Exploration, Ingélieurie appliquée, Récupération.
 
 ---
@@ -70,8 +70,8 @@ Sous‑marine, Exploration, Ingélieurie appliquée, Récupération.
 
 _La profondeur n’est pas une contrainte. C’est un refuge._
 
-- ✅ **Invocation :** résistance, discrétion, autonomie
-- ❌ **Contrainte :** isolement, lenteur des secours, oubli politique
+- ✅ Invocation : résistance, discrétion, autonomie
+- ❌ Contrainte : isolement, lenteur des secours, oubli politique
 
 ---
 
@@ -79,8 +79,8 @@ _La profondeur n’est pas une contrainte. C’est un refuge._
 
 _Le scaphandre n’est pas un outil. C’est une seconde peau._
 
-- ✅ **Invocation :** maîtrise du milieu sous‑marin, survie prolongée
-- ❌ **Contrainte :** dépendance à l’équipement, pannes critiques
+- ✅ Invocation : maîtrise du milieu sous‑marin, survie prolongée
+- ❌ Contrainte : dépendance à l’équipement, pannes critiques
 
 ---
 
@@ -88,37 +88,37 @@ _Le scaphandre n’est pas un outil. C’est une seconde peau._
 
 _Rester n’a jamais empêché de partir._
 
-- ✅ **Invocation :** exploration, adaptation, opportunisme
-- ❌ **Contrainte :** prises de risques forcées, contrats douteux
+- ✅ Invocation : exploration, adaptation, opportunisme
+- ❌ Contrainte : prises de risques forcées, contrats douteux
 
 ---
 
 ## ⚔️ Capacités spéciales (Aptitudes)
 
-### **Scaphandrier par nécessité**
+### Scaphandrier par nécessité
 
-Vous bénéficiez du **talent Aquanaute**.
+Vous bénéficiez du talent Aquanaute.
 
-### **Polyglotte**
+### Polyglotte
 
-Vous pouvez parler le **Profond**.
+Vous pouvez parler le Profond.
 
-### **Habitant des mers**
+### Habitant des mers
 
-- Bonus de **+5** aux jets de connaissance des monstres aquatiques.
-- Contre une créature aquatique, vous infligez **+1 dégât** à toutes vos attaques.
+- Bonus de +5 aux jets de connaissance des monstres aquatiques.
+- Contre une créature aquatique, vous infligez +1 dégât à toutes vos attaques.
 
 ---
 
 ## 🧠 Compétences culturelles
 
-**Compétences associées :**
+Compétences associées :
 
 - Arts élémentaires
 - Endurance
 - Exploration
 
-**Compétences renforcées :**
+Compétences renforcées :
 
 - Arts élémentaires
 - Exploration
@@ -128,31 +128,31 @@ Vous pouvez parler le **Profond**.
 
 ## ⚠️ Situation avantageuse
 
-👉 **Être sous l’eau ou en rapport avec le monde du silence**
+👉 Être sous l’eau ou en rapport avec le monde du silence
 
 ---
 
 ## 🧑‍🏭 Personnalité type (stéréotype assumé)
 
-- **Radin** — rien ne se perd, tout se recycle
-- **Fidèle** — à la station, à l’équipage, à la parole donnée
-- **Aventureux** — parce que le fond finit toujours par manquer
+- Radin — rien ne se perd, tout se recycle
+- Fidèle — à la station, à l’équipage, à la parole donnée
+- Aventureux — parce que le fond finit toujours par manquer
 
 ---
 
 ## 🤝 Relations
 
-- **Empire nain** : oubli mutuel, méfiance persistante
-- **Clans de l’Anneau** : collaborations fréquentes mais pragmatiques
-- **Cartographes** : relations étroites, parfois vitales
-- **Peuples sous‑marins** : coexistence variable, rarement simple
+- Empire nain : oubli mutuel, méfiance persistante
+- Clans de l’Anneau : collaborations fréquentes mais pragmatiques
+- Cartographes : relations étroites, parfois vitales
+- Peuples sous‑marins : coexistence variable, rarement simple
 
 ---
 
 ## 🎯 Rôle dans Anodiles
 
 Les nains indépendants ne dominent rien.  
-Ils **tiennent**.
+Ils tiennent.
 
 Ils sont :
 
@@ -173,4 +173,4 @@ Ils sont :
 
 ## 🧠 En une phrase (Aspect de campagne possible)
 
-> **« Quand tout s’effondre, il reste ceux qui savent respirer dans le noir. »**
+> « Quand tout s’effondre, il reste ceux qui savent respirer dans le noir. »

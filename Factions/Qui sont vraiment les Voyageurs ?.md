@@ -5,7 +5,7 @@ tags:
 ---
 ## Définition générale
 
-Les **Voyageurs** désignent un groupe d’humains apparus en Anodiles peu après la 2em grande vague, porteurs d’une culture étrangère, d’un accent singulier et de savoirs sans équivalent. Ils affirment venir du **Noyau**, une région mythique inaccessible située au cœur du disque — affirmation longtemps considérée comme une fable jusqu’à ce qu’ils prouvent, par leurs actions et leurs prouesses techniques, qu’ils ne sont pas de simples conteurs.
+Les Voyageurs désignent un groupe d’humains apparus en Anodiles peu après la 2em grande vague, porteurs d’une culture étrangère, d’un accent singulier et de savoirs sans équivalent. Ils affirment venir du Noyau, une région mythique inaccessible située au cœur du disque — affirmation longtemps considérée comme une fable jusqu’à ce qu’ils prouvent, par leurs actions et leurs prouesses techniques, qu’ils ne sont pas de simples conteurs.
 
 Les Voyageurs ne représentent pas un peuple nombreux, mais leur influence dépasse largement leur effectif.
 
@@ -24,7 +24,7 @@ Leur accent, leurs coutumes, leurs outils et leur navire ont cependant convaincu
 - ou d’un phénomène cosmique lié aux Grandes Vagues.
 ### Le Navire Unique
 
-Leur bâtiment, souvent appelé **le Navire de la Grande Traversée**, défie toutes les catégories connues :
+Leur bâtiment, souvent appelé le Navire de la Grande Traversée, défie toutes les catégories connues :
 
 - coque lisse et résistante à la manière des sous-marins nains,
 - gouvernail et voiles dont personne ne comprend totalement le fonctionnement,
@@ -37,7 +37,7 @@ Les Ingélieurs nains le qualifient de _machine impossible_, comparable à un ar
 
 ## La Grande Traversée
 
-Les Voyageurs sont les auteurs de **La Grande Traversée**, expédition qui permit pour la première fois :
+Les Voyageurs sont les auteurs de La Grande Traversée, expédition qui permit pour la première fois :
 
 - d’unir plusieurs clans pirates,
 - de fédérer renégats, insurgés et réfugiés,
@@ -45,7 +45,7 @@ Les Voyageurs sont les auteurs de **La Grande Traversée**, expédition qui perm
 - de transmettre des informations cruciales entre les Empires et l’Anneau.
 - de faire venir à eux, un grande sorcière elfe de la maison noire, le plus grand des dresseurs de dvats avec des femelles pleines et un ingélieur propriétaire et créateurs de nombreux brevets.
 
-Cette traversée est aujourd’hui considérée comme le premier pas vers la **libération de Providence**.
+Cette traversée est aujourd’hui considérée comme le premier pas vers la libération de Providence.
 
 ## Libération de Providence
 
@@ -83,10 +83,10 @@ Vrais ou faux, ces objets servent de symboles d’indépendance ou de résistanc
 
 Les Voyageurs représentent, pour les habitants d’Anodiles :
 
-- les **étrangers éclairés** de récits anciens,
-- les **pionniers** qui franchissent les frontières du monde,
-- les **navigateurs impossibles** comme dans certains contes,
-- les **héros technologiques incompris** que l’on retrouve dans des chants modernes.
+- les étrangers éclairés de récits anciens,
+- les pionniers qui franchissent les frontières du monde,
+- les navigateurs impossibles comme dans certains contes,
+- les héros technologiques incompris que l’on retrouve dans des chants modernes.
 
 Ils sont à Anodiles ce que les équipages d’astronefs seraient dans un autre univers : des silhouettes venues d’ailleurs, porteuses d’un savoir trop vaste pour être partagé.
 
@@ -94,35 +94,35 @@ Ils sont à Anodiles ce que les équipages d’astronefs seraient dans un autre 
 
 # Résolution 1 : le Tabou
 
-Les premières rencontres avec les Voyageurs font parfois mention d’une règle étrange : la **Résolution 1**.
+Les premières rencontres avec les Voyageurs font parfois mention d’une règle étrange : la Résolution 1.
 
-### **Ce que l’on sait :**
+### Ce que l’on sait :
 
 - les Voyageurs évitaient certains sujets :  
     leurs origines, leur navigation, leurs anciennes missions ;
 - ils refusaient toute aide ou collaboration pendant une période ;
-- ils semblaient liés par un **code interne** impossible à contourner.
+- ils semblaient liés par un code interne impossible à contourner.
 
-### **Ce que l’on ignore :**
+### Ce que l’on ignore :
 
 Aujourd’hui, ils ne commentent plus jamais la Résolution 1.  
 Le silence est total — au point d’être devenu un sujet interdit.
 
-### **Interprétation en l’état**
+### Interprétation en l’état
 
 Pour les Anodiliens, la Résolution 1 est un mythe moderne, un équivalent :
 
-- de l’**interdiction de révéler son monde natal**,
-- de la **restriction éthique** dans la découverte de nouveaux peuples,
-- ou d’un **serment initiatique** entre Voyageurs.
+- de l’interdiction de révéler son monde natal,
+- de la restriction éthique dans la découverte de nouveaux peuples,
+- ou d’un serment initiatique entre Voyageurs.
 
-Les plus érudits y voient l’équivalent d’une **Directive Première** : une règle protectrice destinée à limiter l’influence d’un peuple sur un autre.
+Les plus érudits y voient l’équivalent d’une Directive Première : une règle protectrice destinée à limiter l’influence d’un peuple sur un autre.
 
 # Le Schisme : Les Adeptes de la Pierre
 
 ## Une rupture idéologique
 
-Les **Adeptes de la Pierre Verte** sont des dissidents des Voyageurs.  
+Les Adeptes de la Pierre Verte sont des dissidents des Voyageurs.  
 Lorsqu’il s’est agi d’intervenir dans l’histoire d’Anodiles, ils ont refusé :
 
 - refusé d’aider à la libération de Providence,
@@ -138,7 +138,7 @@ Ils ont choisi l’étude, l’isolement et l’obsession.
 - Ni politiques,
 - Ni philanthropes.
 
-Ils sont simplement **occupés** à comprendre la Pierre Verte, au point que leur neutralité semble parfois indifférenciée de la cruauté.
+Ils sont simplement occupés à comprendre la Pierre Verte, au point que leur neutralité semble parfois indifférenciée de la cruauté.
 
 ## Leur réputation
 
@@ -149,9 +149,9 @@ Ils sont perçus comme :
 - imprévisibles,
 - “presque inhumains”.
 
-Mais ce n’est pas de la malveillance : c’est une forme d’**asociabilité scientifique**, une obsession unique.
+Mais ce n’est pas de la malveillance : c’est une forme d’asociabilité scientifique, une obsession unique.
 
-Dans la culture populaire, ils jouent le rôle des **savants perdus**, des **explorateurs d’un savoir interdit**, à la manière des chercheurs obsessionnels de certains récits de science‑fantasy.
+Dans la culture populaire, ils jouent le rôle des savants perdus, des explorateurs d’un savoir interdit, à la manière des chercheurs obsessionnels de certains récits de science‑fantasy.
 
 # Les Voyageurs aujourd’hui
 
@@ -164,7 +164,7 @@ Les Voyageurs sont rares, discrets, mais omniprésents dans l’imaginaire colle
 
 Ils naviguent, négocient, observent… et parfois agissent, toujours avec prudence.
 
-Leur héritage le plus durable n’est pas technologique, ni militaire, ni mystique :  **c’est l’idée que le monde peut changer**.
+Leur héritage le plus durable n’est pas technologique, ni militaire, ni mystique :  c’est l’idée que le monde peut changer.
 # Conclusion
 
 Les Voyageurs sont un mystère vivant au cœur d’Anodiles.
@@ -179,4 +179,4 @@ Les Voyageurs sont un mystère vivant au cœur d’Anodiles.
 
 Personne ne sait qui ils sont vraiment.  
 Mais tout le monde sait que, depuis leur arrivée,  
-**Anodiles n’a plus jamais été le même.**
+Anodiles n’a plus jamais été le même.

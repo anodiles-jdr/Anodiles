@@ -6,30 +6,30 @@ _La Monarchie n’oublie jamais ses alliés._
 
 ## 🎭 Aspects majeurs
 
-### **Concept :**
+### Concept :
 
 Clan pirate‑marchand lié par une exclusivité commerciale à la Monarchie. Le Clan du Homard agit comme une force hybride : commerce armé, piraterie lourde et diplomatie intéressée. Ses capitaines sont froids, calculateurs et parfaitement à l’aise dans les négociations… tant qu’elles servent leurs intérêts. Derrière le commerce, le clan agit comme une extension officieuse des services secrets monarchiques.
 
-### **Problème :**
+### Problème :
 
-Sa fidélité à l’Anneau d’îles est ouvertement remise en question. Considéré comme **à la botte de la Monarchie**, le clan inspire méfiance et ressentiment chez les clans réellement neutres. Cette allégeance, lucrative mais compromettante, place le Homard en position délicate dès que les tensions impériales s’intensifient.
+Sa fidélité à l’Anneau d’îles est ouvertement remise en question. Considéré comme à la botte de la Monarchie, le clan inspire méfiance et ressentiment chez les clans réellement neutres. Cette allégeance, lucrative mais compromettante, place le Homard en position délicate dès que les tensions impériales s’intensifient.
 
 ---
 
 ## 🌍 Domaine d’influence
 
-### **Territoires :**
+### Territoires :
 
-Quelques **îles fortifiées**, une **île sous‑marine**, et de nombreuses routes commerciales contrôlées indirectement.
+Quelques îles fortifiées, une île sous‑marine, et de nombreuses routes commerciales contrôlées indirectement.
 
-### **Population :**
+### Population :
 
 - Pirates lourdement équipés
 - Diplomates lieurs embarqués auprès des capitaines influents
 - Équipages disciplinés mais peu chaleureux
 - Agents monarchiques opérant sous couverture commerciale
 
-### **Sphères d’action :**
+### Sphères d’action :
 
 Commerce armé, Renseignement impérial, Piraterie stratégique, Pression diplomatique.
 
@@ -100,30 +100,30 @@ _Scaphandres._
 
 ## ⚔️ Capacités spéciales (Stunts)
 
-### **Prouesse — Pour l’argent, on fait des efforts**
+### Prouesse — Pour l’argent, on fait des efforts
 
-- Lorsqu’une action sert directement un **contrat lucratif ou impérial**, le clan obtient **+2** ou **une relance gratuite**.
+- Lorsqu’une action sert directement un contrat lucratif ou impérial, le clan obtient +2 ou une relance gratuite.
 
 ---
 
-### **Prouesse — On est fort chez nous**
+### Prouesse — On est fort chez nous
 
-- Lorsqu’un conflit a lieu **sur une île homard, une base sous‑marine ou en eaux contrôlées**, le clan crée gratuitement l’aspect **Terrain verrouillé** avec une invocation.
+- Lorsqu’un conflit a lieu sur une île homard, une base sous‑marine ou en eaux contrôlées, le clan crée gratuitement l’aspect Terrain verrouillé avec une invocation.
 
 ---
 
 ## 🤝 Relations
 
-- **[[Monarchie]]** :  
+- [[Monarchie]] :  
     Partenaire exclusif. Le clan agit comme une extension officieuse de ses services secrets.
     
-- **[[Clan de la Tortue]]** :  
+- [[Clan de la Tortue]] :  
     Relations commerciales tendues mais respect mutuel.
     
-- **[[Clan du Dauphin]]** :  
+- [[Clan du Dauphin]] :  
     Méfiance réciproque. Le Dauphin doute de leur loyauté à l’Anneau.
     
-- **[[Clan de l’Espadon]]** :  
+- [[Clan de l’Espadon]] :  
     Ennemi idéologique. L’Espadon voit le Homard comme un collaborateur impérial.
     
 
@@ -131,13 +131,13 @@ _Scaphandres._
 
 ## 🎯 Objectifs
 
-**Court terme :**  
+Court terme :  
 Sécuriser les routes commerciales impériales.
 
-**Moyen terme :**  
+Moyen terme :  
 Renforcer la présence homard sur les îles stratégiques.
 
-**Long terme :**  
+Long terme :  
 Garantir la domination économique de la Monarchie dans l’Anneau.
 
 ---

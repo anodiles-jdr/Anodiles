@@ -17,11 +17,11 @@ _La Tortue se souvient._
 
 ## 🎭 Aspects majeurs
 
-### **Concept :**
+### Concept :
 
 Le plus ancien et le plus riche des clans de l’Anneau. Le Clan de la Tortue est guidé par une tortue géante primordiale issue des Âges Sombres, propulsant le vaisseau amiral et incarnant la sagesse, la ruse et la mémoire du monde. Diplomatie et commerce sont ses vertus cardinales ; il préfère les contrats aux conflits et la patience aux démonstrations de force.
 
-### **Problème :**
+### Problème :
 
 La Tortue pense en siècles, pas en saisons. Cette vision du temps long rend le clan parfois lent à réagir face aux crises brutales. Sa richesse immense attise convoitises et jalousies, tandis que sa confiance dans la sagesse de la Tortue peut devenir une dépendance dangereuse si ses paroles sont mal interprétées… ou instrumentalisées.
 
@@ -29,18 +29,18 @@ La Tortue pense en siècles, pas en saisons. Cette vision du temps long rend le 
 
 ## 🌍 Domaine d’influence
 
-### **Territoires :**
+### Territoires :
 
-Un réseau dense de **comptoirs commerciaux** répartis dans tout l’Anneau d’îles, reliés par des routes sûres et bien négociées.
+Un réseau dense de comptoirs commerciaux répartis dans tout l’Anneau d’îles, reliés par des routes sûres et bien négociées.
 
-### **Population :**
+### Population :
 
 - Marchands chevronnés
 - Diplomates expérimentés
 - Gardiens de comptoirs
 - Jeunes membres souvent envoyés “voir le monde” auprès d’autres clans, notamment le Dauphin
 
-### **Sphères d’action :**
+### Sphères d’action :
 
 Commerce, Diplomatie, Finance, Arbitrage, Mémoire historique.
 
@@ -111,27 +111,27 @@ _Lent, mais capable de tenir tête à une flotte entière._
 
 ## ⚔️ Capacités spéciales (Stunts)
 
-### **Prouesse — Sans déraison, l’argent est notre raison**
+### Prouesse — Sans déraison, l’argent est notre raison
 
-- Lorsqu’un obstacle peut être résolu par des ressources, un contrat ou un paiement, le Clan de la Tortue peut **transformer une opposition active en opposition passive** une fois par scène.
+- Lorsqu’un obstacle peut être résolu par des ressources, un contrat ou un paiement, le Clan de la Tortue peut transformer une opposition active en opposition passive une fois par scène.
 
 ---
 
-### **Prouesse — La Tortue nous l’avait dit**
+### Prouesse — La Tortue nous l’avait dit
 
-- Une fois par scénario, le clan peut déclarer que **la Tortue avait prévu cette situation**, révélant une information clé ou un avantage narratif préparé de longue date.
+- Une fois par scénario, le clan peut déclarer que la Tortue avait prévu cette situation, révélant une information clé ou un avantage narratif préparé de longue date.
 
 ---
 
 ## 🤝 Relations
 
-- **[[Clan du Dauphin]]** :  
+- [[Clan du Dauphin]] :  
     Partenaire privilégié. La Tortue envoie souvent ses jeunes membres apprendre l’action et l’engagement auprès du Dauphin.
     
-- **[[Clan de la Mouette]]** :  
+- [[Clan de la Mouette]] :  
     Anciennement fondateur. Relation de confiance logistique et commerciale.
     
-- **[[Clan du Requin]]** :  
+- [[Clan du Requin]] :  
     Méfiance profonde. Le clan préfère acheter la paix ou isoler les Requins plutôt que les affronter.
     
 
@@ -139,13 +139,13 @@ _Lent, mais capable de tenir tête à une flotte entière._
 
 ## 🎯 Objectifs
 
-**Court terme :**  
+Court terme :  
 Maintenir la stabilité commerciale de l’Anneau.
 
-**Moyen terme :**  
+Moyen terme :  
 Renforcer les comptoirs et limiter l’influence des clans prédateurs.
 
-**Long terme :**  
+Long terme :  
 Préserver l’équilibre de l’Anneau au‑delà des empires et des révolutions.
 
 ---

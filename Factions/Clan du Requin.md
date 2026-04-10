@@ -2,24 +2,24 @@ _La peur nourrit, la force protège._
 _On nous respecte ou l’on disparaît._
 ## 🎭 Aspects majeurs
 
-### **Concept :**
+### Concept :
 
 Clan prédateur ancestral de l’Anneau, apparu après la Première Vague. Le Clan du Requin vit de rapines, d’extorsion et de protection forcée. Il agit comme une mafia maritime, imposant l’ordre par la peur et la force brute, là où les empires et les lois n’osent plus s’aventurer.
-### **Problème :**
+### Problème :
 
 Le clan est hors‑la‑loi par nature. Ses méthodes violentes, son mépris des institutions et son économie fondée sur la contrainte en font une cible permanente des puissances impériales et un ennemi déclaré de la République. À l’intérieur même du clan, la loi du plus fort entretient rivalités, trahisons et violences constantes.
 ## 🌍 Domaine d’influence
 
-### **Territoires :**
+### Territoires :
 
-Principalement l’**Anodiles**, les routes secondaires et les zones frontières de l’Anneau. Le clan frappe aussi régulièrement les **côtes impériales**, malgré les risques.
-### **Population :**
+Principalement l’Anodiles, les routes secondaires et les zones frontières de l’Anneau. Le clan frappe aussi régulièrement les côtes impériales, malgré les risques.
+### Population :
 
 Petit clan mais extrêmement concentré :
 - équipages violents et endurcis
 - capitaines puissants et richement équipés
 - esclaves, captifs et protégés forcés gravitant autour des flottes
-### **Sphères d’action :**
+### Sphères d’action :
 
 Militaire, Criminelle, Économique (par la contrainte), Culture de la peur.
 ## ⚖️ Approches de faction
@@ -74,29 +74,29 @@ _Ceux qui refusent disparaissent._
 - ❌ Contrainte : haine durable, révoltes, représailles
 ## ⚔️ Capacités spéciales (Stunts)
 
-### **Prouesse — En duel, nous sommes les meilleurs**
+### Prouesse — En duel, nous sommes les meilleurs
 
-- Lors d’un **duel formel** (capitaine contre capitaine), le Clan du Requin obtient **+2** à l’action décisive ou **une relance gratuite**.
-### **Prouesse — On nous respecte ou l’on fait peur**
+- Lors d’un duel formel (capitaine contre capitaine), le Clan du Requin obtient +2 à l’action décisive ou une relance gratuite.
+### Prouesse — On nous respecte ou l’on fait peur
 
-- Lorsqu’un équipage requin cherche à intimider ou soumettre une population, il peut créer l’aspect **Terrifiés et soumis** avec **une invocation gratuite**.
+- Lorsqu’un équipage requin cherche à intimider ou soumettre une population, il peut créer l’aspect Terrifiés et soumis avec une invocation gratuite.
 ## 🤝 Relations
 
-- **[[Clan du Dauphin]]** :  
+- [[Clan du Dauphin]] :  
     Ennemi idéologique. Le Dauphin impose l’ordre par la loi et l’honneur, le Requin par la peur et la force. Les requins évitent l’affrontement direct, mais testent sans cesse leurs limites.
     
-- **[[Empires]]** :  
+- [[Empires]] :  
     Proies régulières. Les côtes impériales restent une source majeure de butin et de prestige.
     
 ## 🎯 Objectifs
 
-**Court terme :**  
+Court terme :  
 Renforcer le contrôle sur l’Anodiles et accroître les tributs.
 
-**Moyen terme :**  
+Moyen terme :  
 Affaiblir l’influence de la République et contourner les forces du Clan du Dauphin. Nouer des liens avec les [[Adeptes de la Pierre Verte]].
 
-**Long terme :**  
+Long terme :  
 Imposer un ordre de la peur sur l’Anneau, où chaque route maritime paie son dû.
 ## 📜 Histoire et culture
 
