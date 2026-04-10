@@ -1,15 +1,15 @@
-Je m’appelle **Tsanin Odepluie**.  
+Je m’appelle Tsanin Odepluie.  
 Ma colorisation est rouge.  
-Je suis le père d’**Aelin**, dont la couleur naturelle est bleue.
+Je suis le père d’Aelin, dont la couleur naturelle est bleue.
 
 Je n’ai jamais prétendu être un homme courageux.  
-Lorsque notre fils fut désigné pour intégrer un **internat bleu**, j’ai d’abord ressenti une fierté inquiète — puis une peur sourde que je n’ai pas su nommer.
+Lorsque notre fils fut désigné pour intégrer un internat bleu, j’ai d’abord ressenti une fierté inquiète — puis une peur sourde que je n’ai pas su nommer.
 
 Nous savions, bien sûr, que ces internats existaient pour “réconcilier les couleurs”. On nous l’avait répété toute notre vie. Mais savoir qu’un système est juste n’empêche pas de redouter ce qu’il exige.
 
 ---
 
-#### **L’annonce**
+#### L’annonce
 
 Aelin, lui, accueillit la nouvelle avec un enthousiasme désarmant.  
 Il parlait de la mer, des fresques bleues, des cérémonies nocturnes qu’il avait entendues décrire.
@@ -22,7 +22,7 @@ Je lui ai dit — et je me rends compte aujourd’hui à quel point c’était m
 
 ---
 
-#### **L’arrivée**
+#### L’arrivée
 
 L’internat bleu se dressait au‑dessus de la mer, adossé à la roche, couvert de teintes mouvantes qui changeaient avec la lumière.  
 C’était beau. Et cela aussi m’inquiétait.
@@ -35,7 +35,7 @@ Aelin se tenait là, vêtu de rouge, entouré d’enfants de toutes couleurs. Il
 
 ---
 
-#### **Les premiers mois**
+#### Les premiers mois
 
 Tout ne fut pas simple.
 
@@ -51,7 +51,7 @@ Je sais seulement qu’il a cessé, au fil des lettres, de parler en termes de �
 
 ---
 
-#### **Ce que cela a changé**
+#### Ce que cela a changé
 
 Avec le temps, Aelin s’est lié à d’autres.  
 Des amitiés réelles, imparfaites, parfois tendues.  
@@ -68,7 +68,7 @@ Je l’ai écouté, partagé entre fierté et vertige.
 
 ---
 
-#### **Conclusion**
+#### Conclusion
 
 Je ne prétends pas que notre société elfique soit guérie.  
 Je crois seulement qu’elle essaie — parfois maladroitement, parfois sincèrement.
@@ -79,5 +79,5 @@ Simplement plus conscient de ce que coûte l’harmonie.
 
 Si ce témoignage a une valeur, qu’il serve au moins à rappeler ceci :
 
-> **La réconciliation n’est pas un état.  
-> C’est un effort qui ne se voit que lorsqu’il menace d’échouer.**
+> La réconciliation n’est pas un état.  
+> C’est un effort qui ne se voit que lorsqu’il menace d’échouer.

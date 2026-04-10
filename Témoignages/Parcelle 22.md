@@ -30,7 +30,7 @@ Il m’arrive, parfois, d’être fier. Je me suis engagé auprès de mon Seigne
 
 ---
 
-## **Voix de l’enfant — Parcelle 22**
+## Voix de l’enfant — Parcelle 22
 
 À sept ans, on est déjà ce qu’on sera. C’est ce que dit mon instituteur. Je ne comprends pas toujours ce qu’il raconte. Il dit souvent que je ne comprends rien, mais il ne me gronde jamais : je suis le plus fort. Grand comme un enfant de douze ans. Agile comme un chat.
 

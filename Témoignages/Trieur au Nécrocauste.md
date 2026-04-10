@@ -3,8 +3,8 @@ tags:
   - Nécrocauste
   - Témoignage
 ---
-Pour comprendre ce qu’est un trieur, il faut d’abord comprendre ce dont l’Empire a besoin : **une armée colossale et renouvelée**, capable de défendre ses frontières et de servir les grandes familles.  
-Chaque nécrocauste n’est pas une tragédie — du moins, pas pour nous. C’est **une opportunité logistique** : l’occasion de constituer un bataillon complet pour une dynastie majeure.
+Pour comprendre ce qu’est un trieur, il faut d’abord comprendre ce dont l’Empire a besoin : une armée colossale et renouvelée, capable de défendre ses frontières et de servir les grandes familles.  
+Chaque nécrocauste n’est pas une tragédie — du moins, pas pour nous. C’est une opportunité logistique : l’occasion de constituer un bataillon complet pour une dynastie majeure.
 
 Pour cela, il faut des corps adaptés.
 
@@ -16,7 +16,7 @@ Les géants servent de choc, en zombies lourds.
 Les nabots — oui, ceux que les locaux appellent ainsi — font d’excellents squelettes de commando.  
 Leur agilité compense leur petite taille.
 
-Et puis il y a **les chefs**.  
+Et puis il y a les chefs.  
 Les âmes fortes.  
 Les plus difficiles à trouver.
 
@@ -39,7 +39,7 @@ le jour où un enfant peut soulever une boule de quinze kilos au‑dessus de sa 
 À cette occasion, il recevait, avec sa famille, des outils pour son artisanat et un mois de nourriture pour toute sa maison.
 
 Tout cela n’avait rien de cruel.  
-C’était **une organisation rationnelle**, au service d’un projet qui nous dépassait tous.  
+C’était une organisation rationnelle, au service d’un projet qui nous dépassait tous.  
 Le nécrocauste n’est qu’un mot.  
 Le trieur, lui, transforme une foule informe en matière utile.
 

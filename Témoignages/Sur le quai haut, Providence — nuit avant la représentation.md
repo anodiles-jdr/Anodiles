@@ -74,7 +74,7 @@ Tu parles comme si le public était libre.
 
 **CAPITAINE**  
 Non.  
-Je parle comme s’il était **vivant**.
+Je parle comme s’il était vivant.
 
 ---
 
@@ -113,7 +113,7 @@ Je ne me souviens plus du visage de l’actrice.
 Ni du texte exact.  
 Ni même du nom de la troupe.
 
-Je me souviens seulement du **moment**.
+Je me souviens seulement du moment.
 
 Ils jouaient sur un quai trop étroit, avec la mer derrière eux.  
 On avait ri au début.  
@@ -179,11 +179,11 @@ _Continuer._
 Je n’ai pas crié.  
 Je n’ai pas couru.
 
-J’ai simplement **pas répondu** quand on a appelé mon nom.
+J’ai simplement pas répondu quand on a appelé mon nom.
 
 C’est ainsi que j’ai échappé au nécrocauste.  
 Pas par bravoure.  
-Par **retard volontaire**.
+Par retard volontaire.
 
 ---
 
@@ -196,11 +196,11 @@ Moi, je sais ce que j’ai vu.
 Ce n’était pas un discours.  
 Ce n’était pas un appel.
 
-C’était une **étincelle**.
+C’était une étincelle.
 
 Et pour la première fois de ma vie,  
 j’ai compris que l’horreur continuait  
-parce que trop peu de gens savaient **où regarder**.
+parce que trop peu de gens savaient où regarder.
 
 ---
 
