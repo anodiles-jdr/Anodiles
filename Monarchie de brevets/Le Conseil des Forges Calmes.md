@@ -2,18 +2,18 @@
 tags:
   - Monarchie
 ---
-La grande salle de Bargenta vibrait d’un grondement sourd, comme si la montagne elle‑même retenait son souffle. Sur les murs, les fresques anciennes représentaient les premiers ingélieurs domptant le feu élémentaire. Au centre, la **Table des Sceaux**, un anneau de pierre polie, rassemblait les représentants des quatre grandes écoles de pensée de la Monarchie.
+La grande salle de Bargenta vibrait d’un grondement sourd, comme si la montagne elle‑même retenait son souffle. Sur les murs, les fresques anciennes représentaient les premiers ingélieurs domptant le feu élémentaire. Au centre, la Table des Sceaux, un anneau de pierre polie, rassemblait les représentants des quatre grandes écoles de pensée de la Monarchie.
 
-Le roi **Durnik III**, manteau de roche et couronne d’étain sombre, scrutait la salle d’un regard dont nul n’aurait osé soutenir la fixité. À ses côtés, les scribes royaux attendaient, plumes levées, prêts à consigner chaque mot.
+Le roi Durnik III, manteau de roche et couronne d’étain sombre, scrutait la salle d’un regard dont nul n’aurait osé soutenir la fixité. À ses côtés, les scribes royaux attendaient, plumes levées, prêts à consigner chaque mot.
 
-### **1. L’annonce**
+### 1. L’annonce
 
 Un nain trapu s’avança, portant une machine drapée d’un voile gris.  
-C’était **Torvin Brisefer**, figure charismatique des **Innovateurs Rebelles**.
+C’était Torvin Brisefer, figure charismatique des Innovateurs Rebelles.
 
 — _Majesté, membres du Conseil… Ce que je vais présenter aujourd’hui n’est pas une provocation, mais une promesse._
 
-Le roi serra les mâchoires. Les Puristes Traditionnels, rangés derrière **Balin Forgefeu**, échangèrent un regard fermé.
+Le roi serra les mâchoires. Les Puristes Traditionnels, rangés derrière Balin Forgefeu, échangèrent un regard fermé.
 
 Torvin retira le voile.
 
@@ -21,9 +21,9 @@ Une sphère de métal, constellée de fentes et d’inscriptions élémentaires,
 
 Un murmure inquiété parcourut la salle.
 
-### **2. Les réactions**
+### 2. Les réactions
 
-**Thrain Éclairacier**, des Réformateurs Progressistes, se redressa, intrigué.
+Thrain Éclairacier, des Réformateurs Progressistes, se redressa, intrigué.
 
 — _Une matrice élémentaire autonome ?_  
 — _Une harmonisation complète_, confirma Torvin. _Sans forcer l’incarnation. Sans coercition. Une collaboration entre flux naturels et ingélieurie fine._
@@ -40,9 +40,9 @@ Balin Forgefeu, chef des Puristes, se leva à son tour.
 — _Votre engin n’est qu’une hérésie métallique. Nos ancêtres ont survécu sans ces… excès. L’avenir se trouve dans ce qui a déjà été prouvé._  
 — _Ce qui a déjà été prouvé nous limite,_ rétorqua Torvin. _Nous pouvons faire mieux._
 
-### **3. La voix des éléments**
+### 3. La voix des éléments
 
-À l’autre extrémité de la salle, **Elara Pierrechantante**, de l’Équilibrium, prit la parole avec douceur.
+À l’autre extrémité de la salle, Elara Pierrechantante, de l’Équilibrium, prit la parole avec douceur.
 
 — _Ce n’est pas la machine qui importe, mais la relation qu’elle propose. Si elle utilise les élémentaires sans les dénaturer, alors elle mérite un examen honnête._  
 — _Un examen qui prendra des mois,_ gronda un conseiller royal. _Des mois où mille autres prototypes seront construits en secret._
@@ -50,7 +50,7 @@ Balin Forgefeu, chef des Puristes, se leva à son tour.
 La salle se remplit d’un mélange de fébrilité et de crainte.  
 Les élémentaires, invisibles, semblaient se manifester dans l’air comme une tension électrique subtile.
 
-### **4. L’appel à l’équilibre**
+### 4. L’appel à l’équilibre
 
 Thrain Éclairacier se leva lentement.
 
@@ -66,7 +66,7 @@ Sa voix se fit plus basse.
 
 Un souffle passa dans l’assemblée. Était-ce un encouragement ? Une menace ? Nul ne saurait le dire.
 
-### **5. L’incident maîtrisé**
+### 5. L’incident maîtrisé
 
 Soudain, la sphère sur la table vibra.  
 Un souffle chaud se dégagea, comme un soupir d’élémentaire Fire cherchant à s’ancrer.
@@ -83,7 +83,7 @@ Elara hocha la tête.
 
 Le roi observa longuement la machine, les nains, les écoles, l’avenir — et enfin se prononça :
 
-### **6. Verdict**
+### 6. Verdict
 
 — _Vous aurez un mois. Sous supervision de l’Équilibrium et des Réformateurs. Les Puristes pourront assister en observateurs. Aucun déploiement, aucun second prototype, aucune dissémination._
 

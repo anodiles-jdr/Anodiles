@@ -7,18 +7,18 @@ tags:
 ## I — Principes fondamentaux de l’Anneau
 
 L’Anneau d’Îles n’est ni une mer plate, ni un océan ouvert.  
-C’est une **couronne mobile**, en rotation autour d’un **noyau infranchissable**, où chaque île suit une **orbite propre**.
+C’est une couronne mobile, en rotation autour d’un noyau infranchissable, où chaque île suit une orbite propre.
 
 Trois vérités doivent être gravées dans l’esprit de tout navigateur :
 
-1. **On ne traverse pas l’Anneau, on le suit.**  
-    La navigation sûre est **tangentielle**, le long de la couronne.
+1. On ne traverse pas l’Anneau, on le suit.  
+    La navigation sûre est tangentielle, le long de la couronne.
     
-2. **La distance ne se mesure pas en lieues, mais en degrés.**  
-    Toute navigation se lit en **angles**, pas en kilomètres.
+2. La distance ne se mesure pas en lieues, mais en degrés.  
+    Toute navigation se lit en angles, pas en kilomètres.
     
-3. **La mer n’est pas immobile.**  
-    Les îles avancent, fuient ou reviennent selon leur **vitesse de constellation**.
+3. La mer n’est pas immobile.  
+    Les îles avancent, fuient ou reviennent selon leur vitesse de constellation.
     
 ## II — Le repère de navigation (système en degrés)
 
@@ -26,29 +26,29 @@ Toute position dans l’Anneau est définie par trois paramètres :
 ### 1. θ — Position angulaire (0°–360°)
 
 - Position de l’île sur la couronne, vue depuis le noyau.
-- La **distance principale** entre deux îles est :
-    - **Δθ**, l’écart angulaire minimal (0° à 180°).
+- La distance principale entre deux îles est :
+    - Δθ, l’écart angulaire minimal (0° à 180°).
 
-👉 **Δθ détermine le temps de base** du voyage.
+👉 Δθ détermine le temps de base du voyage.
 ### 2. ρ — Profondeur dans l’Anneau (0°–90°)
 
 - ρ = 0° : bord intérieur (vers la mer centrale)
 - ρ = 90° : bord extérieur (vers les zones instables)
 
-On distingue trois **bandes de navigation** :
+On distingue trois bandes de navigation :
 
-- **Intérieure** (0–30°)
-- **Médiane** (30–60°)
-- **Extérieure** (60–90°)
+- Intérieure (0–30°)
+- Médiane (30–60°)
+- Extérieure (60–90°)
 
-👉 **Δρ ne décrit pas une route**, mais une **contrainte** :  
+👉 Δρ ne décrit pas une route, mais une contrainte :  
 changer de bande force des détours dangereux, car les champs de mer répulsifs s’opposent aux mouvements radiaux.
 ### 3. v — Vitesse de constellation (tours/an)
 
 Chaque constellation d’îles a une vitesse orbitale fixe.  
 Exemples : 0.8, 1.0, 1.3, 1.5 tours/an.
 
-👉 **Δv** (écart de vitesse) transforme un trajet en :
+👉 Δv (écart de vitesse) transforme un trajet en :
 
 - poursuite,
 - interception,
@@ -57,7 +57,7 @@ Exemples : 0.8, 1.0, 1.3, 1.5 tours/an.
 
 ### 1. Le temps cartographique (la carte seule)
 
-À partir de **Δθ uniquement**, on obtient un **temps de base** :
+À partir de Δθ uniquement, on obtient un temps de base :
 
 |Δθ|Temps de base|
 |---|---|
@@ -69,19 +69,19 @@ Exemples : 0.8, 1.0, 1.3, 1.5 tours/an.
 👉 C’est ce que promet le parchemin.
 ### 2. Le temps marin réel (la mer en mouvement)
 
-Le temps réel est **ajusté** par :
+Le temps réel est ajusté par :
 
-- **Δρ** : détours imposés par la profondeur,
-- **|Δv|** : difficulté d’interception orbitale,
-- **Rendez‑vous** :
+- Δρ : détours imposés par la profondeur,
+- |Δv| : difficulté d’interception orbitale,
+- Rendez‑vous :
     - _devant + plus rapide_ → elle fuit,
     - _derrière + plus rapide_ → elle revient,
     - _devant + plus lente_ → on rattrape.
 
 👉 Ainsi, un trajet peut être :
 
-- **court en angle**,
-- mais **long en semaines**.
+- court en angle,
+- mais long en semaines.
 
 > _La carte mesure la distance.  
 > La mer mesure la patience._
@@ -89,11 +89,11 @@ Le temps réel est **ajusté** par :
 ## IV — La Difficulté de Route (DR)
 
 La navigation n’est pas qu’une question de temps.  
-Elle est aussi une question de **risque**.
+Elle est aussi une question de risque.
 
 ### DR — Difficulté de Route
 
-DR est un **indice synthétique** qui mesure :
+DR est un indice synthétique qui mesure :
 
 - la complexité du trajet,
 - la probabilité de complications,
@@ -101,27 +101,27 @@ DR est un **indice synthétique** qui mesure :
 
 DR se calcul ainsi :
 
-- **Dθ** (écart angulaire) 
+- Dθ (écart angulaire) 
 	- divisé par 15 arrondi au supérieur. Donc 42° donne +3 en DR.
-- **Dρ** (contrainte radiale)
+- Dρ (contrainte radiale)
 	-  +3 par rang, exemple intérieur vers extérieur : +6
-- **Dv** (écart de constellation)
+- Dv (écart de constellation)
 	- +2 par rang
-- **Drdv** (qualité du rendez‑vous).
+- Drdv (qualité du rendez‑vous).
 	- Le point d'arrivé fuit : +5
 	- Le point vient vers nous : -5
 	- On rattrape : +0
 
-👉 **DR ≠ temps.**  
+👉 DR ≠ temps.  
 DR dit _comment_ le voyage se passe, pas _combien de semaines il dure_.
 
 ### Usage JdR de DR
 
-- **Jets de navigation**  
+- Jets de navigation  
     Exemple (d20) :  
     `DC = 10 + 2 × DR`
     
-- **Complications narratives**
+- Complications narratives
     
     - DR faible → voyage propre
     - DR moyen → retard, tension, usure
@@ -130,14 +130,14 @@ DR dit _comment_ le voyage se passe, pas _combien de semaines il dure_.
 
 ### Navigation sûre
 
-- Suit la **couronne**,
+- Suit la couronne,
 - Accepte les détours,
 - Respecte les vitesses orbitales.
 
 ### Navigation forcée (radiale)
 
 - Coupe vers le noyau ou l’extérieur,
-- **Très rapide**, mais **extrêmement dangereuse**,
+- Très rapide, mais extrêmement dangereuse,
 - Hors des cartes,
 - Domaine des fous, des désespérés et des légendes.
 
@@ -153,19 +153,19 @@ DR = 5 → proche ; rendez‑vous défavorable
 Temps : base ~1 semaine ; ajusté ~3.8 semaines
 ```
 
-**Lecture correcte :**
+Lecture correcte :
 
 - Proche sur la carte,
 - Même bande → navigation tangentielle,
-- Mais l’île est **devant et plus rapide**,
-- Le voyage devient une **interception**,
+- Mais l’île est devant et plus rapide,
+- Le voyage devient une interception,
 - La mer transforme une semaine promise en près d’un mois réel.
 ## VII — Schéma mental à transmettre aux joueurs
 
-> **Δθ dit combien de degrés.  
+> Δθ dit combien de degrés.  
 > Δρ dit combien la mer résiste.  
 > Δv dit si l’île fuit ou revient.  
-> DR dit si le voyage sera paisible ou chaotique.**
+> DR dit si le voyage sera paisible ou chaotique.
 ## VIII — Conclusion (enseignement du cartographe)
 
 > _« Sur l’Anneau, la distance est une question d’angle,  

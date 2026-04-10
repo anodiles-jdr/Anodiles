@@ -1,7 +1,7 @@
 _Exemples de pratiques que l’on peut explorer_
 
-> **Un Lieu n’est pas un pouvoir.  
-> C’est une manière reconnue d’agir dans le monde.**
+> Un Lieu n’est pas un pouvoir.  
+> C’est une manière reconnue d’agir dans le monde.
 
 ---
 
@@ -21,7 +21,7 @@ _(accessibles rapidement, cœur du jeu)_
 |Observer sans agir|Intrigue|Comprendre avant d’intervenir|Position|
 |Stabiliser ce qui menace|Survie|Empêcher une dégradation immédiate|Structure|
 
-👉 Ces Lieux définissent **les actions “normales”** des personnages compétents.
+👉 Ces Lieux définissent les actions “normales” des personnages compétents.
 
 ---
 
@@ -39,7 +39,7 @@ _(signature personnelle, spécialisation visible)_
 |Durer plus longtemps que prévu|Survie|Retarder l’épuisement|Ressources|
 |Imposer un choix immédiat|Combat|Forcer une décision|Pression|
 
-👉 Ces Lieux font qu’**on reconnaît ton personnage en jeu**.
+👉 Ces Lieux font qu’on reconnaît ton personnage en jeu.
 
 ---
 
@@ -55,7 +55,7 @@ _(rares, marquants, tournants de campagne)_
 |Forcer le passage interdit|Exploration|Passer là où personne ne passe|Position, Structure|
 |Décider du moment de la rupture|Transgression|Choisir quand tout bascule|Pression|
 
-👉 Ces Lieux **ne sont jamais anodins** : ils laissent des traces.
+👉 Ces Lieux ne sont jamais anodins : ils laissent des traces.
 
 ---
 
@@ -67,20 +67,20 @@ _(rares, marquants, tournants de campagne)_
 |Accepter le contrecoup|Transgression|Réussir au prix de soi|Dette|
 |Forcer le réel|Transgression|Briser une règle du monde|Conséquence future|
 
-👉 Ces Lieux **ne sont jamais gratuits** et n’existent que si la fiction les justifie.
+👉 Ces Lieux ne sont jamais gratuits et n’existent que si la fiction les justifie.
 
 ---
 
 ## COMMENT UTILISER CE TABLEAU (ENCADRÉ JOUEUR)
 
-> - Ce tableau est **un exemple**, pas une liste fermée.
+> - Ce tableau est un exemple, pas une liste fermée.
 > - Un même Lieu peut exister dans plusieurs Archipels s’ils partagent un mot‑clé.
-> - L’Origine de l’Archipel change **la manière dont le Lieu s’exprime**, pas son intention.
-> - Si un Lieu n’existe pas encore, **vous pouvez en proposer un** avec le MJ.
+> - L’Origine de l’Archipel change la manière dont le Lieu s’exprime, pas son intention.
+> - Si un Lieu n’existe pas encore, vous pouvez en proposer un avec le MJ.
 
 ---
 
 ## RÈGLE D’OR (À METTRE SOUS LE TABLEAU)
 
-> **Si un Lieu n’ouvre pas une nouvelle manière claire d’agir,  
-> ce n’est pas un bon Lieu.**
+> Si un Lieu n’ouvre pas une nouvelle manière claire d’agir,  
+> ce n’est pas un bon Lieu.

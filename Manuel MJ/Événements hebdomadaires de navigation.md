@@ -7,10 +7,10 @@ tags:
 
 Le MJ peut déclencher un événement :
 
-- automatiquement si **DR ≥ 5** (au moins 1 événement pendant le voyage),
+- automatiquement si DR ≥ 5 (au moins 1 événement pendant le voyage),
 - à chaque semaine où le jet de navigation est :
-    - **minimal naturel** sur le dé du navire,
-    - ou **exceptionnel** (dé max + bonus ≥ 10),
+    - minimal naturel sur le dé du navire,
+    - ou exceptionnel (dé max + bonus ≥ 10),
 - ou volontairement pour rythmer un long trajet.
 
 ---
@@ -19,9 +19,9 @@ Le MJ peut déclencher un événement :
 
 Chaque événement précise :
 
-- **Effet mécanique** (DR, jets, progression),
-- **Conséquence fictionnelle**,
-- **Choix éventuels des joueurs**.
+- Effet mécanique (DR, jets, progression),
+- Conséquence fictionnelle,
+- Choix éventuels des joueurs.
 
 ---
 
@@ -32,35 +32,35 @@ _Usure, tension, micro‑dérives_
 
 ### 1. Courant contraire
 
-- **Effet** : −1 au jet de la semaine suivante
-- **Fiction** : la mer “pousse de travers”, cap difficile.
+- Effet : −1 au jet de la semaine suivante
+- Fiction : la mer “pousse de travers”, cap difficile.
 
 ### 2. Dérive silencieuse
 
-- **Effet** : +1 DR restant
-- **Fiction** : l’anneau glisse sans bruit, la carte ment d’un degré.
+- Effet : +1 DR restant
+- Fiction : l’anneau glisse sans bruit, la carte ment d’un degré.
 
 ### 3. Équipage nerveux
 
-- **Effet** : le capitaine doit choisir :
+- Effet : le capitaine doit choisir :
     - soit perdre 1 point de progression,
     - soit subir −1 aux jets pendant 2 semaines.
-- **Fiction** : rumeurs, fatigue, peur de la dérive.
+- Fiction : rumeurs, fatigue, peur de la dérive.
 
 ### 4. Répit des courants
 
-- **Effet** : +1 au prochain jet
-- **Fiction** : alignement temporaire, navigation fluide.
+- Effet : +1 au prochain jet
+- Fiction : alignement temporaire, navigation fluide.
 
 ### 5. Usure lente
 
-- **Effet** : −1 aux jets tant que le navire n’est pas réparé
-- **Fiction** : cordages, gouvernail, coques vibrantes.
+- Effet : −1 aux jets tant que le navire n’est pas réparé
+- Fiction : cordages, gouvernail, coques vibrantes.
 
 ### 6. Lecture heureuse
 
-- **Effet** : −1 DR restant
-- **Fiction** : le cartographe a vu juste, un degré gagné.
+- Effet : −1 DR restant
+- Fiction : le cartographe a vu juste, un degré gagné.
 
 ---
 
@@ -71,49 +71,49 @@ _Quand la mer rappelle qui commande_
 
 ### 1. Courant répulsif violent
 
-- **Effet** : pas de progression cette semaine
-- **Fiction** : la mer rejette le navire hors de son cap utile.
+- Effet : pas de progression cette semaine
+- Fiction : la mer rejette le navire hors de son cap utile.
 
 ### 2. Fenêtre manquée
 
-- **Effet** : +2 DR restant
-- **Fiction** : l’île était là… puis a glissé hors de portée.
+- Effet : +2 DR restant
+- Fiction : l’île était là… puis a glissé hors de portée.
 
 ### 3. Route fantôme
 
-- **Effet** : le MJ modifie légèrement Δθ ou Δρ
-- **Fiction** : ancienne route oubliée, mais instable.
+- Effet : le MJ modifie légèrement Δθ ou Δρ
+- Fiction : ancienne route oubliée, mais instable.
 
 ### 4. Avance risquée
 
-- **Effet** : +2 au jet cette semaine
+- Effet : +2 au jet cette semaine
     - mais en cas d’échec la suivante : +2 DR
-- **Fiction** : manœuvre audacieuse, mer capricieuse.
+- Fiction : manœuvre audacieuse, mer capricieuse.
 
 ### 5. Brèche orbitale
 
-- **Effet** : −2 aux jets jusqu’à réparation
-- **Fiction** : structure magique ou coque malmenée.
+- Effet : −2 aux jets jusqu’à réparation
+- Fiction : structure magique ou coque malmenée.
 
 ### 6. Alignement parfait
 
-- **Effet** : double la progression de la semaine
-- **Fiction** : la mer accepte le passage.
+- Effet : double la progression de la semaine
+- Fiction : la mer accepte le passage.
 
 ### 7. Rencontre dérivante
 
-- **Effet** : au choix :
+- Effet : au choix :
     - −1 DR (information),
     - +1 DR (conflit),
     - ou arrêt narratif (commerce, combat).
-- **Fiction** : île errante, navire, créature.
+- Fiction : île errante, navire, créature.
 
 ### 8. Appel du vide
 
-- **Effet** : le MJ propose une **route radiale rapide** :
+- Effet : le MJ propose une route radiale rapide :
     - −5 DR immédiat,
     - mais un événement critique garanti.
-- **Fiction** : sortie partielle de l’Anneau. Rapide. Très dangereux.
+- Fiction : sortie partielle de l’Anneau. Rapide. Très dangereux.
 
 ---
 
@@ -124,37 +124,37 @@ _Routes non cartographiées, légendes en devenir_
 
 ### 1. Perte d’orientation
 
-- **Effet** : progression remise à zéro de la semaine
-- **Fiction** : plus personne ne sait où est l’avant.
+- Effet : progression remise à zéro de la semaine
+- Fiction : plus personne ne sait où est l’avant.
 
 ### 2. Champ de mer chaotique
 
-- **Effet** : +3 DR restant
-- **Fiction** : l’anneau se tord.
+- Effet : +3 DR restant
+- Fiction : l’anneau se tord.
 
 ### 3. Sacrifice nécessaire
 
-- **Effet** : gagner +3 progression
+- Effet : gagner +3 progression
     - en échange d’un sacrifice durable (équipement, PNJ, ressource).
-- **Fiction** : la mer exige un prix.
+- Fiction : la mer exige un prix.
 
 ### 4. Fracture orbitale
 
-- **Effet** : changement de bande forcé (Δρ augmente)
-- **Fiction** : le navire est projeté hors de sa trajectoire sûre.
+- Effet : changement de bande forcé (Δρ augmente)
+- Fiction : le navire est projeté hors de sa trajectoire sûre.
 
 ### 5. Intervention élémentaire
 
-- **Effet** : au choix du MJ :
+- Effet : au choix du MJ :
     - −5 DR,
     - ou +5 DR,
     - ou changement d’objectif.
-- **Fiction** : la mer parle.
+- Fiction : la mer parle.
 
 ### 6. Légende en marche
 
-- **Effet** : fin immédiate du voyage, mais conséquences lourdes
-- **Fiction** : on arrive… mais rien n’est plus comme avant.
+- Effet : fin immédiate du voyage, mais conséquences lourdes
+- Fiction : on arrive… mais rien n’est plus comme avant.
 
 ---
 

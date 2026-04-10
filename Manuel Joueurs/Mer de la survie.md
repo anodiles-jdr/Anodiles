@@ -1,4 +1,4 @@
-**Dominantes : Terre / Eau**
+Dominantes : Terre / Eau
 
 ### Intention
 
@@ -18,13 +18,13 @@ Les échecs usent lentement mais sûrement.
 
 ### Elle transforme
 
-Les personnages deviennent des **piliers**, plus que des héros.
+Les personnages deviennent des piliers, plus que des héros.
 
 ---
-## Archipel des **Terres Qui Tiennent**
+## Archipel des Terres Qui Tiennent
 
-**Origine dominante : Nain**  
-**Style de réussite : Endurance**
+Origine dominante : Nain  
+Style de réussite : Endurance
 
 ### Thème
 
@@ -40,13 +40,13 @@ Les réussites naines dans cet archipel permettent :
 
 ### Îles de l’archipel
 
-- **Île du Souffle Long**  
+- Île du Souffle Long  
     Durer quand d’autres s’effondrent.
-- **Île des Refuges Imparfaits**  
+- Île des Refuges Imparfaits  
     Se mettre à l’abri sans être en sécurité.
-- **Île de la Protection Mutuelle**  
+- Île de la Protection Mutuelle  
     Survivre ensemble ou pas du tout.
 
 ### Ce que cet archipel fait aux PJ
 
-Ils deviennent des **piliers**, parfois oubliés, toujours nécessaires.
+Ils deviennent des piliers, parfois oubliés, toujours nécessaires.

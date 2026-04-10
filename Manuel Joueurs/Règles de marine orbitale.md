@@ -5,29 +5,29 @@ tags:
 ---
 ## 1. Principes généraux
 
-La navigation dans l’Anneau d’Îles ne se résout **ni par un jet unique**, ni par un simple calcul de distance.
+La navigation dans l’Anneau d’Îles ne se résout ni par un jet unique, ni par un simple calcul de distance.
 
-Un voyage est une **lutte progressive** entre :
+Un voyage est une lutte progressive entre :
 
-- la **route promise par la carte**,
-- et la **résistance réelle de la mer orbitale**.
+- la route promise par la carte,
+- et la résistance réelle de la mer orbitale.
 
-Cette résistance est représentée par la **Difficulté de Route (DR)**.  
-Le voyage progresse **semaine après semaine**, jusqu’à ce que les navigateurs aient “vaincu” la DR.
+Cette résistance est représentée par la Difficulté de Route (DR).  
+Le voyage progresse semaine après semaine, jusqu’à ce que les navigateurs aient “vaincu” la DR.
 
 ---
 
 ## 2. La Difficulté de Route (DR)
 
-La **DR** mesure :
+La DR mesure :
 
 - la complexité du trajet,
 - la résistance des courants,
 - la difficulté d’interception orbitale,
 - et le risque global du voyage.
 
-👉 **La DR n’indique pas le temps.**  
-👉 **Elle indique ce qu’il faut surmonter pour arriver.**
+👉 La DR n’indique pas le temps.  
+👉 Elle indique ce qu’il faut surmonter pour arriver.
 
 ### Calcul de la DR
 
@@ -35,11 +35,11 @@ La DR est la somme de quatre composantes :
 
 ---
 
-### **Dθ — Écart angulaire**
+### Dθ — Écart angulaire
 
 Mesure la distance sur la couronne de l’Anneau.
 
-**Calcul :**
+Calcul :
 
 - DR += ⌈Δθ / 15⌉
 
@@ -50,11 +50,11 @@ Exemples :
 - 42° → +3 DR
 - 75° → +5 DR
 
-📌 Dθ représente **la longueur de route**, pas sa difficulté intrinsèque.
+📌 Dθ représente la longueur de route, pas sa difficulté intrinsèque.
 
 ---
 
-### **Dρ — Contrainte radiale (profondeur)**
+### Dρ — Contrainte radiale (profondeur)
 
 Mesure le changement de bande dans l’Anneau.
 
@@ -62,16 +62,16 @@ Mesure le changement de bande dans l’Anneau.
 - Bande adjacente → +3
 - Intérieure ↔ extérieure → +6
 
-📌 Dρ représente la **résistance des champs de mer répulsifs**.  
+📌 Dρ représente la résistance des champs de mer répulsifs.  
 La navigation reste tangentielle, mais la mer pousse et détourne.
 
 ---
 
-### **Dv — Écart de constellation**
+### Dv — Écart de constellation
 
 Mesure la différence de vitesse orbitale entre départ et arrivée.
 
-- Par **rang d’écart** → +2 DR
+- Par rang d’écart → +2 DR
 
 Exemples :
 
@@ -79,17 +79,17 @@ Exemples :
 - Écart moyen → +4
 - Écart fort → +6
 
-📌 Dv représente la difficulté à **viser un rendez‑vous orbital**.
+📌 Dv représente la difficulté à viser un rendez‑vous orbital.
 
 ---
 
-### **Drdv — Qualité du rendez‑vous**
+### Drdv — Qualité du rendez‑vous
 
 Mesure la dynamique relative entre le navire et l’île cible.
 
-- **Le point d’arrivée fuit** (devant + plus rapide) → **+5 DR**
-- **Le point vient vers nous** (derrière + plus rapide) → **−5 DR**
-- **On rattrape** (devant + plus lente) → **+0 DR**
+- Le point d’arrivée fuit (devant + plus rapide) → +5 DR
+- Le point vient vers nous (derrière + plus rapide) → −5 DR
+- On rattrape (devant + plus lente) → +0 DR
 
 📌 Drdv est un modificateur majeur :  
 la même route peut devenir triviale ou infernale selon le sens du monde.
@@ -100,13 +100,13 @@ la même route peut devenir triviale ou infernale selon le sens du monde.
 
 ### Principe
 
-Un voyage est résolu **semaine par semaine**.
+Un voyage est résolu semaine par semaine.
 
 Chaque semaine :
 
-1. Le capitaine effectue un **jet de navigation**.
-2. Le résultat est **ajouté à une progression cumulée**.
-3. Lorsque la progression cumulée **atteint ou dépasse la DR**, le voyage est terminé.
+1. Le capitaine effectue un jet de navigation.
+2. Le résultat est ajouté à une progression cumulée.
+3. Lorsque la progression cumulée atteint ou dépasse la DR, le voyage est terminé.
 
 ---
 
@@ -123,7 +123,7 @@ Selon la qualité et la vitesse du navire :
 |Navire standard|d6|
 |Navire rapide / optimisé|d8|
 
-📌 Le dé représente la capacité du navire à **maintenir une trajectoire utile** dans les courants orbitaux.
+📌 Le dé représente la capacité du navire à maintenir une trajectoire utile dans les courants orbitaux.
 
 ---
 
@@ -136,39 +136,39 @@ Ajoute un bonus fixe selon l’expérience du capitaine :
 - Maître‑pilote → +2
 - Légende vivante → +3
 
-📌 Le capitaine **réduit l’incertitude**, il ne nie pas la mer.
+📌 Le capitaine réduit l’incertitude, il ne nie pas la mer.
 
 ---
-### **Échec critique de navigation**
+### Échec critique de navigation
 
 La navigation dans l’Anneau est une lutte progressive.  
 Même une bonne manœuvre répétée peut devenir dangereuse si la mer se referme.
 
 #### Déclenchement d’un échec critique
 
-Un **échec critique** survient lorsque :
+Un échec critique survient lorsque :
 
-> **Trois jets hebdomadaires affichent exactement le même résultat total**  
+> Trois jets hebdomadaires affichent exactement le même résultat total  
 > (dé du navire + bonus du capitaine),  
-> **quels que soient leurs effets positifs ou négatifs**.
+> quels que soient leurs effets positifs ou négatifs.
 
-- Les jets **n’ont pas besoin d’être consécutifs**.
-- Le total considéré est le **résultat final**, après bonus.
-- L’échec critique peut survenir **même si la progression est bonne**.
+- Les jets n’ont pas besoin d’être consécutifs.
+- Le total considéré est le résultat final, après bonus.
+- L’échec critique peut survenir même si la progression est bonne.
 
 📌 Exemple :
 
 - Semaine 1 : 5
 - Semaine 3 : 5
 - Semaine 6 : 5  
-    → **Échec critique déclenché**, même si la DR est presque atteinte.
+    → Échec critique déclenché, même si la DR est presque atteinte.
 
 ---
 
 #### Interprétation fictionnelle
 
 - La mer “a compris” la manœuvre.
-- Le navire est entré dans une **résonance orbitale défavorable**.
+- Le navire est entré dans une résonance orbitale défavorable.
 - Les élémentaires s'invitent dans votre voyages.
 - Les mêmes choix produisent désormais des effets amplifiés.
 
@@ -192,10 +192,10 @@ Progression ≥ DR
 
 ## 4. Temps de voyage
 
-Le **temps réel** du voyage est le **nombre de semaines écoulées** avant d’atteindre la DR.
+Le temps réel du voyage est le nombre de semaines écoulées avant d’atteindre la DR.
 
-La **carte** donne une attente (Δθ).  
-La **mer** impose la réalité (DR + jets).
+La carte donne une attente (Δθ).  
+La mer impose la réalité (DR + jets).
 
 Ainsi :
 
@@ -206,7 +206,7 @@ Ainsi :
 
 ## 5. Modificateurs optionnels de DR (avant le voyage)
 
-Ces modificateurs ajustent la **DR initiale**.
+Ces modificateurs ajustent la DR initiale.
 
 ### Conditions environnementales
 
@@ -230,7 +230,7 @@ Ces modificateurs ajustent la **DR initiale**.
 
 ## 6. Modificateurs optionnels aux jets hebdomadaires
 
-Ces modificateurs s’appliquent **chaque semaine**.
+Ces modificateurs s’appliquent chaque semaine.
 
 ### État du navire
 
@@ -254,10 +254,10 @@ Ces modificateurs s’appliquent **chaque semaine**.
 
 ## 7. Événements hebdomadaires (optionnel mais recommandé)
 
-- **Jet minimal naturel** sur le dé du navire :
+- Jet minimal naturel sur le dé du navire :
     - pas de progression cette semaine,
     - complication mineure.
-- **Jet exceptionnel** (dé max + bonus ≥ 10) :
+- Jet exceptionnel (dé max + bonus ≥ 10) :
     - progression doublée cette semaine,
     - ou réduction immédiate de la DR restante de 2.
 
@@ -267,7 +267,7 @@ Ces modificateurs s’appliquent **chaque semaine**.
 
 Si :
 
-- Dρ ≥ 2 rangs **et**
+- Dρ ≥ 2 rangs et
 - DR ≥ 15
 
 Alors le MJ peut déclarer :
@@ -282,9 +282,9 @@ La résolution devient narrative, avec risques majeurs, pertes possibles, ou con
 
 ## 9. Lecture synthétique pour les joueurs
 
-> **Δθ** dit combien de degrés.  
-> **DR** dit combien la mer résiste.  
-> **Les jets** disent combien de semaines passent.
+> Δθ dit combien de degrés.  
+> DR dit combien la mer résiste.  
+> Les jets disent combien de semaines passent.
 
 ---
 

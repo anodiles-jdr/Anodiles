@@ -1,13 +1,13 @@
 Dans Anodiles, il existe une multitude d’organisations humaines : familles, clans, ligues mercenaires, empires, républiques…  
-Toutes les factions sont décrites selon une **structure commune**, mais seules deux catégories utilisent des valeurs numériques :
+Toutes les factions sont décrites selon une structure commune, mais seules deux catégories utilisent des valeurs numériques :
 
-- les **Approches de faction** (comparaison directe)
-- les **Ressources** (capacité d’action et d’influence)
+- les Approches de faction (comparaison directe)
+- les Ressources (capacité d’action et d’influence)
 
 ## 🎯 Intention de design 
 
 > Les règles de factions ne sont pas faites pour accélérer l’histoire,  
-> mais pour **donner du poids aux périodes de latence**.
+> mais pour donner du poids aux périodes de latence.
 
 Elles permettent :
 
@@ -21,15 +21,15 @@ Elles permettent :
 
 Lors d’un voyage prolongé, d’une attente forcée ou d’une transition entre deux arcs :
 
-1. Présentez brièvement la **situation des factions liées aux PJ**
-2. Proposez **1 à 2 décisions stratégiques**, pas plus
+1. Présentez brièvement la situation des factions liées aux PJ
+2. Proposez 1 à 2 décisions stratégiques, pas plus
 3. Résolvez-les via :
     - Approches (comparaison)
     - Ressources (accumulation)
-4. Décrivez **les effets visibles**, même mineurs
+4. Décrivez les effets visibles, même mineurs
 
 👉 Il ne s’agit pas de “jouer une partie de gestion”,  
-mais de **donner une voix aux PJ dans les choix du monde**.
+mais de donner une voix aux PJ dans les choix du monde.
 
 ---
 
@@ -51,7 +51,7 @@ Résolution :
 - comparaison d’approches en toile de fond
 
 👉 À l’arrivée, le port n’est plus le même.  
-Le voyage **a eu un impact**.
+Le voyage a eu un impact.
 
 ---
 
@@ -71,30 +71,30 @@ Les joueurs décident :
 
 Résolution en quelques jets cumulés.
 
-👉 Quand l’intrigue reprend, **le cadre a changé**, sans avoir “brûlé” une scène.
+👉 Quand l’intrigue reprend, le cadre a changé, sans avoir “brûlé” une scène.
 
 ---
 
 ## ⚖️ Approches de faction
 
-Les **Approches de faction** décrivent _comment_ une faction agit face au monde **à l’échelle locale**.  
-On raisonne ici à l’échelle d’une **bataille**, d’une **opération ciblée** ou d’un **objectif précis** : briser un blocus, saboter une infrastructure, prendre le contrôle d’un port, organiser une évacuation.
-Ces valeurs sont donc **absolues** : elles ne mesurent pas l’ampleur globale d’une faction, mais sa capacité à agir efficacement dans une situation donnée.  
+Les Approches de faction décrivent _comment_ une faction agit face au monde à l’échelle locale.  
+On raisonne ici à l’échelle d’une bataille, d’une opération ciblée ou d’un objectif précis : briser un blocus, saboter une infrastructure, prendre le contrôle d’un port, organiser une évacuation.
+Ces valeurs sont donc absolues : elles ne mesurent pas l’ampleur globale d’une faction, mais sa capacité à agir efficacement dans une situation donnée.  
 Une faction peut disposer de milliers d’espions ou de soldats ; pour une mission, elle n’en engage toujours qu’une fraction.  
-Les Approches représentent la **qualité de cette projection**, pas sa quantité.
+Les Approches représentent la qualité de cette projection, pas sa quantité.
 
-Elles sont notées sur une **échelle de 0 à 3** :
+Elles sont notées sur une échelle de 0 à 3 :
 
-- **0** : inapte, déficiente
-- **1** : capable
-- **2** : compétente
-- **3** : dominante
+- 0 : inapte, déficiente
+- 1 : capable
+- 2 : compétente
+- 3 : dominante
 
-> ⚠️ Les approches **ne donnent jamais lieu à des jets de dés**.
+> ⚠️ Les approches ne donnent jamais lieu à des jets de dés.
 
 Elles servent uniquement à :
 
-- établir une **opposition rapide**,
+- établir une opposition rapide,
 - trancher une situation sans ralentir la narration.
 
 Selon les circonstances fictionnelles, le MJ peut moduler temporairement une Approche de ±1, y compris au‑delà de la valeur de 3, sans jamais dépasser 4 ni descendre sous 0.  
@@ -105,51 +105,51 @@ Ainsi, même en jouant les Approches, les joueurs ne peuvent jamais prédire ave
 
 |Approche|Description|
 |---|---|
-|**Puissante**|Capacité à imposer sa volonté par la force brute|
-|**Rusée**|Tactique, ruse, plans indirects|
-|**Subtile**|Discrétion, infiltration, influence cachée|
-|**Rapide**|Mobilité, réaction, projection|
-|**Prudente**|Préparation, défense, gestion du risque|
-|**Flashy**|Impact symbolique, réputation, démonstration|
+|Puissante|Capacité à imposer sa volonté par la force brute|
+|Rusée|Tactique, ruse, plans indirects|
+|Subtile|Discrétion, infiltration, influence cachée|
+|Rapide|Mobilité, réaction, projection|
+|Prudente|Préparation, défense, gestion du risque|
+|Flashy|Impact symbolique, réputation, démonstration|
 
 ---
 
 # Résolution des Approches
 
-Il existe **trois cas distincts** lors d’une opposition de factions par Approche :
+Il existe trois cas distincts lors d’une opposition de factions par Approche :
 
-1. **Opposition directe (même approche)**
-2. **Substitution d’approche**
-3. **Égalité**
+1. Opposition directe (même approche)
+2. Substitution d’approche
+3. Égalité
 
-Ces cas **ne doivent jamais être confondus**.
+Ces cas ne doivent jamais être confondus.
 
 ---
 
 ## 1️⃣ Opposition directe
 
-Les deux factions utilisent **la même Approche**.
+Les deux factions utilisent la même Approche.
 
 ### Résolution
 
-- Score supérieur → **avantage net** pour le plus haut, **désavantage** pour l’autre
+- Score supérieur → avantage net pour le plus haut, désavantage pour l’autre
 - Score inférieur → inverse
-- **Score égal → égalité**
+- Score égal → égalité
 
 ---
 
 ### ✅ Exemple clair d’égalité (sans substitution)
 
-**Situation**
+Situation
 
-- Clan du Requin : **Puissante +3**
-- Clan du Dauphin : **Puissante +3**
+- Clan du Requin : Puissante +3
+- Clan du Dauphin : Puissante +3
 
-**Résolution : égalité**
+Résolution : égalité
 
-> Chaque faction obtient **un gain** et **une complication**.
+> Chaque faction obtient un gain et une complication.
 
-**Résultat fictionnel**
+Résultat fictionnel
 
 - ✅ Le Requin parvient à forcer le passage et à montrer sa supériorité
     
@@ -160,66 +160,66 @@ Les deux factions utilisent **la même Approche**.
 - ❌ Mais doit céder un point stratégique
     
 
-👉 **Même approche, même score, double conséquence**.  
-Ceci est une **égalité pure**, sans substitution.
+👉 Même approche, même score, double conséquence.  
+Ceci est une égalité pure, sans substitution.
 
 ---
 
 ## 2️⃣ Substitution d’Approche
 
-Une faction **ne répond pas avec la même Approche**, mais en oppose une autre **justifiée par la fiction**.
+Une faction ne répond pas avec la même Approche, mais en oppose une autre justifiée par la fiction.
 
-> Exemple : répondre à **Puissante** par **Rusée**, **Prudente** ou **Subtile**.
+> Exemple : répondre à Puissante par Rusée, Prudente ou Subtile.
 
-⚠️ **Ceci n’est pas une égalité**, même si les scores sont identiques.
+⚠️ Ceci n’est pas une égalité, même si les scores sont identiques.
 
 ---
 
 ### 📌 Règle fondamentale (borne)
 
-> **La faction à l’initiative gagne toujours quelque chose.**
+> La faction à l’initiative gagne toujours quelque chose.
 > 
 > La substitution :
 > 
-> - ne peut **jamais annuler totalement** l’action initiée
-> - sert à **transformer la nature du résultat**, pas à le nier
+> - ne peut jamais annuler totalement l’action initiée
+> - sert à transformer la nature du résultat, pas à le nier
 
 ---
 
 ### ✅ Exemple clair de substitution (distinct de l’égalité)
 
-**Situation**
+Situation
 
 - Clan du Homard initie une action militaire  
-    → Approche : **Puissante +3**
-- Clan de la Mouette se défend par **Rusée +3**
+    → Approche : Puissante +3
+- Clan de la Mouette se défend par Rusée +3
 
-**Résolution : substitution réussie**
+Résolution : substitution réussie
 
-**Résultat**
+Résultat
 
-- ✅ **Homard (initiative)**
+- ✅ Homard (initiative)
     
     - Objectif partiellement atteint
     - Pression militaire exercée
-- ✅ **Mouette (substitution)**
+- ✅ Mouette (substitution)
     
     - Impact détourné : pertes minimisées, évacuation réussie
     - Mais routes compromises, neutralité fragilisée
 
-👉 **Gagnant–gagnant**, mais **coût différent pour chacun**.  
-Ce n’est **pas une égalité**, c’est une **déformation du conflit**.
+👉 Gagnant–gagnant, mais coût différent pour chacun.  
+Ce n’est pas une égalité, c’est une déformation du conflit.
 
 ---
 
 ## 3️⃣ Égalité + substitution : interdit
 
-👉 **Règle explicite à ajouter** (très important) :
+👉 Règle explicite à ajouter (très important) :
 
-> Une opposition **ne peut jamais être à la fois une égalité et une substitution**.
+> Une opposition ne peut jamais être à la fois une égalité et une substitution.
 > 
-> - L’égalité n’existe que lorsque **les deux factions utilisent la même Approche**.
-> - La substitution produit toujours une **résolution asymétrique**, car l’initiative reste déterminante.
+> - L’égalité n’existe que lorsque les deux factions utilisent la même Approche.
+> - La substitution produit toujours une résolution asymétrique, car l’initiative reste déterminante.
 
 ---
 
@@ -237,25 +237,25 @@ Ce n’est **pas une égalité**, c’est une **déformation du conflit**.
 
 ## 🎯 Philosophie finale (alignée avec ton intention)
 
-- Les Approches **ne sont pas défensives**, elles sont **expressives**
+- Les Approches ne sont pas défensives, elles sont expressives
 - Se défendre par une autre Approche :
-    - **change la forme du choc**
-    - **pas son existence**
-- L’initiative est **toujours récompensée**
-- L’égalité est **productive**, pas bloquante
-- Le système est **gagnant–gagnant**, mais **jamais gratuit**
+    - change la forme du choc
+    - pas son existence
+- L’initiative est toujours récompensée
+- L’égalité est productive, pas bloquante
+- Le système est gagnant–gagnant, mais jamais gratuit
 
 
 ## Ressources
 
-Les **Ressources** représentent la capacité d’une faction à mener des **actions de long terme** :  
+Les Ressources représentent la capacité d’une faction à mener des actions de long terme :  
 guerre, influence diplomatique, infiltration, colonisation, recherche, etc.
 
 Contrairement aux Approches, les Ressources :
 
-- **se dépensent**
-- **produisent des résultats chiffrés**
-- **s’accumulent dans le temps**
+- se dépensent
+- produisent des résultats chiffrés
+- s’accumulent dans le temps
 
 ---
 
@@ -263,15 +263,15 @@ Contrairement aux Approches, les Ressources :
 
 Lorsqu’une faction entreprend une action complexe :
 
-1. Elle définit un **objectif clair**
-2. Le MJ fixe un **seuil total à atteindre**
+1. Elle définit un objectif clair
+2. Le MJ fixe un seuil total à atteindre
 3. Chaque mois (ou période définie), la faction :
-    - dépense **1 point de ressource**
-    - effectue **un jet**
-    - **ajoute le résultat** à une réserve d’accumulation
+    - dépense 1 point de ressource
+    - effectue un jet
+    - ajoute le résultat à une réserve d’accumulation
 
-✅ Lorsque le total atteint ou dépasse le seuil → **succès**  
-❌ Si les ressources sont épuisées avant → **échec ou succès coûteux**
+✅ Lorsque le total atteint ou dépasse le seuil → succès  
+❌ Si les ressources sont épuisées avant → échec ou succès coûteux
 
 ---
 
@@ -279,12 +279,12 @@ Lorsqu’une faction entreprend une action complexe :
 
 | Type de faction                                 | Dés par jet |
 | ----------------------------------------------- | ----------- |
-| Empire / Monarchie                              | **3d6**     |
-| Clan totémique majeur / République              | **2d6**     |
-| Clan totémique mineur / Clan familial important | **1d6**     |
-| Faction mineure                                 | **1d4**     |
+| Empire / Monarchie                              | 3d6     |
+| Clan totémique majeur / République              | 2d6     |
+| Clan totémique mineur / Clan familial important | 1d6     |
+| Faction mineure                                 | 1d4     |
 
-👉 **Un jet = une période d’effort (souvent 1 mois)**
+👉 Un jet = une période d’effort (souvent 1 mois)
 
 ---
 
@@ -292,11 +292,11 @@ Lorsqu’une faction entreprend une action complexe :
 
 | Envergure de l’action   | Seuil total |
 | ----------------------- | ----------- |
-| Locale                  | **10**      |
-| Régionale               | **20**      |
-| Majeure                 | **30**      |
-| Stratégique             | **40**      |
-| Historique / Légendaire | **50+**     |
+| Locale                  | 10      |
+| Régionale               | 20      |
+| Majeure                 | 30      |
+| Stratégique             | 40      |
+| Historique / Légendaire | 50+     |
 
 > Le MJ peut ajuster le seuil selon :
 > 
@@ -310,22 +310,22 @@ Lorsqu’une faction entreprend une action complexe :
 
 ### 🔴 Règle des répétitions dangereuses
 
-Si **trois jets consécutifs donnent exactement la même valeur totale**  
+Si trois jets consécutifs donnent exactement la même valeur totale  
 (ex. 7 → 7 → 7), alors :
 
-> ⚠️ **La faction perd immédiatement 50 % de l’accumulation en cours**,  
+> ⚠️ La faction perd immédiatement 50 % de l’accumulation en cours,  
 > arrondie à l’inférieur.
 
-- La ressource dépensée est **perdue**
+- La ressource dépensée est perdue
 - L’action continue (si des ressources restent)
-- Le MJ décrit une **crise majeure** :
+- Le MJ décrit une crise majeure :
     - sabotage
     - corruption
     - contre‑offensive
     - scandale
     - catastrophe logistique
 
-👉 Cette règle **représente l’usure, la prévisibilité et l’erreur systémique**.
+👉 Cette règle représente l’usure, la prévisibilité et l’erreur systémique.
 
 ---
 
@@ -333,13 +333,13 @@ Si **trois jets consécutifs donnent exactement la même valeur totale**
 
 À la fin de chaque mois :
 
-> Une faction récupère **la moitié de son score maximal** dans chaque ressource,  
+> Une faction récupère la moitié de son score maximal dans chaque ressource,  
 > arrondie à l’inférieur.
 
 Exemple :
 
-- Armée +3 → récupération de **1 point / mois**
-- Diplomatie +5 → récupération de **2 points / mois**
+- Armée +3 → récupération de 1 point / mois
+- Diplomatie +5 → récupération de 2 points / mois
 
 ---
 
@@ -347,7 +347,7 @@ Exemple :
 
 ### Exemple 1 — Guerre prolongée
 
-Le **Clan du Dauphin** veut sécuriser durablement une constellation hostile.
+Le Clan du Dauphin veut sécuriser durablement une constellation hostile.
 
 - Ressource : ⚔️ Armée (+3)
 - Dés : 2d6
@@ -365,7 +365,7 @@ La guerre s’enlise, un front cède, des pertes lourdes surviennent.
 
 ### Exemple 2 — Infiltration politique
 
-Le **Clan du Homard** tente de manipuler un conseil impérial.
+Le Clan du Homard tente de manipuler un conseil impérial.
 
 - Ressource : 🌐 Diplomatie Empires (+4)
 - Dés : 2d6
@@ -378,7 +378,7 @@ Les jets sont variés (5, 9, 7) → accumulation stable
 
 ### Exemple 3 — Action rapide et risquée
 
-Le **Clan de l’Espadon** sabote une route esclavagiste.
+Le Clan de l’Espadon sabote une route esclavagiste.
 
 - Ressource : 🕵️ Espionnage (+2)
 - Dés : 2d6
@@ -391,7 +391,7 @@ Mais l’échec critique aurait signifié capture ou représailles.
 
 ## 🧠 Règles d’arbitrage (MJ)
 
-- Une action peut être **interrompue volontairement**  
+- Une action peut être interrompue volontairement  
     → l’accumulation est conservée
 - Une action abandonnée sous pression ennemie  
     → le MJ peut infliger une perte partielle
@@ -407,9 +407,9 @@ Mais l’échec critique aurait signifié capture ou représailles.
 Les factions d’Anodiles ne sont pas figées.  
 Leurs forces, leurs faiblesses et leur manière d’agir évoluent avec l’histoire.
 
-Lors de **fins de campagne**, ou à l’issue de **scénarios particulièrement déterminants**, le MJ peut modifier durablement les **Approches** et/ou les **Ressources** d’une ou plusieurs factions.
+Lors de fins de campagne, ou à l’issue de scénarios particulièrement déterminants, le MJ peut modifier durablement les Approches et/ou les Ressources d’une ou plusieurs factions.
 
-Ces changements ne reflètent pas un effort ponctuel, mais une **transformation structurelle** : victoire politique, défaite humiliante, réforme interne, traumatisme collectif, révélation publique, etc.
+Ces changements ne reflètent pas un effort ponctuel, mais une transformation structurelle : victoire politique, défaite humiliante, réforme interne, traumatisme collectif, révélation publique, etc.
 
 ---
 
@@ -417,18 +417,18 @@ Ces changements ne reflètent pas un effort ponctuel, mais une **transformation 
 
 À l’issue d’un événement majeur, le MJ peut accorder :
 
-- **+1 ou −1 à une Approche**
-- **+1 ou −1 à une Ressource**
-- exceptionnellement, **les deux**, si l’impact est profond et durable
+- +1 ou −1 à une Approche
+- +1 ou −1 à une Ressource
+- exceptionnellement, les deux, si l’impact est profond et durable
 
-> ⚠️ Une même Approche ou Ressource **ne peut jamais dépasser ses bornes normales**  
+> ⚠️ Une même Approche ou Ressource ne peut jamais dépasser ses bornes normales  
 > (Approches : 0 à 3, Ressources : selon l’échelle du monde).
 
 ---
 
 ## 📌 Quand appliquer ces changements ?
 
-Ces ajustements doivent rester **rares et significatifs**.  
+Ces ajustements doivent rester rares et significatifs.  
 Ils sont appropriés lorsque :
 
 - un arc narratif se conclut
@@ -437,15 +437,15 @@ Ils sont appropriés lorsque :
 - un secret majeur est révélé ou détruit
 - une victoire ou une défaite marque les mémoires
 
-👉 Un simple succès tactique **ne suffit pas**.
+👉 Un simple succès tactique ne suffit pas.
 
 ---
 
 ## 🧠 Logique de modification
 
-### Modifier une **Approche**
+### Modifier une Approche
 
-Représente un **changement de comportement** ou de culture :
+Représente un changement de comportement ou de culture :
 
 - réforme interne
 - traumatisme collectif
@@ -454,15 +454,15 @@ Représente un **changement de comportement** ou de culture :
 
 Exemples :
 
-- +1 **Prudente** après une défaite sanglante
-- −1 **Flashy** après un scandale public
-- +1 **Subtile** après une longue guerre de l’ombre
+- +1 Prudente après une défaite sanglante
+- −1 Flashy après un scandale public
+- +1 Subtile après une longue guerre de l’ombre
 
 ---
 
-### Modifier une **Ressource**
+### Modifier une Ressource
 
-Représente un **changement matériel ou structurel** :
+Représente un changement matériel ou structurel :
 
 - pertes humaines
 - enrichissement massif
@@ -471,17 +471,17 @@ Représente un **changement matériel ou structurel** :
 
 Exemples :
 
-- −1 **Armée / Force** après une guerre perdue
-- +1 **Réseau / Espions** après l’absorption d’un service rival
-- −1 **Diplomatie Empires** après une trahison révélée
+- −1 Armée / Force après une guerre perdue
+- +1 Réseau / Espions après l’absorption d’un service rival
+- −1 Diplomatie Empires après une trahison révélée
 
 ---
 
 ## ⚖️ Limites et équilibre
 
-- Une faction ne peut subir ou gagner **plus d’un point par catégorie** (Approche / Ressource) lors d’un même événement.
-- Les PJ peuvent influencer **quelle faction** est affectée, mais pas toujours **comment**.
-- Le MJ doit toujours **justifier la modification dans la fiction**.
+- Une faction ne peut subir ou gagner plus d’un point par catégorie (Approche / Ressource) lors d’un même événement.
+- Les PJ peuvent influencer quelle faction est affectée, mais pas toujours comment.
+- Le MJ doit toujours justifier la modification dans la fiction.
 
 ---
 
@@ -491,8 +491,8 @@ Exemples :
 
 Le Clan du Dauphin empêche une guerre civile majeure et gagne le soutien populaire.
 
-- +1 **Diplomatie Clan**
-- +1 **Approche Flashy** (leur image devient inspirante)
+- +1 Diplomatie Clan
+- +1 Approche Flashy (leur image devient inspirante)
 
 ---
 
@@ -500,8 +500,8 @@ Le Clan du Dauphin empêche une guerre civile majeure et gagne le soutien popula
 
 Le Clan du Homard voit son lien avec la Monarchie publiquement exposé.
 
-- −1 **Diplomatie Clan**
-- −1 **Approche Subtile**
+- −1 Diplomatie Clan
+- −1 Approche Subtile
 
 ---
 
@@ -509,8 +509,8 @@ Le Clan du Homard voit son lien avec la Monarchie publiquement exposé.
 
 Le Clan de l’Espadon mène une campagne sanglante contre les démonistes.
 
-- +1 **Armée / Force**
-- −1 **Approche Prudente**
+- +1 Armée / Force
+- −1 Approche Prudente
 
 ---
 
@@ -518,8 +518,8 @@ Le Clan de l’Espadon mène une campagne sanglante contre les démonistes.
 
 À la fin d’une campagne, la Tortue a trop tardé à agir.
 
-- −1 **Approche Rapide**
-- +1 **Approche Prudente** (rééquilibrage culturel)
+- −1 Approche Rapide
+- +1 Approche Prudente (rééquilibrage culturel)
 
 ---
 
@@ -527,8 +527,8 @@ Le Clan de l’Espadon mène une campagne sanglante contre les démonistes.
 
 Un changement de Ressource :
 
-- modifie le **nombre maximal de points disponibles**
-- influence directement la **régénération mensuelle**
-- affecte les **actions futures sur le long terme**
+- modifie le nombre maximal de points disponibles
+- influence directement la régénération mensuelle
+- affecte les actions futures sur le long terme
 
-👉 Ces évolutions donnent du **poids stratégique aux campagnes**, au‑delà de leurs conséquences immédiates.
+👉 Ces évolutions donnent du poids stratégique aux campagnes, au‑delà de leurs conséquences immédiates.

@@ -12,7 +12,7 @@ Un test.
 
 Les champs républicains sont jeunes, mal assurés, trop exposés.  
 Ils savent ce que je suis censé y faire.  
-Ils savent **d’où je viens**.
+Ils savent d’où je viens.
 
 Ils ne m’ont rien demandé d’autre.
 
@@ -47,7 +47,7 @@ On me demande :
 C’est… déroutant.
 
 À l’Alliance, la Maison vient avant le résultat.  
-Ici, le résultat **est** la maison.
+Ici, le résultat est la maison.
 
 ---
 
@@ -93,7 +93,7 @@ Saboter maintenant, c’est perdre l’accès demain.
 Je comprends quelque chose que mes maîtres n’ont jamais voulu admettre :
 
 La République n’essaie pas de remplacer l’Alliance.  
-Elle essaie de **prouver qu’elle n’en a pas besoin**.
+Elle essaie de prouver qu’elle n’en a pas besoin.
 
 Et ce genre d’idée ne se combat pas par des ordres.  
 Elle se combat par de meilleurs résultats.
@@ -106,7 +106,7 @@ Je suis toujours un agent de la Maison Verte.
 
 Je transmets. Je compile. Je rends compte.
 
-Mais je filtre désormais **ce qui mérite d’être compris**  
+Mais je filtre désormais ce qui mérite d’être compris  
 et ce qui ne ferait que provoquer des réflexes défensifs.
 
 Est‑ce une trahison ?  
@@ -147,7 +147,7 @@ Je suis encore utile à l’Alliance.
 Je suis clairement utile à la République.
 
 Mais surtout, pour la première fois depuis longtemps,  
-je suis utile **sans devoir expliquer pourquoi**.
+je suis utile sans devoir expliquer pourquoi.
 
 J'ai croisé un elfe incolore en rentrant chez moi.
 

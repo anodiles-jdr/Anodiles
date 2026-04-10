@@ -123,10 +123,10 @@ _(logiques proches, outils différents)_
 
 ### 🔴 Combinaisons extrêmement instables (mais excellentes)
 
-- **Agent impérial × Vengeance**
-- **Scientifique × Recherche de puissance**
-- **Renégat × Aller dans le noyau**
-- **Pirate × Créer une faction**
+- Agent impérial × Vengeance
+- Scientifique × Recherche de puissance
+- Renégat × Aller dans le noyau
+- Pirate × Créer une faction
 
 👉 À utiliser pour :
 
@@ -138,16 +138,16 @@ _(logiques proches, outils différents)_
 
 ### 🟡 Combinaisons fiables pour démarrer une campagne
 
-- **Explorateur × Île étrange**
-- **Coursier × Rechercher une personne**
-- **Artisan × S’absoudre du passé**
-- **Mercenaire × Chose extraordinaire**
+- Explorateur × Île étrange
+- Coursier × Rechercher une personne
+- Artisan × S’absoudre du passé
+- Mercenaire × Chose extraordinaire
 
 ---
 
 ### 🟢 Combinaisons à croissance lente (idéales long terme)
 
-- **Coursier × Créer une faction**
-- **Scientifique × Vaincre une malédiction**
-- **Pirate × Promotion sociale**
-- **Renégat × Rechercher une personne**
+- Coursier × Créer une faction
+- Scientifique × Vaincre une malédiction
+- Pirate × Promotion sociale
+- Renégat × Rechercher une personne

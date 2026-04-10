@@ -10,7 +10,7 @@ tags:
 
 ## Anodiles n’est pas un monde à apprendre
 
-C’est un monde à **arpenter**.
+C’est un monde à arpenter.
 
 Tu ne trouveras pas dans ces pages :
 
@@ -26,34 +26,34 @@ C’est un choix.
 
 ## Anodiles est un bac à sable vivant
 
-L’univers d’Anodiles est pensé comme un **espace de jeu ouvert**, structuré mais volontairement incomplet.
+L’univers d’Anodiles est pensé comme un espace de jeu ouvert, structuré mais volontairement incomplet.
 
 Tu y trouveras :
 
-- des **forces en tension**,
-- des **familles de clans**, des courants d’influence,
+- des forces en tension,
+- des familles de clans, des courants d’influence,
 - des mythes, des rumeurs, des récits contradictoires,
 - des zones stables… et d’autres qui ne le sont pas.
 
-Tout ce qui est décrit l’est pour **créer des décisions**, pas pour être mémorisé.
+Tout ce qui est décrit l’est pour créer des décisions, pas pour être mémorisé.
 
 ---
 
 ## Le bon niveau de détail
 
-Anodiles s’arrête **avant** l’épuisement du détail.
+Anodiles s’arrête avant l’épuisement du détail.
 
 Les descriptions privilégient :
 
-- ce que l’on **dit** d’un clan,
-- ce que l’on **croit** d’un lieu,
-- ce que l’on **redoute** d’un pouvoir.
+- ce que l’on dit d’un clan,
+- ce que l’on croit d’un lieu,
+- ce que l’on redoute d’un pouvoir.
 
 Les individus précis — chefs, figures majeures, visages familiers —  
-**émergent en jeu**, quand une campagne en a besoin.
+émergent en jeu, quand une campagne en a besoin.
 
 Le monde ne précède pas la table.  
-Il **se révèle** à elle.
+Il se révèle à elle.
 
 ---
 
@@ -68,7 +68,7 @@ Les interviews fictives, les témoignages, les récits internes au monde :
 - contradictoires.
 
 Ils ne disent pas _la_ vérité.  
-Ils disent **comment le monde se raconte à lui-même**.
+Ils disent comment le monde se raconte à lui-même.
 
 Libre au MJ et aux joueurs de décider ce qui est exact, déformé, ou déjà obsolète.
 
@@ -83,7 +83,7 @@ Anodiles emprunte à une logique proche de Fate :
 - des troubles implicites.
 
 Ces éléments ne sont pas des règles cachées.  
-Ce sont des **graines de fiction**, destinées à être invoquées, détournées, mises en tension.
+Ce sont des graines de fiction, destinées à être invoquées, détournées, mises en tension.
 
 Si un élément t’inspire, utilise-le.  
 S’il ne sert pas ta table, laisse-le de côté.
@@ -101,7 +101,7 @@ Il est conçu pour :
 - évoluer d’une table à l’autre sans se figer.
 
 Une campagne d’Anodiles n’est pas « la vraie version » du monde.  
-C’est **une lecture parmi d’autres**.
+C’est une lecture parmi d’autres.
 
 ---
 
@@ -112,7 +112,7 @@ un PNJ marquant, un lieu transformé, un clan brisé ou renforcé —
 fait désormais partie de _ton_ Anodiles.
 
 Le jeu ne te demande pas de respecter un canon.  
-Il t’invite à **en créer un, local, vivant, imparfait**.
+Il t’invite à en créer un, local, vivant, imparfait.
 
 ---
 
@@ -120,10 +120,10 @@ Il t’invite à **en créer un, local, vivant, imparfait**.
 
 Anodiles te propose :
 
-- un monde **suggestif plutôt qu’exhaustif**,
+- un monde suggestif plutôt qu’exhaustif,
 - des structures plutôt que des détails figés,
 - des tensions plutôt que des explications,
-- un univers qui **attend les joueurs** pour exister pleinement.
+- un univers qui attend les joueurs pour exister pleinement.
 
 Si tu cherches un décor clé en main, Anodiles n’est sans doute pas ce qu’il te faut.
 

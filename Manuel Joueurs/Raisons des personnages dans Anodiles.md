@@ -1,7 +1,7 @@
 _(liste normalisée avec objectifs jouables)_
 
-> 👉 Une raison n’est **pas un état d’esprit**.  
-> C’est une **tension active** qui pousse le personnage à agir, même quand il devrait s’arrêter.
+> 👉 Une raison n’est pas un état d’esprit.  
+> C’est une tension active qui pousse le personnage à agir, même quand il devrait s’arrêter.
 
 ---
 
@@ -9,10 +9,10 @@ _(liste normalisée avec objectifs jouables)_
 
 ### 🔹 À la recherche d’une chose extraordinaire
 
-**Complément** :  
-Ce que le personnage cherche n’est pas nécessairement précieux, mais **hors norme** : un objet, un lieu, une créature ou une preuve qui briserait l’ordre établi ou justifierait tous les risques pris jusqu’ici.
+Complément :  
+Ce que le personnage cherche n’est pas nécessairement précieux, mais hors norme : un objet, un lieu, une créature ou une preuve qui briserait l’ordre établi ou justifierait tous les risques pris jusqu’ici.
 
-**Objectifs possibles** :
+Objectifs possibles :
 
 - Localiser un artefact classé dangereux ou perdu
 - Être le premier à atteindre une île instable ou interdite
@@ -23,10 +23,10 @@ Ce que le personnage cherche n’est pas nécessairement précieux, mais **hors 
 
 ### 🔹 À la recherche d’une promotion sociale
 
-**Complément** :  
-La reconnaissance n’est pas symbolique : elle accorde protection, accès et survie dans les structures d’Anodiles. Le personnage cherche à **changer de catégorie**, pas seulement de statut.
+Complément :  
+La reconnaissance n’est pas symbolique : elle accorde protection, accès et survie dans les structures d’Anodiles. Le personnage cherche à changer de catégorie, pas seulement de statut.
 
-**Objectifs possibles** :
+Objectifs possibles :
 
 - Obtenir un patron, un titre ou un contrat officiel
 - Écraser un rival social sans conflit ouvert
@@ -37,10 +37,10 @@ La reconnaissance n’est pas symbolique : elle accorde protection, accès et su
 
 ### 🔹 Qui cherche à se venger
 
-**Complément** :  
-La vengeance est méthodique. Le personnage ne veut pas seulement nuire, mais **déséquilibrer durablement** ce qui l’a brisé : personne, réseau ou système.
+Complément :  
+La vengeance est méthodique. Le personnage ne veut pas seulement nuire, mais déséquilibrer durablement ce qui l’a brisé : personne, réseau ou système.
 
-**Objectifs possibles** :
+Objectifs possibles :
 
 - Identifier les véritables responsables derrière un désastre
 - Détruire une chaîne de commandement plutôt qu’un individu
@@ -51,10 +51,10 @@ La vengeance est méthodique. Le personnage ne veut pas seulement nuire, mais **
 
 ### 🔹 Qui souhaite réformer ou créer sa faction
 
-**Complément** :  
-Ce n’est pas une utopie : c’est une tentative dangereuse de **réorganiser le pouvoir**, souvent contre des structures plus anciennes et mieux armées.
+Complément :  
+Ce n’est pas une utopie : c’est une tentative dangereuse de réorganiser le pouvoir, souvent contre des structures plus anciennes et mieux armées.
 
-**Objectifs possibles** :
+Objectifs possibles :
 
 - Rallier des individus marginalisés ou mécontents
 - Détourner une ressource clé (routes, savoir, nourriture)
@@ -65,10 +65,10 @@ Ce n’est pas une utopie : c’est une tentative dangereuse de **réorganiser l
 
 ### 🔹 Qui recherche la puissance
 
-**Complément** :  
+Complément :  
 La puissance recherchée est pragmatique : capacité à imposer un choix, à survivre à une pression, ou à ne plus dépendre des autres.
 
-**Objectifs possibles** :
+Objectifs possibles :
 
 - Acquérir un artefact ou une technique interdite
 - S’assurer l’allégeance durable d’un groupe
@@ -79,10 +79,10 @@ La puissance recherchée est pragmatique : capacité à imposer un choix, à sur
 
 ### 🔹 Qui tend à s’absoudre de ses erreurs passées
 
-**Complément** :  
-Le personnage agit pour **réparer**, mais jamais complètement. Chaque succès lui rappelle ce qu’il ne pourra pas effacer.
+Complément :  
+Le personnage agit pour réparer, mais jamais complètement. Chaque succès lui rappelle ce qu’il ne pourra pas effacer.
 
-**Objectifs possibles** :
+Objectifs possibles :
 
 - Limiter les conséquences d’une catastrophe ancienne
 - Protéger ceux qui auraient dû être protégés auparavant
@@ -93,10 +93,10 @@ Le personnage agit pour **réparer**, mais jamais complètement. Chaque succès 
 
 ### 🔹 Qui recherche une île étrange
 
-**Complément** :  
-L’île est un **point d’anomalie** : géographique, élémentaire ou politique. Elle promet une réponse… ou un nouveau problème.
+Complément :  
+L’île est un point d’anomalie : géographique, élémentaire ou politique. Elle promet une réponse… ou un nouveau problème.
 
-**Objectifs possibles** :
+Objectifs possibles :
 
 - Suivre une route impossible ou erratique
 - Confirmer l’existence d’un lieu signalé par une rumeur
@@ -107,10 +107,10 @@ L’île est un **point d’anomalie** : géographique, élémentaire ou politiq
 
 ### 🔹 Qui doit aller dans le noyau
 
-**Complément** :  
+Complément :  
 Le noyau n’est pas une destination, mais une dette. Le personnage y va parce qu’il n’a plus le choix — ou parce qu’il sait qu’il devra y retourner un jour.
 
-**Objectifs possibles** :
+Objectifs possibles :
 
 - Y mener quelqu’un qui n’en reviendra pas
 - Rapporter quelque chose que le noyau garde
@@ -121,10 +121,10 @@ Le noyau n’est pas une destination, mais une dette. Le personnage y va parce q
 
 ### 🔹 Qui veut vaincre une malédiction
 
-**Complément** :  
+Complément :  
 La “malédiction” n’est pas nécessairement surnaturelle : elle peut être biologique, politique, sociale ou technologique.
 
-**Objectifs possibles** :
+Objectifs possibles :
 
 - Identifier l’origine réelle du problème
 - Trouver une solution partielle, mais durable
@@ -135,10 +135,10 @@ La “malédiction” n’est pas nécessairement surnaturelle : elle peut être
 
 ### 🔹 À la recherche d’une personne
 
-**Complément** :  
+Complément :  
 La personne est centrale, mais jamais seule : elle est liée à des factions, des secrets ou des ressources que d’autres convoitent.
 
-**Objectifs possibles** :
+Objectifs possibles :
 
 - Retrouver quelqu’un disparu volontairement
 - Extraire une personne d’un système oppressif
@@ -149,5 +149,5 @@ La personne est centrale, mais jamais seule : elle est liée à des factions, de
 
 ## Règle d’or (Anodiles)
 
-> **Une bonne raison est celle qui oblige le personnage  
-> à faire quelque chose qu’il préférerait éviter.**
+> Une bonne raison est celle qui oblige le personnage  
+> à faire quelque chose qu’il préférerait éviter.

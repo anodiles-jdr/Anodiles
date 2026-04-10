@@ -1,4 +1,4 @@
-**Dominantes : Eau / Air**
+Dominantes : Eau / Air
 
 ### Intention
 
@@ -18,15 +18,15 @@ Les échecs laissent des traces, rarement immédiates.
 
 ### Elle transforme
 
-Les personnages deviennent des **éclaireurs indispensables**, mais souvent isolés.
+Les personnages deviennent des éclaireurs indispensables, mais souvent isolés.
 
 ---
 
 
-## Archipel des **Routes Incertaines**
+## Archipel des Routes Incertaines
 
-**Origine dominante : Humain**  
-**Style de réussite : Adaptation**
+Origine dominante : Humain  
+Style de réussite : Adaptation
 
 ### Thème
 
@@ -36,19 +36,19 @@ Aller là où il n’y a pas de chemin fiable. Composer avec l’imprévu.
 
 Les réussites humaines dans cet archipel permettent :
 
-- de **changer d’axe au dernier moment**
+- de changer d’axe au dernier moment
 - de transformer une conséquence immédiate en problème différé
 - de garder une issue même en cas d’échec
 
 ### Îles de l’archipel
 
-- **Île de l’Éclaireur Infatigable**  
+- Île de l’Éclaireur Infatigable  
     Lire le terrain, durer plus longtemps que prévu.
-- **Île des Passages Cachés**  
+- Île des Passages Cachés  
     Trouver ce qui n’était pas censé exister.
-- **Île de la Retraite Possible**  
+- Île de la Retraite Possible  
     Toujours avoir une sortie, même imparfaite.
 
 ### Ce que cet archipel fait aux PJ
 
-Ils deviennent ceux qui **ouvrent la voie**, mais aussi ceux qui portent la responsabilité des choix de route.
+Ils deviennent ceux qui ouvrent la voie, mais aussi ceux qui portent la responsabilité des choix de route.

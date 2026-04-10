@@ -5,10 +5,10 @@ tags:
 ---
 ## Entretien n° 7‑A/Σ
 
-**Source :** Service des Flux, Adminis Libris  
-**Interlocuteur :** _Administrateur‑Coordinateur Malrec Vohn_  
-**Statut :** Actif, rendement conforme  
-**Date :** non pertinente
+Source : Service des Flux, Adminis Libris  
+Interlocuteur : _Administrateur‑Coordinateur Malrec Vohn_  
+Statut : Actif, rendement conforme  
+Date : non pertinente
 
 ---
 
@@ -16,8 +16,8 @@ tags:
 
 Pouvez‑vous décrire Adminis Libris pour quelqu’un qui n’y aurait jamais mis les pieds ?
 
-**Réponse**  
-Adminis Libris est une **structure de gestion de la puissance**.  
+Réponse  
+Adminis Libris est une structure de gestion de la puissance.  
 Le terme de _ville_ est impropre. Nous préférons _système_.  
 Chaque unité, humaine ou non, y a une fonction mesurable.  
 Ceux qui parlent d’horreur confondent absence de décor et absence de sens.
@@ -28,10 +28,10 @@ Ceux qui parlent d’horreur confondent absence de décor et absence de sens.
 
 Certains décrivent Adminis Libris comme une “usine à chair vivante”.
 
-**Réponse**  
+Réponse  
 C’est une simplification émotionnelle.  
-Nous parlons de **biomasse optimisée**.  
-La chair est un **support**, au même titre que le métal ou la pierre ailleurs.  
+Nous parlons de biomasse optimisée.  
+La chair est un support, au même titre que le métal ou la pierre ailleurs.  
 Refuser de l’utiliser serait un gaspillage moral.
 
 ---
@@ -40,9 +40,9 @@ Refuser de l’utiliser serait un gaspillage moral.
 
 L’agriculture produite ici est impropre à la consommation pour la plupart des peuples d’Anodiles.
 
-**Réponse**  
+Réponse  
 Exact.  
-Adminis Libris ne nourrit pas des _peuples_, mais des **administrés**.  
+Adminis Libris ne nourrit pas des _peuples_, mais des administrés.  
 Un administré non compatible est une erreur d’orientation, pas une victime.  
 La compatibilité est un prérequis, jamais une promesse.
 
@@ -52,7 +52,7 @@ La compatibilité est un prérequis, jamais une promesse.
 
 Parlons des administrés. Ont‑ils le choix ?
 
-**Réponse**  
+Réponse  
 Ils ont eu un choix.  
 Avant.  
 Le choix d’entrer, de rester ou de refuser.  
@@ -64,16 +64,16 @@ Après l’intégration, la notion de choix devient statistiquement négligeable
 
 Vous parlez souvent de “performance”. De quoi s’agit‑il exactement ?
 
-**Réponse**  
-La **puissance**, sous toutes ses formes.  
+Réponse  
+La puissance, sous toutes ses formes.  
 Physique.  
 Démoniaque.  
 Logistique.  
 Mentale.  
 Structurelle.
 
-Tout ce qui augmente la capacité d’Adminis Libris à agir sur le monde est **positif**.  
-Tout ce qui ne l’augmente pas est **corrigé**.
+Tout ce qui augmente la capacité d’Adminis Libris à agir sur le monde est positif.  
+Tout ce qui ne l’augmente pas est corrigé.
 
 ---
 
@@ -81,7 +81,7 @@ Tout ce qui ne l’augmente pas est **corrigé**.
 
 Et si la correction échoue ?
 
-**Réponse**  
+Réponse  
 Alors elle n’était pas rentable.
 
 ---
@@ -90,13 +90,13 @@ Alors elle n’était pas rentable.
 
 Quel est le rôle exact des démons dans ce système ?
 
-**Réponse**  
-Les démons sont des **ressources internes latentes**.  
+Réponse  
+Les démons sont des ressources internes latentes.  
 Ils ne sont ni bons ni mauvais.  
-Ils sont **inactifs**, jusqu’à ce qu’un facteur — la pierre verte, par exemple — les rende exploitables.
+Ils sont inactifs, jusqu’à ce qu’un facteur — la pierre verte, par exemple — les rende exploitables.
 
 Notre rôle n’est pas de les invoquer.  
-Notre rôle est de **les administrer**.
+Notre rôle est de les administrer.
 
 ---
 
@@ -104,7 +104,7 @@ Notre rôle est de **les administrer**.
 
 Certains parlent de “démons originels”.
 
-**Réponse**  
+Réponse  
 Cette question sort du périmètre de l’entretien.  
 Veuillez reformuler.
 
@@ -114,13 +114,13 @@ Veuillez reformuler.
 
 Les taux de dégénérescence restent élevés.
 
-**Réponse**  
+Réponse  
 Oui.  
-Mais ils sont **prévisibles**.  
+Mais ils sont prévisibles.  
 Et donc intégrés dans les modèles.
 
 Une dégénérescence non prévue est un problème.  
-Une dégénérescence prévue est un **coût**.
+Une dégénérescence prévue est un coût.
 
 ---
 
@@ -128,9 +128,9 @@ Une dégénérescence prévue est un **coût**.
 
 Que devient un administré dont la dégénérescence dépasse les seuils acceptables ?
 
-**Réponse**  
+Réponse  
 Il cesse d’être un administré.  
-Il devient une **ressource secondaire**.
+Il devient une ressource secondaire.
 
 ---
 
@@ -138,9 +138,9 @@ Il devient une **ressource secondaire**.
 
 Certains observateurs parlent d’un système inhumain.
 
-**Réponse**  
+Réponse  
 Nous avons dépassé ce stade depuis longtemps.  
-L’humain est une **phase**, pas un objectif.
+L’humain est une phase, pas un objectif.
 
 ---
 
@@ -148,10 +148,10 @@ L’humain est une **phase**, pas un objectif.
 
 Pensez‑vous qu’Adminis Libris puisse un jour perdre le contrôle ?
 
-**Réponse**  
+Réponse  
 Non.  
 Le contrôle est une illusion narrative.  
-Nous parlons de **stabilité dynamique**.
+Nous parlons de stabilité dynamique.
 
 ---
 
@@ -159,7 +159,7 @@ Nous parlons de **stabilité dynamique**.
 
 Dernière question. Dormez‑vous bien, Administrateur ?
 
-**Réponse**  
+Réponse  
 Le sommeil est un mécanisme de récupération.  
 J’ai été optimisé pour m’en passer partiellement.
 

@@ -1,4 +1,4 @@
-**Dominantes : Air / Feu**
+Dominantes : Air / Feu
 
 ### Intention
 
@@ -18,13 +18,13 @@ Les échecs attirent regards et dettes.
 
 ### Elle transforme
 
-Les personnages deviennent **observés**, parfois craints.
+Les personnages deviennent observés, parfois craints.
 
 ---
-## Archipel des **Forces Canalisées**
+## Archipel des Forces Canalisées
 
-**Origine dominante : Nain**  
-**Style de réussite : Stabilisation**
+Origine dominante : Nain  
+Style de réussite : Stabilisation
 
 ### Thème
 
@@ -34,19 +34,19 @@ Comprendre la magie comme une force dangereuse mais structurée.
 
 Les réussites naines dans cet archipel permettent :
 
-- de **réduire la pression magique future**
+- de réduire la pression magique future
 - d’empêcher une ressource de se dégrader cette fois‑ci
 - de rendre un effet instable temporairement fiable
 
 ### Îles de l’archipel
 
-- **Île des Rituels Tenus**  
+- Île des Rituels Tenus  
     Faire durer ce qui ne devrait pas.
-- **Île des Ancrages Primordiaux**  
+- Île des Ancrages Primordiaux  
     Lier la magie à quelque chose de solide.
-- **Île de la Dissipation Patiente**  
+- Île de la Dissipation Patiente  
     Éteindre sans explosion.
 
 ### Ce que cet archipel fait aux PJ
 
-Ils deviennent des **garants de stabilité**, souvent sollicités quand tout menace de déborder.
+Ils deviennent des garants de stabilité, souvent sollicités quand tout menace de déborder.
