@@ -1,3 +1,7 @@
+---
+tags:
+  - Aventures
+---
 La vie dans l’Anneau d’îles réserve des surprises constantes.  
 Que l’on dispose de cartes détaillant les constellations ou que l’on se repère à vue, l’Anneau saura toujours perturber par son étrangeté. Une île erratique surgissant hors de toute prévision, une île émergente, un fragment récemment détaché : ces événements sont des imprévus dont la rareté est toute relative.
 

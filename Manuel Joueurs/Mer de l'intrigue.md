@@ -1,3 +1,8 @@
+---
+tags:
+  - Règles
+  - MDJ
+---
 Dominantes : Air / Eau
 
 ### Intention

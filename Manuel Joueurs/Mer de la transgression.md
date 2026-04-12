@@ -1,3 +1,8 @@
+---
+tags:
+  - Règles
+  - MDJ
+---
 Dominantes : Feu / Eau
 
 ### Intention

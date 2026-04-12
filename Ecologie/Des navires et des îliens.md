@@ -1,3 +1,7 @@
+---
+tags:
+  - Aventures
+---
 Les arbres sont rares.  
 Les arbres sont précieux.  
 Les eaux sont capricieuses.  

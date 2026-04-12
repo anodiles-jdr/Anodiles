@@ -1,3 +1,9 @@
+---
+tags:
+  - Règles
+  - MJ
+  - Aventures
+---
 #### SOCIAL – Otages 👤💨
 ▢▢ | ▢▢ 
 ✅ Subtile 🕶 **•** Prudente 🛡️
