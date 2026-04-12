@@ -1,3 +1,7 @@
+---
+tags:
+  - faction
+---
 _« Mieux vaut trop que pas assez. »_
 
 ---

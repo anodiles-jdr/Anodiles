@@ -1,3 +1,7 @@
+---
+tags:
+  - Empire
+---
 _« Ici, rien ne vit. Tout fonctionne. »_
 
 ---

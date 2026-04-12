@@ -1,3 +1,7 @@
+---
+tags:
+  - MJ
+---
 _Le monde ne tourne pas sans vous._
 
 Anodiles n’est pas un décor figé.  

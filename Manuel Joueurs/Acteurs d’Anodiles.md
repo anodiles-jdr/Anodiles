@@ -1,5 +1,10 @@
-| Acteur                        | Complément d’information                                                                                                                                     |     |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
+---
+tags:
+  - Règles
+  - MDJ
+---
+| Acteur                    | Complément d’information                                                                                                                                     |     |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
 | Pirate                    | Vit entre les routes officielles et les zones grises. Toujours toléré par quelqu’un… et recherché par un autre. Dépend des ports qui acceptent de l’oublier. |     |
 | Explorateur               | Travaille rarement pour lui‑même. Ses découvertes appartiennent presque toujours à une faction, une académie ou un commanditaire qu’il craint.               |     |
 | Agent impérial            | Porte l’Empire avec lui, même quand il agit “off the record”. Sa présence transforme tout incident local en affaire politique.                               |     |

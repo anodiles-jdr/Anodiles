@@ -1,3 +1,7 @@
+---
+tags:
+  - faction
+---
 _La peur nourrit, la force protège._
 _On nous respecte ou l’on disparaît._
 ## 🎭 Aspects majeurs

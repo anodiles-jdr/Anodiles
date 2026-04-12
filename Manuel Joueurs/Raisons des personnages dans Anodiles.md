@@ -1,3 +1,8 @@
+---
+tags:
+  - Règles
+  - MDJ
+---
 _(liste normalisée avec objectifs jouables)_
 
 > 👉 Une raison n’est pas un état d’esprit.  
