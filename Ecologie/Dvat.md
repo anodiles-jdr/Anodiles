@@ -65,9 +65,7 @@ Cette protection n’est pas motivée par la compassion, mais par la nécessité
 
 ## Exploitation militaire
 
-Le dvat constitue une arme de guerre supérieure.
-
-La Démonocratie l’utilise massivement dans ses opérations militaires :
+Le dvat constitue une arme de guerre supérieure et la Démonocratie l’utilise massivement dans ses opérations militaires :
 
 - monté par des cavaliers armés d’arcs ou de lances
 - capable d’opérations aériennes et amphibies
@@ -91,8 +89,7 @@ Des siècles de sélection ont permis d’atteindre les performances actuelles :
 - vitesse moyenne d’environ 30 km/h
 - sans dégradation notable de la monture
 
-Le dvat n’est pas un symbole.  
-C’est un système d’arme vivant, stable, reproductible, et administré.
+Le dvat n’est pas un symbole, il est un système d’arme vivant, stable, reproductible, et administré.
 
 ---
 
@@ -100,6 +97,6 @@ C’est un système d’arme vivant, stable, reproductible, et administré.
 
 - ✅ le dvat est une créature naturelle, modifiée et sélectionnée
 - ✅ exploité comme arme stratégique
-- ✅ symbole de la Démonocratie
+- ✅ produit de la Démonocratie
 - ✅ sauvagerie fonctionnelle, pas chaotique
 - ✅ présence signale une pression militaire immédiate
