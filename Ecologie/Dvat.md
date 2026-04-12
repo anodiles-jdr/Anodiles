@@ -100,6 +100,6 @@ C’est un système d’arme vivant, stable, reproductible, et administré.
 
 - ✅ le dvat est une créature naturelle, modifiée et sélectionnée
 - ✅ exploité comme arme stratégique
-- ✅ symbole de la Démonocratie, mais pas unique
+- ✅ symbole de la Démonocratie
 - ✅ sauvagerie fonctionnelle, pas chaotique
-- ✅ présence = pression militaire immédiate
+- ✅ présence signale une pression militaire immédiate
