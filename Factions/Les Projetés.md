@@ -1,3 +1,8 @@
+---
+tags:
+  - faction
+  - Tribu
+---
 _« Nous ne survivrons pas. Nous renaîtrons. »_
 
 ---

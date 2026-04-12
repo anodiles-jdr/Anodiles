@@ -1,3 +1,8 @@
+---
+tags:
+  - faction
+  - PierreVerte
+---
 _« Puissance, puissance, donne‑moi ta puissance, ô glorieuse pierre verte. »_
 
 ---

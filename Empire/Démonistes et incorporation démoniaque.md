@@ -1,3 +1,7 @@
+---
+tags:
+  - Démonocratie
+---
 ## Généralités
 
 Pour évoquer ces pratiques, il est nécessaire d’écarter d’emblée certaines idées reçues.

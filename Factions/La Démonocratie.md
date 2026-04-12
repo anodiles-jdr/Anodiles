@@ -1,3 +1,9 @@
+---
+tags:
+  - Démonocratie
+  - Empire
+  - faction
+---
 _« La puissance n’est pas un moyen. C’est un indicateur. »_
 _« Quand tout devient une ressource, même la damnation devient rentable. »_
 

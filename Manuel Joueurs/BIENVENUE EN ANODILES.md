@@ -1,3 +1,7 @@
+---
+tags:
+  - MDJ
+---
 _Un monde à parcourir, pas à optimiser_
 
 ---

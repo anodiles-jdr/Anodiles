@@ -1,3 +1,8 @@
+---
+tags:
+  - faction
+  - Monarchie
+---
  _On a touché le fond, on y reste. »_
 
 ---

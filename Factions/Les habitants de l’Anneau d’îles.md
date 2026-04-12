@@ -1,3 +1,7 @@
+---
+tags:
+  - faction
+---
 _Une communauté sans bannière_
 
 ---

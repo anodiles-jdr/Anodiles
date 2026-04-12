@@ -1,6 +1,7 @@
 ---
 tags:
   - faction
+  - Tribu
 ---
 _« Se souvenir pour durer. »_
 

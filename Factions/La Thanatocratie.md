@@ -1,3 +1,9 @@
+---
+tags:
+  - faction
+  - Empire
+  - Thanatocratie
+---
 ### 🎭 Aspects majeurs
 
 #### Concept

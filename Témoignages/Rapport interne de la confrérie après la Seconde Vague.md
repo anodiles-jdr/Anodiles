@@ -1,3 +1,8 @@
+---
+tags:
+  - faction
+  - Témoignage
+---
 Diffusion : cercles internes, maîtres des graines, intendants  
 Statut : document de travail stratégique  
 Date : non consignée

@@ -1,3 +1,8 @@
+---
+tags:
+  - PierreVerte
+  - MJ
+---
 ## Nature profonde de la Pierre Verte
 
 La Pierre Verte n’est pas, à l’origine, un artefact démoniaque.

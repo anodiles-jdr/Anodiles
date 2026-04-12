@@ -1,3 +1,8 @@
+---
+tags:
+  - Règles
+  - MDJ
+---
 ## Ce que vous pouvez faire, et comment le monde répond
 
 ---

@@ -1,3 +1,8 @@
+---
+tags:
+  - faction
+  - Tribu
+---
 _« Soit la terre est pure, soit elle est ennemie. »_
 
 ---

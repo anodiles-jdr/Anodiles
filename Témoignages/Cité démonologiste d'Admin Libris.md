@@ -1,6 +1,7 @@
 ---
 tags:
   - Empire
+  - Démonocratie
 ---
 _« Ici, rien ne vit. Tout fonctionne. »_
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - faction
+---
 
 _Pour l’argent, on fait des efforts._  
 _La Monarchie n’oublie jamais ses alliés._
