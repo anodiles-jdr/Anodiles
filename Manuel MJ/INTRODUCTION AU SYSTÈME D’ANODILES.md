@@ -1,3 +1,8 @@
+---
+tags:
+  - Règles
+  - MDJ
+---
 ## Ce que signifie jouer à Anodiles
 
 Anodiles est un jeu de rôle de fantasy océanique où le monde agit autant que les personnages.

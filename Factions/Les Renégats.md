@@ -1,3 +1,7 @@
+---
+tags:
+  - faction
+---
 _Ceux qui ont quitté, ceux qui ont tenu, ceux qui sont restés_
 
 ---

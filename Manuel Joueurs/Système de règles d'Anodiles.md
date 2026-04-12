@@ -1,3 +1,8 @@
+---
+tags:
+  - Règles
+  - MDJ
+---
 ## Synthèse des règles conservées (version intégrée)
 
 ---

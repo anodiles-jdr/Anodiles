@@ -1,3 +1,9 @@
+---
+tags:
+  - Aventures
+  - Règles
+  - MDJ
+---
 Chaque personnage dispose de 3 slots d’équipement actifs :
 
 1. Arme (ou main principale)

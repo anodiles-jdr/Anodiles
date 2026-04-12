@@ -1,3 +1,8 @@
+---
+tags:
+  - Règles
+  - MDJ
+---
 ## Comment votre personnage agit dans le monde
 
 ---

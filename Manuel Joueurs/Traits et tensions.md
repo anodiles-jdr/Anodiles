@@ -1,3 +1,8 @@
+---
+tags:
+  - Règles
+  - MDJ
+---
 ### Pirate
 
 | Raison                  | Tension principale                                                      |

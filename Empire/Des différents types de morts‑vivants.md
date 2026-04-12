@@ -1,3 +1,8 @@
+---
+tags:
+  - Empire
+  - Thanatocratie
+---
 ## Classification nécromantique et procédés d’Herganat
 
 _(Archive technique — diffusion nécromantique autorisée)_

@@ -1,6 +1,7 @@
 ---
 tags:
   - faction
+  - Règles
 ---
 Dans Anodiles, il existe une multitude d’organisations humaines : familles, clans, ligues mercenaires, empires, républiques…  
 Toutes les factions sont décrites selon une structure commune, mais seules deux catégories utilisent des valeurs numériques :

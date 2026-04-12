@@ -1,3 +1,7 @@
+---
+tags:
+  - faction
+---
 ### Cycle de vie et nature
 
 Les orques possèdent un cycle de vie unique, structuré en trois phases successives : graine, humanoïde et arbre. Durant la seconde phase, ils appartiennent pleinement au règne animal ; lors de la troisième, ils rejoignent définitivement le règne végétal.
