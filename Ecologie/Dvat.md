@@ -58,8 +58,7 @@ On les rencontre principalement :
 - au cœur des terres de la Démonocratie
 - occasionnellement en pleine mer, en hardes dispersées
 
-Les dvats sauvages sont volontairement préservés par Herganat.  
-Cette protection n’est pas motivée par la compassion, mais par la nécessité de maintenir une diversité génétique exploitable.
+Les dvats sauvages sont volontairement préservés par Herganat. Cette protection n’est pas motivée par la compassion, mais par la nécessité de maintenir une diversité génétique exploitable.
 
 ---
 
