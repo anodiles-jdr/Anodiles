@@ -1,3 +1,7 @@
+---
+tags:
+  - faction
+---
 Ils constituent l’une des structures sociales, politiques et militaires majeures de l’Anneau d’îles. Ils ne sont ni de simples guildes, ni des familles étendues : un clan totémique est une communauté vivante, rassemblée autour d’un idéal, d’un mode de vie et, souvent, d’un symbole ou d’un héritage commun.
 
 Il n’existe que deux voies reconnues pour intégrer un clan totémique : la naissance ou les actes.

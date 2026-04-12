@@ -1,3 +1,7 @@
+---
+tags:
+  - faction
+---
 _« Ce qui se chante survit aux Empires. »_
 
 ---

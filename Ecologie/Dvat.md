@@ -1,3 +1,7 @@
+---
+tags:
+  - Ecologie
+---
 ### Créature de guerre de la Démonocratie
 
 _(Archive militaire — Herganat)_

@@ -1,3 +1,8 @@
+---
+tags:
+  - Règles
+  - MDJ
+---
 _Exemples de pratiques que l’on peut explorer_
 
 > Un Lieu n’est pas un pouvoir.  

@@ -1,3 +1,8 @@
+---
+tags:
+  - Règles
+  - MJ
+---
 # ÉLÉMENTS
 
 |Élément|Emoji principal|Alternatives possibles|

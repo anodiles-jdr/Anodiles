@@ -1,3 +1,8 @@
+---
+tags:
+  - Témoignage
+  - Alliance
+---
 Je m’appelle Tsanin Odepluie.  
 Ma colorisation est rouge.  
 Je suis le père d’Aelin, dont la couleur naturelle est bleue.

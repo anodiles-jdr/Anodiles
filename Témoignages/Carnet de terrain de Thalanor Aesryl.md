@@ -1,3 +1,9 @@
+---
+tags:
+  - Témoignage
+  - République
+  - Alliance
+---
 _Maison Verte_  
 _(document non destiné à la transmission)_
 

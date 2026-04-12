@@ -1,3 +1,8 @@
+---
+tags:
+  - Règles
+  - MDJ
+---
 | Trait                              | Complément d’information                                                                                                                 |
 | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | Sans faction                   | N’est protégé par aucune structure. Accède plus facilement aux zones grises, mais n’a aucun filet social. Toute dette est personnelle.   |

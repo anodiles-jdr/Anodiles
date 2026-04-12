@@ -1,3 +1,7 @@
+---
+tags:
+  - faction
+---
 Les clans familiaux constituent le tissu de base de la société de l’Anneau d’îles. Plus anciens, plus discrets et plus nombreux que les clans totémiques, ils représentent l’échelle locale, intime et enracinée de la vie îlienne.
 
 Contrairement aux clans totémiques, dont l’influence s’étend sur l’ensemble de l’Anneau, les clans familiaux sont profondément liés à un territoire précis, le plus souvent une île ou un petit archipel.
