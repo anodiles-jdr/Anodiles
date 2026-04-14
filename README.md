@@ -39,8 +39,7 @@ Pour toute question, remarque ou discussion autour d’**Anodiles** :
 
 - GitHub : via les issues du dépôt
 - Auteur : **Florent Giboin**
-- Contact direct : *(à compléter — email, Discord, site, etc.)*
-
+- Contact direct : anodiles.jdr@gmail.com
 ---
 
 *Anodiles est un univers en construction, ouvert à l’exploration, au conflit et à l’imaginaire.*
