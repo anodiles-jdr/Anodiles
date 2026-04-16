@@ -6,5 +6,7 @@ C'est précisément l'anneau qui sera votre terrain de jeu. Une île au début, 
 
 On a de nombreuses sources de magie et pouvoirs, mais on peut très bien en sélectionner qu'une et se focaliser sur la Thanatocratie et la Démonocratie est un point d'entrée idéal. Le socle d'apprentissage reste modéré mais apporte beaucoup. Pour la magie elfique, il vous suffit de la considérer comme de la magie arcanique très D&D avec une dose élémentaliste assez prononcée. Pour l'ingélieurie, c'est "juste du steampunk" avec des élémentaires. Inutile pour les orques d'aller dans du détail, ils sont une menace et c'est l'essentiel à savoir et à intégrer au début.
 
-Il y a plusieurs 
+Il y a plusieurs archétypes de mentor à votre disposition :
+- Un des voyageurs originaux, âgé, plus de 70 ans, il a vu son groupe devoir prendre des décisions difficiles puis se lancer dans un combat pour la liberté.
+- Un orque 
 
