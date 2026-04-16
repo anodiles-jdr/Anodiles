@@ -11,5 +11,5 @@ Il y a plusieurs archétypes de mentor à votre disposition :
 - Un orque vénérable, vous aurez juste à la présenter comme une exception. Il orientera les joueurs vers l'écologie d'Anodiles et ses thèmes riches liés au contrôle de la nature et à ses multiples formes.
 - Un vert docteur à l’ambiguïté morale sera le parfait compagnon de voyages pour des joueurs cherchant le bac à sable, par ses choix singuliers, il sera un guide malgré lui sur les thèmes d'Anodiles.
 
-Pour éviter le côté catalogue dans vos parties, il faut prendre soins d'étirer les sujets sur plusieurs séances, vous mettez en jeu du bois d'orques vénérables ? très bien, ce sujet doit revenir plusieurs fois, sur plusieurs séances ou différents angles, avec une importance plus ou moins importante
+Pour éviter le côté catalogue dans vos parties, il faut prendre soins d'étirer les sujets sur plusieurs séances, vous mettez en jeu du bois d'orques vénérables ? très bien, ce sujet doit revenir plusieurs fois, sur plusieurs séances ou différents angles, avec une importance plus ou moins importantes. On peut aussi tirer un fil, bois = bateau = armateur = île chantier naval = espion impérial.... le thème est là, présent, il exerce une pression sur les joueurs et n'est pas un i
 
