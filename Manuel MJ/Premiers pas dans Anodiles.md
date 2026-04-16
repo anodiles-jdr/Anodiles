@@ -8,5 +8,6 @@ On a de nombreuses sources de magie et pouvoirs, mais on peut très bien en sél
 
 Il y a plusieurs archétypes de mentor à votre disposition :
 - Un des voyageurs originaux, âgé, plus de 70 ans, il a vu son groupe devoir prendre des décisions difficiles puis se lancer dans un combat pour la liberté. Il sera parfait si vous voulez abordé les thèmes politiques qu'offre Anodiles, mais aussi s'attaquer à la notion de dettes et de réparation suite à l’interventionnisme. Idéal si vous avez un côté trekies.
-- Un orque vénérable, vous aurez juste à la présenter comme une exception. Il orientera les joueurs vers l'écologie d'Anodiles et ses thèmes riches 
+- Un orque vénérable, vous aurez juste à la présenter comme une exception. Il orientera les joueurs vers l'écologie d'Anodiles et ses thèmes riches liés au contrôle de la nature et à ses multiples formes
+- Un vert docteur à l’ambiguïté morale sera le parfait co
 
