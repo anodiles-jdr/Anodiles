@@ -12,15 +12,12 @@ Date : non pertinente
 
 ---
 
-### _Question_
+#### _Question_
 
 Pouvez‑vous décrire Adminis Libris pour quelqu’un qui n’y aurait jamais mis les pieds ?
 
 Réponse  
-Adminis Libris est une structure de gestion de la puissance.  
-Le terme de _ville_ est impropre. Nous préférons _système_.  
-Chaque unité, humaine ou non, y a une fonction mesurable.  
-Ceux qui parlent d’horreur confondent absence de décor et absence de sens.
+Adminis Libris est une structure de gestion de la puissance. Le terme de _ville_ est impropre. Nous préférons _système_. Chaque unité, humaine ou non, y a une fonction mesurable. Ceux qui parlent d’horreur confondent absence de décor et absence de sens.
 
 ---
 
@@ -29,10 +26,7 @@ Ceux qui parlent d’horreur confondent absence de décor et absence de sens.
 Certains décrivent Adminis Libris comme une “usine à chair vivante”.
 
 Réponse  
-C’est une simplification émotionnelle.  
-Nous parlons de biomasse optimisée.  
-La chair est un support, au même titre que le métal ou la pierre ailleurs.  
-Refuser de l’utiliser serait un gaspillage moral.
+C’est une simplification émotionnelle. Nous parlons de biomasse optimisée. La chair est un support, au même titre que le métal ou la pierre ailleurs. Refuser de l’utiliser serait un gaspillage moral.
 
 ---
 
@@ -41,10 +35,7 @@ Refuser de l’utiliser serait un gaspillage moral.
 L’agriculture produite ici est impropre à la consommation pour la plupart des peuples d’Anodiles.
 
 Réponse  
-Exact.  
-Adminis Libris ne nourrit pas des _peuples_, mais des administrés.  
-Un administré non compatible est une erreur d’orientation, pas une victime.  
-La compatibilité est un prérequis, jamais une promesse.
+Exact. Adminis Libris ne nourrit pas des _peuples_, mais des administrés. Un administré non compatible est une erreur d’orientation, pas une victime. La compatibilité est un prérequis, jamais une promesse.
 
 ---
 
@@ -53,10 +44,7 @@ La compatibilité est un prérequis, jamais une promesse.
 Parlons des administrés. Ont‑ils le choix ?
 
 Réponse  
-Ils ont eu un choix.  
-Avant.  
-Le choix d’entrer, de rester ou de refuser.  
-Après l’intégration, la notion de choix devient statistiquement négligeable.
+Ils ont eu un choix. Avant. Le choix d’entrer, de rester ou de refuser. Après l’intégration, la notion de choix devient statistiquement négligeable.
 
 ---
 
@@ -65,15 +53,8 @@ Après l’intégration, la notion de choix devient statistiquement négligeable
 Vous parlez souvent de “performance”. De quoi s’agit‑il exactement ?
 
 Réponse  
-La puissance, sous toutes ses formes.  
-Physique.  
-Démoniaque.  
-Logistique.  
-Mentale.  
-Structurelle.
-
-Tout ce qui augmente la capacité d’Adminis Libris à agir sur le monde est positif.  
-Tout ce qui ne l’augmente pas est corrigé.
+La puissance, sous toutes ses formes. Physique. Démoniaque. Logistique. Mentale.  
+Structurelle. Tout ce qui augmente la capacité d’Adminis Libris à agir sur le monde est positif. Tout ce qui ne l’augmente pas est corrigé.
 
 ---
 
