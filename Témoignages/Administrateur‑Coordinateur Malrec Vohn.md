@@ -11,7 +11,6 @@ Statut : Actif, rendement conforme
 Date : non pertinente
 
 ---
-
 #### _Question_
 
 Pouvez‑vous décrire Adminis Libris pour quelqu’un qui n’y aurait jamais mis les pieds ?
@@ -30,21 +29,18 @@ C’est une simplification émotionnelle. Nous parlons de biomasse optimisée. L
 ### _Question_
 
 L’agriculture produite ici est impropre à la consommation pour la plupart des peuples d’Anodiles.
-
-Réponse  
+### _Réponse_
 Exact. Adminis Libris ne nourrit pas des _peuples_, mais des administrés. Un administré non compatible est une erreur d’orientation, pas une victime. La compatibilité est un prérequis, jamais une promesse.
 
 ---
-
 ### _Question_
 
 Parlons des administrés. Ont‑ils le choix ?
 
-Réponse  
+### _Réponse_  
 Ils ont eu un choix. Avant. Le choix d’entrer, de rester ou de refuser. Après l’intégration, la notion de choix devient statistiquement négligeable.
 
 ---
-
 ### _Question_
 
 Vous parlez souvent de “performance”. De quoi s’agit‑il exactement ?
@@ -53,25 +49,22 @@ Réponse
 La puissance, sous toutes ses formes. Physique. Démoniaque. Logistique. Mentale. Structurelle. Tout ce qui augmente la capacité d’Adminis Libris à agir sur le monde est positif. Tout ce qui ne l’augmente pas est corrigé.
 
 ---
-
 ### _Question_
 
 Et si la correction échoue ?
 
-Réponse  
+### _Réponse_  
 Alors elle n’était pas rentable.
 
 ---
-
 ### _Question_
 
 Quel est le rôle exact des démons dans ce système ?
 
-Réponse  
+### _Réponse_
 Les démons sont des ressources internes latentes. Ils ne sont ni bons ni mauvais. Ils sont inactifs, jusqu’à ce qu’un facteur — la pierre verte, par exemple — les rende exploitables. Notre rôle n’est pas de les invoquer. Notre rôle est de les administrer.
 
 ---
-
 ### _Question_
 
 Certains parlent de “démons originels”.
@@ -86,23 +79,16 @@ Veuillez reformuler.
 
 Les taux de dégénérescence restent élevés.
 
-Réponse  
-Oui.  
-Mais ils sont prévisibles.  
-Et donc intégrés dans les modèles.
-
-Une dégénérescence non prévue est un problème.  
-Une dégénérescence prévue est un coût.
+### _Réponse_  
+Oui. Mais ils sont prévisibles. Et donc intégrés dans les modèles. Une dégénérescence non prévue est un problème. Une dégénérescence prévue est un coût.
 
 ---
-
 ### _Question_
 
 Que devient un administré dont la dégénérescence dépasse les seuils acceptables ?
 
-Réponse  
-Il cesse d’être un administré.  
-Il devient une ressource secondaire.
+### _Réponse_  
+Il cesse d’être un administré. Il devient une ressource secondaire.
 
 ---
 
