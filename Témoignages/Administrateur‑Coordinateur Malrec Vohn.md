@@ -113,7 +113,6 @@ Dernière question. Dormez‑vous bien, Administrateur ?
 Le sommeil est un mécanisme de récupération. J’ai été optimisé pour m’en passer partiellement. _(Silence)_ Mais je vous remercie de vous en soucier. C’est… inhabituel.
 
 ---
-
 ## 🗂️ Note marginale (non transmise à l’intervieweur)
 
 > _L’Administrateur Vohn a dépassé les seuils d’empathie tolérés lors de la dernière évaluation._  
