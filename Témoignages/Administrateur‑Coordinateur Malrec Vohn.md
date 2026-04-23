@@ -74,7 +74,6 @@ Cette question sort du périmètre de l’entretien.
 Veuillez reformuler.
 
 ---
-
 ### _Question_
 
 Les taux de dégénérescence restent élevés.
@@ -91,40 +90,27 @@ Que devient un administré dont la dégénérescence dépasse les seuils accepta
 Il cesse d’être un administré. Il devient une ressource secondaire.
 
 ---
-
 ### _Question_
 
 Certains observateurs parlent d’un système inhumain.
 
-Réponse  
-Nous avons dépassé ce stade depuis longtemps.  
-L’humain est une phase, pas un objectif.
+### _Réponse_  
+Nous avons dépassé ce stade depuis longtemps. L’humain est une phase, pas un objectif.
 
 ---
-
 ### _Question_
 
 Pensez‑vous qu’Adminis Libris puisse un jour perdre le contrôle ?
 
-Réponse  
-Non.  
-Le contrôle est une illusion narrative.  
-Nous parlons de stabilité dynamique.
+### _Réponse_
+Non. Le contrôle est une illusion narrative. Nous parlons de stabilité dynamique.
 
 ---
-
 ### _Question_
 
 Dernière question. Dormez‑vous bien, Administrateur ?
-
-Réponse  
-Le sommeil est un mécanisme de récupération.  
-J’ai été optimisé pour m’en passer partiellement.
-
-_(Silence)_
-
-Mais je vous remercie de vous en soucier.  
-C’est… inhabituel.
+### _Réponse_  
+Le sommeil est un mécanisme de récupération. J’ai été optimisé pour m’en passer partiellement. _(Silence)_ Mais je vous remercie de vous en soucier. C’est… inhabituel.
 
 ---
 
