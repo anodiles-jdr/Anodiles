@@ -3,7 +3,7 @@ tags:
   - Nécrocauste
   - Témoignage
 ---
-Je suis née âme livrée, et je suis devenue âme libre. Sans la révolution et sans les Voyageurs, je n’aurais jamais pu accomplir cette transition — ni vivre assez longtemps pour en voir les fruits. Aujourd’hui, sur Providence, je suis responsable de la conscription. C’est un rôle fondamental : sans une armée solide, disciplinée et unifiée, notre île‑patrie ne serait qu’un territoire de plus offert en pâture aux puissances alentours.
+Je suis née âme livrée, et je suis devenue âme libre. Sans la révolution et sans les Voyageurs, je n’aurais jamais pu accomplir cette transition — ni vivre assez longtemps pour en voir les fruits. Aujourd'hui, sur Providence, je suis responsable de la conscription. C’est un rôle fondamental : sans une armée solide, disciplinée et unifiée, notre île‑patrie ne serait qu’un territoire de plus offert en pâture aux puissances alentours.
 
 Tous nos hommes et nos femmes suivent trois années d’entraînement obligatoire. Pas de privilèges, pas d’exemptions. Nous enseignons quatre arts de la guerre issus des différentes cultures d’Anodiles :  
 la marine, la défense et le génie, l’assaut, et les opérations extérieures.  
@@ -11,7 +11,7 @@ Mon but n’est pas de faire de chacun un héros, mais de s’assurer que tous p
 
 Il ne faut pas oublier que nous sommes un peuple de paysans : fils, filles, petits‑fils, arrière‑petites‑filles de cultivateurs. Providence n’a pas, comme d’autres, une longue tradition de castes guerrières, d’ordres militaires ou de lignées de combattants. Ce sont des travailleurs de la terre que nous menons au combat contre des ennemis rompus à la guerre. Et pourtant… ils se tiennent debout. Ils apprennent. Ils deviennent redoutables.
 
-Nous avons un profond respect pour nos conscrits. Le programme est exigeant, mais les résultats parlent d’eux‑mêmes. Je déconseille vivement à quiconque tient à sa vie — et à l’intégrité de son visage — de provoquer un républicain ivre dans une auberge. Longtemps, nous avons été des brebis offertes aux loups. Aujourd’hui, nous sommes des ours, et les loups se tiennent à distance.
+Nous avons un profond respect pour nos conscrits. Le programme est exigeant, mais les résultats parlent d’eux‑mêmes. Je déconseille vivement à quiconque tient à sa vie — et à l’intégrité de son visage — de provoquer un républicain ivre dans une auberge. Longtemps, nous avons été des brebis offertes aux loups. Aujourd'hui, nous sommes des ours, et les loups se tiennent à distance.
 
 Notre grande innovation, c’est d’avoir permis à _tous_ de prendre les armes. Et d’avoir instauré la conscription continue. Chaque année, entre les récoltes, l’île entière passe en “mode guerre”. Les villages se mobilisent, les clans se coordonnent, et nous menons des manœuvres à l’échelle de tout le territoire. C’est la meilleure façon de maintenir nos acquis, de garder nos réflexes aiguisés et de rappeler aux puissants voisins que nous ne serons plus jamais dociles.
 
