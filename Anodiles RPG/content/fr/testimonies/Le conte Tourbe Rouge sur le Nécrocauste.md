@@ -1,7 +1,9 @@
 ---
-tags:
-  - Nécrocauste
-  - Témoignage
+title: Conte Tourbe Rouge
+type: testimonies
+period: imperial-restauration
+origin: empire
+editorial-state: canonical
 ---
 Pour beaucoup, nous avons tort. C’est ce que disent les gens d’aujourd’hui, ceux qui n’ont jamais eu à faire face aux crises de l’époque. Ils jugent avec leur confort, leurs certitudes et leurs morales bien rangées.  
 Mais au commencement, le nécrocauste n’était pas une monstruosité : c’était, objectivement, la moins mauvaise solution.

@@ -48,46 +48,5 @@
   ],
   "frontMatter.framework.id": "11ty",
   "frontMatter.preview.host": "http://localhost:8080",
-  "frontMatter.content.pageFolders": [
-    {
-      "title": "Elementaires",
-      "path": "[[workspace]]/Elementaires"
-    },
-    {
-      "title": "Empire",
-      "path": "[[workspace]]/Empire"
-    },
-    {
-      "title": "Introduction",
-      "path": "[[workspace]]/Introduction"
-    },
-    {
-      "title": "Monarchie de brevets",
-      "path": "[[workspace]]/Monarchie de brevets"
-    },
-    {
-      "title": "Manuel MJ",
-      "path": "[[workspace]]/Manuel MJ"
-    },
-    {
-      "title": "Témoignages",
-      "path": "[[workspace]]/Témoignages"
-    },
-    {
-      "title": "Histoire",
-      "path": "[[workspace]]/Histoire"
-    },
-    {
-      "title": "Manuel Joueurs",
-      "path": "[[workspace]]/Manuel Joueurs"
-    },
-    {
-      "title": "Factions",
-      "path": "[[workspace]]/Factions"
-    },
-    {
-      "title": "Ecologie",
-      "path": "[[workspace]]/Ecologie"
-    }
-  ]
+  "frontMatter.content.pageFolders": []
 }
