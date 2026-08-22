@@ -165,6 +165,7 @@ Les Voyageurs sont rares, discrets, mais omniprésents dans l’imaginaire colle
 Ils naviguent, négocient, observent… et parfois agissent, toujours avec prudence.
 
 Leur héritage le plus durable n’est pas technologique, ni militaire, ni mystique :  c’est l’idée que le monde peut changer.
+
 # Conclusion
 
 Les Voyageurs sont un mystère vivant au cœur d’Anodiles.

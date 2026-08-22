@@ -1,17 +1,17 @@
 ---
-tags:
-  - Ecologie
+title: dvat
+type: creature
+period: imperial-union
+origin:
+editorial-state: canonical
 ---
-### Créature de guerre de la Démonocratie
+# Créature de guerre de la Démonocratie
 
-_(Archive militaire — Herganat)_
-
-![[Pasted image 20260401212811.png]]
----
+(Archive militaire — Herganat)
 
 ## Morphologie et origine
 
-Le nom _dvat_ provient de l’onomatopée caractéristique produite par le claquement de ses ailes lorsqu’il prend son envol.
+Le nom de cette créature provient de l’onomatopée caractéristique produite par le claquement de ses ailes lorsqu’il prend son envol.
 
 Le dvat est une créature mi‑cheval, mi‑lézard, de taille comparable à celle d’un cheval de trait. Il possède :
 
@@ -22,10 +22,7 @@ Le dvat est une créature mi‑cheval, mi‑lézard, de taille comparable à cel
 
 Les dvats côtiers présentent des griffes palmées, adaptation leur permettant un excellent déplacement aquatique.
 
-La tête, de forme équine, est trompeuse.  
-Le dvat est un prédateur carnivore, à la dentition lupine, parfaitement adapté à la déchirure et à la mise à mort.
-
----
+La tête, de forme équine, est trompeuse car c'est en réalité un prédateur carnivore, à la dentition lupine, parfaitement adaptée à la déchirure et à la mise à mort.
 
 ## Comportement et capacités
 
@@ -47,8 +44,6 @@ Il convient de rappeler aux voyageurs imprudents que :
 > le dvat consomme toutes les formes de chair animale  
 > — y compris la vôtre.
 
----
-
 ## Répartition et état sauvage
 
 À l’état naturel, les dvats sont rares, tout comme les chevaux dans l’Anneau d’îles.
@@ -59,8 +54,6 @@ On les rencontre principalement :
 - occasionnellement en pleine mer, en hardes dispersées
 
 Les dvats sauvages sont volontairement préservés par Herganat. Cette protection n’est pas motivée par la compassion, mais par la nécessité de maintenir une diversité génétique exploitable.
-
----
 
 ## Exploitation militaire
 
@@ -75,8 +68,6 @@ Le cri du dvat — un croassement grave rappelant celui d’un corbeau géant �
 Les unités montées légères servent d’éclaireurs navals.  
 Ces formations sont connues sous le nom de Portes‑Dvats.
 
----
-
 ## Contrôle et sélection
 
 Les dvats, leurs cavaliers et leurs dresseurs sont surveillés par un corps de démons d’élite.  
@@ -90,12 +81,12 @@ Des siècles de sélection ont permis d’atteindre les performances actuelles :
 
 Le dvat n’est pas un symbole, il est un système d’arme vivant, stable, reproductible, et administré.
 
----
+::: {.gm-summary}
 
-## Statut canon (résumé MJ)
+- Créature naturelle, modifiée et sélectionnée
+- Arme stratégique de la Démonocratie
+- Produit majeur de la bio-ingénierie démonocratique
+- Sauvagerie fonctionnelle, jamais chaotique
+- Présence synonyme de pression militaire immédiate
 
-- ✅ le dvat est une créature naturelle, modifiée et sélectionnée
-- ✅ exploité comme arme stratégique
-- ✅ produit de la Démonocratie
-- ✅ sauvagerie fonctionnelle, pas chaotique
-- ✅ présence signale une pression militaire immédiate
+:::
